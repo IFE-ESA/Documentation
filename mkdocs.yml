@@ -1,9 +1,9 @@
-site_name: Project Documentation
+site_name: TIMES-V5 Documentation
 
 theme:
   name: material
 
-docs_dir: docs
+docs_dir: .
 
 nav:
-  - Home: index.md
+  - Home: Documentation of IFE-TIMES v1 20201005 FINAL&Signed.md
