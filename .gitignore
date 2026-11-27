@@ -1,0 +1,23 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build output (Read the Docs builds the site itself)
+docs/build/
+mirror/build/
+
+# PDF crops used only for the mirror contact sheet (regenerable)
+mirror/figures/_orig/
+
+# Source report files are kept out of git (decided 2026-11-27).
+# Root-anchored so nothing in subfolders is ignored by accident.
+/*.docx
+/*.pdf
+
+# macOS
+.DS_Store
+
+# Word/PDF builds and QA output (tools/rtd2docx.py, tools/qa_roundtrip.py)
+/build/

@@ -1,0 +1,5577 @@
+[
+ {
+  "id": "11181FuelwoodRemovals",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "11181FuelwoodRemovals",
+  "title": "11181: Fuelwood removals (roundwood), by wood-group (1 000 m³) 2007-2025",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/statbank/table/11181"
+ },
+ {
+  "id": "11561EnergyBalance",
+  "citation-key": "11561EnergyBalance",
+  "title": "11561: Energy balance. Supply and consumption, by energy product 1990-2025",
+  "type": "dataset",
+  "URL": "https://www.ssb.no/en/statbank/table/11561"
+ },
+ {
+  "id": "13931GreenhouseGases",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "13931GreenhouseGases",
+  "title": "13931: Greenhouse gases, by source, energy product and pollutant, GWP-values due to Paris agreement (AR5) 1990-2025",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/statbank/table/13931"
+ },
+ {
+  "id": "14093ProduksjonAv",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "14093ProduksjonAv",
+  "title": "14093: Produksjon av elektrisk kraft, etter krafttype og prisområde (MWh) 2020M01-2026M07",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/statbank/table/14093/"
+ },
+ {
+  "id": "2014STEMPSIBericht1406",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     11
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Kannan",
+    "given": "Ramachandran"
+   },
+   {
+    "family": "Turton",
+    "given": "Hal"
+   }
+  ],
+  "citation-key": "2014STEMPSIBericht1406",
+  "issued": {
+   "date-parts": [
+    [
+     "2014",
+     12
+    ]
+   ]
+  },
+  "number": "14-06",
+  "publisher": "Paul Scherrer Institut",
+  "title": "Switzerland energy transition scenarios– Development  and application of the Swiss TIMES Energy system  Model (STEM) Switzerland Energy Transition Scenarios –  Development and Application of the Swiss TIMES  Energy System Model (STEM)",
+  "type": "report",
+  "URL": "https://www.psi.ch/sites/default/files/import/eem/PublicationsTabelle/2014-STEM-PSI-Bericht-14-06.pdf"
+ },
+ {
+  "id": "2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     30
+    ]
+   ]
+  },
+  "citation-key": "2025",
+  "container-title": "Statnett",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     2,
+     3
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Store endringer i kraftsystemet gir høy verdi av strømnettet - ny Langsiktig markedsanalyse mot 2050",
+  "type": "webpage",
+  "URL": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2025/store-endringer-i-kraftsystemet-gir-hoy-verdi-av-stromnettet--ny-langsiktig-markedsanalyse-mot-2050/"
+ },
+ {
+  "id": "2026",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     10,
+     26
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Statnett",
+    "given": ""
+   }
+  ],
+  "citation-key": "2026",
+  "container-title": "Statnett",
+  "issued": {
+   "date-parts": [
+    [
+     "2026",
+     10,
+     19
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Langsiktig markedsanalyse 2026-2060",
+  "title-short": "Langsiktig markedsanalyse 2026-2060",
+  "type": "webpage",
+  "URL": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/new-page/"
+ },
+ {
+  "id": "CommercialRoundwoodRemovals",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "CommercialRoundwoodRemovals",
+  "container-title": "SSB",
+  "language": "en",
+  "title": "Commercial roundwood removals",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/skogbruk/statistikk/skogavvirkning-for-salg"
+ },
+ {
+  "id": "ConsumerPriceIndex",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "ConsumerPriceIndex",
+  "container-title": "SSB",
+  "language": "en",
+  "title": "Consumer price index",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/konsumprisindeksen"
+ },
+ {
+  "id": "DataUtbygdeVindkraftverk",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "DataUtbygdeVindkraftverk",
+  "language": "nb",
+  "title": "Data for utbygde vindkraftverk i Norge - NVE",
+  "type": "webpage",
+  "URL": "https://www.nve.no/energi/energisystem/vindkraft-paa-land/data-for-utbygde-vindkraftverk-i-norge/"
+ },
+ {
+  "id": "DistrictHeatingDistrict",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "DistrictHeatingDistrict",
+  "container-title": "SSB",
+  "language": "en",
+  "title": "District heating and district cooling",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling"
+ },
+ {
+  "id": "EUReferenceScenario",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "EUReferenceScenario",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "EU Reference Scenario 2020 - European Commission",
+  "type": "dataset",
+  "URL": "https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en"
+ },
+ {
+  "id": "EuroEURNorwegian",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     4,
+     2
+    ]
+   ]
+  },
+  "citation-key": "EuroEURNorwegian",
+  "title": "Euro (EUR) to Norwegian Krone (NOK) 2020 Historical Exchange Rates",
+  "type": "webpage",
+  "URL": "https://www.valutafx.com/history/eur-nok-2020"
+ },
+ {
+  "id": "FAOSTAT",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "FAOSTAT",
+  "title": "FAOSTAT",
+  "type": "webpage",
+  "URL": "https://www.fao.org/faostat/en/#data/FO"
+ },
+ {
+  "id": "Forestry",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "Forestry",
+  "container-title": "SSB",
+  "language": "en",
+  "title": "Forestry",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/jord-skog-jakt-og-fiskeri/skogbruk"
+ },
+ {
+  "id": "FutureWindDeployment2019",
+  "citation-key": "FutureWindDeployment2019",
+  "ISBN": "978-1-5231-5187-5",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "language": "en",
+  "publisher": "International Renewable Energy Agency",
+  "publisher-place": "Abu Dhabi",
+  "source": "Open WorldCat",
+  "title": "Future of wind: deployment, investment, technology, grid integration and socio-economic aspects",
+  "title-short": "Future of wind",
+  "type": "book"
+ },
+ {
+  "id": "GENeSYS_MODdataDataParameters",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "GENeSYS_MODdataDataParameters",
+  "issued": {
+   "date-parts": [
+    [
+     "2025"
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "The Global Energy System Model (GENeSYS-MOD) - Transport Data repository",
+  "type": "dataset",
+  "URL": "https://github.com/GENeSYS-MOD/GENeSYS_MOD.data/blob/main/Data/Parameters/Par_CapitalCost/transport.xlsx"
+ },
+ {
+  "id": "GettingStartedTIMES2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "GettingStartedTIMES2025",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     10,
+     24
+    ]
+   ]
+  },
+  "language": "en-US",
+  "title": "Getting started with TIMES modelling | ETSAP",
+  "type": "post-weblog",
+  "URL": "https://iea-etsap.org/getting-started-withtimes-modelling/"
+ },
+ {
+  "id": "HvorMyeBaerekraftig",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "HvorMyeBaerekraftig",
+  "language": "nb",
+  "title": "Hvor mye bærekraftig biomasse har vi i Norge til energiformål?",
+  "type": "webpage",
+  "URL": "https://enova.no/nb/bedrift/industri/hvor-mye-baerekraftig-biomasse-har-vi-i-norge-til-energiformal"
+ },
+ {
+  "id": "IdentifiseringAvUtredningsomrader2023",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "IdentifiseringAvUtredningsomrader2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023",
+     4,
+     25
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Identifisering av utredningsområder for havvind: Nye områder for havvind",
+  "title-short": "Identifisering av utredningsområder for havvind",
+  "type": "webpage",
+  "URL": "https://veiledere.nve.no/havvind/identifisering-av-utredningsomrader-for-havvind/nye-omrader-for-havvind/"
+ },
+ {
+  "id": "IfetimesnorwayV42024",
+  "author": [
+   {
+    "family": "Haaskjold",
+    "given": "Kristina"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Chang",
+    "given": "Miguel"
+   },
+   {
+    "family": "Myhre",
+    "given": "Stine Fleischer"
+   }
+  ],
+  "citation-key": "IfetimesnorwayV42024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "publisher": "Institutt for energiteknikk.",
+  "title": "Documentation of IFE-TIMES-Norway v4 (Report No. 2024/004).",
+  "type": "document",
+  "URL": "https://hdl.handle.net/11250/3154438"
+ },
+ {
+  "id": "JRCPhotovoltaicGeographical",
+  "accessed": {
+   "date-parts": [
+    [
+     "2024",
+     2,
+     28
+    ]
+   ]
+  },
+  "citation-key": "JRCPhotovoltaicGeographical",
+  "title": "JRC Photovoltaic Geographical Information System (PVGIS) - European Commission",
+  "type": "webpage",
+  "URL": "https://re.jrc.ec.europa.eu/pvg_tools/en/"
+ },
+ {
+  "id": "KonsesjonssakerNVE",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "KonsesjonssakerNVE",
+  "language": "nb",
+  "title": "Konsesjonssaker - NVE",
+  "type": "webpage",
+  "URL": "https://www.nve.no/konsesjon/konsesjonssaker/"
+ },
+ {
+  "id": "LEURODUALG0822eindd",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "STADLER"
+   }
+  ],
+  "citation-key": "LEURODUALG0822eindd",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "title": "EURODUAL BI-MODE LOCOMOTIVE",
+  "type": "document",
+  "URL": "https://www.stadlerrail.com/api/docs/x/2a67ccd40d/leurodualg0822_en.pdf"
+ },
+ {
+  "id": "LangsiktigKraftmarkedsanalyse2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "NVE",
+    "given": ""
+   }
+  ],
+  "citation-key": "LangsiktigKraftmarkedsanalyse2025",
+  "language": "nb",
+  "title": "Langsiktig kraftmarkedsanalyse 2025 - NVE",
+  "type": "webpage",
+  "URL": "https://www.nve.no/energi/analyser-og-statistikk/langsiktig-kraftmarkedsanalyse/langsiktig-kraftmarkedsanalyse-2025/"
+ },
+ {
+  "id": "LongestElectricityCable2008",
+  "accessed": {
+   "date-parts": [
+    [
+     "2020",
+     1,
+     1
+    ]
+   ]
+  },
+  "citation-key": "LongestElectricityCable2008",
+  "issued": {
+   "date-parts": [
+    [
+     "2008"
+    ]
+   ]
+  },
+  "title": "The longest electricity cable in the world is operational",
+  "type": "webpage",
+  "URL": "https://web.archive.org/web/20110727130201/http://www.norned-auction.org/news/newsitems/The_longest_electricity_cable_in_the_world_is_operational.aspx"
+ },
+ {
+  "id": "MeldSt14",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     11
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "Samferdselsdepartementet"
+   }
+  ],
+  "citation-key": "MeldSt14",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "number": "Meld. St. 14 (2023-2024)",
+  "title": "Nasjonal transportplan 2025-2036",
+  "type": "report",
+  "URL": "https://www.regjeringen.no/contentassets/aaee20cf5a9e468ea97fd51638c42407/no/pdfs/stm202320240014000dddpdfs.pdf"
+ },
+ {
+  "id": "Metodeogforutsetningerforberegningavkostnaderforkraftproduksjon",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "Metodeogforutsetningerforberegningavkostnaderforkraftproduksjon",
+  "title": "metode-og-forutsetninger-for-beregning-av-kostnader-for-kraftproduksjon",
+  "type": "webpage",
+  "URL": "https://www.nve.no/media/17531/metode-og-forutsetninger-for-beregning-av-kostnader-for-kraftproduksjon.pdf"
+ },
+ {
+  "id": "NVERapportNr",
+  "citation-key": "NVERapportNr",
+  "language": "no",
+  "source": "Zotero",
+  "title": "NVE Rapport nr. 25/2023: Langsiktig kraftmarkedsanalyse 2023 : energiomstillingen – en balansegang",
+  "type": "article-journal"
+ },
+ {
+  "id": "NVETemakart",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "NVETemakart",
+  "language": "no",
+  "title": "NVE Temakart",
+  "type": "webpage",
+  "URL": "https://temakart.nve.no/"
+ },
+ {
+  "id": "NasjonaleBefolkningsframskrivinger",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "NasjonaleBefolkningsframskrivinger",
+  "container-title": "SSB",
+  "language": "nb",
+  "title": "Nasjonale befolkningsframskrivinger",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/befolkning/befolkningsframskrivinger/statistikk/nasjonale-befolkningsframskrivinger"
+ },
+ {
+  "id": "NordLink",
+  "citation-key": "NordLink",
+  "publisher-place": "www.statnett.no",
+  "title": "NordLink",
+  "type": "webpage",
+  "URL": "https://web.archive.org/web/20200803052556/https://www.statnett.no/en/our-projects/interconnectors/nordlink/"
+ },
+ {
+  "id": "NorskHydrogenforum2021",
+  "citation-key": "NorskHydrogenforum2021",
+  "container-title": "Norsk Hydrogenforum",
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     4,
+     29
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Norsk Hydrogenforum",
+  "type": "webpage",
+  "URL": "https://www.hydrogen.no/"
+ },
+ {
+  "id": "Norway",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "Norway",
+  "container-title": "HPT - Heat Pumping Technologies",
+  "language": "en",
+  "title": "Norway",
+  "type": "post-weblog",
+  "URL": "https://heatpumpingtechnologies.org/info-member-country-market/norway/"
+ },
+ {
+  "id": "PrisPaNettleie",
+  "citation-key": "PrisPaNettleie",
+  "container-title": "Elvia",
+  "language": "no",
+  "title": "Pris på nettleie",
+  "type": "webpage",
+  "URL": "https://www.elvia.no/nettleie/alt-om-nettleiepriser/"
+ },
+ {
+  "id": "ProsjektLIMCO2018",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "TØI"
+   }
+  ],
+  "citation-key": "ProsjektLIMCO2018",
+  "container-title": "Transportøkonomisk institutt",
+  "issued": {
+   "date-parts": [
+    [
+     "2018",
+     8,
+     21
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Prosjekt: LIMCO",
+  "title-short": "Prosjekt",
+  "type": "webpage",
+  "URL": "https://www.toi.no/prosjekt-limco/"
+ },
+ {
+  "id": "RoadTrafficVolumes",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "RoadTrafficVolumes",
+  "issued": {
+   "date-parts": [
+    [
+     "2026",
+     4,
+     8
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Road traffic volumes",
+  "type": "dataset",
+  "URL": "https://www.ssb.no/en/transport-og-reiseliv/landtransport/statistikk/kjorelengder"
+ },
+ {
+  "id": "RotterdamBunkerPrices",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "RotterdamBunkerPrices",
+  "container-title": "Ship & Bunker",
+  "title": "Rotterdam Bunker Prices",
+  "type": "webpage",
+  "URL": "https://shipandbunker.com/prices/emea/nwe/nl-rtm-rotterdam"
+ },
+ {
+  "id": "RotterdamBunkerPricesa",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     21
+    ]
+   ]
+  },
+  "citation-key": "RotterdamBunkerPricesa",
+  "container-title": "Ship & Bunker",
+  "title": "Rotterdam Bunker Prices",
+  "type": "webpage",
+  "URL": "https://shipandbunker.com/prices/emea/nwe/nl-rtm-rotterdam"
+ },
+ {
+  "id": "StrategiskKonsekvensutredningAv2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "StrategiskKonsekvensutredningAv2025",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     6,
+     23
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Strategisk konsekvensutredning av vindkraft til havs - del 2: Sammendrag",
+  "title-short": "Strategisk konsekvensutredning av vindkraft til havs - del 2",
+  "type": "webpage",
+  "URL": "https://veiledere.nve.no/havvind/strategisk-konsekvensutredning-av-vindkraft-til-havs-del-2/sammendrag/"
+ },
+ {
+  "id": "StromforbrukDataOg",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "StromforbrukDataOg",
+  "language": "no",
+  "title": "Strømforbruk | Data og innsikt | Elhub",
+  "type": "webpage",
+  "URL": "https://elhub.no/data-og-innsikt/stromforbruk#str%C3%B8mproduksjon"
+ },
+ {
+  "id": "TechnoeconomicStudyHydrogen",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     25
+    ]
+   ]
+  },
+  "citation-key": "TechnoeconomicStudyHydrogen",
+  "title": "Techno-economic Study of Hydrogen as a Heavy-duty Truck Fuel. A Case Study on the Transport Corridor Oslo – Trondheim",
+  "type": "thesis",
+  "URL": "https://upcommons.upc.edu/entities/publication/e45f64f0-dddc-4769-a0bf-a17affd44b0b"
+ },
+ {
+  "id": "TechnologyDataEnergy2024",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     11
+    ]
+   ]
+  },
+  "citation-key": "TechnologyDataEnergy2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024",
+     12,
+     5
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Technology Data for Energy Storage | Energistyrelsen",
+  "type": "report",
+  "URL": "https://ens.dk/en/analyses-and-statistics/technology-data-energy-storage"
+ },
+ {
+  "id": "TechnologyDataGeneration2024",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "Energistyrelsen (Danish Energy Agency)"
+   }
+  ],
+  "citation-key": "TechnologyDataGeneration2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024",
+     12,
+     5
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Technology Data for Generation of Electricity and District Heating | Energistyrelsen",
+  "type": "webpage",
+  "URL": "https://ens.dk/en/analyses-and-statistics/technology-data-generation-electricity-and-district-heating"
+ },
+ {
+  "id": "TeknologikatalogFornybareBraendstoffer2024",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "TeknologikatalogFornybareBraendstoffer2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024",
+     11,
+     25
+    ]
+   ]
+  },
+  "language": "da",
+  "title": "Teknologikatalog for fornybare brændstoffer | Energistyrelsen",
+  "type": "webpage",
+  "URL": "https://ens.dk/analyser-og-statistik/teknologikatalog-fornybare-braendstoffer"
+ },
+ {
+  "id": "TeknologikatalogIndividuelleOpvarmningsanlaeg2024",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "TeknologikatalogIndividuelleOpvarmningsanlaeg2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024",
+     11,
+     25
+    ]
+   ]
+  },
+  "language": "da",
+  "title": "Teknologikatalog for individuelle opvarmningsanlæg | Energistyrelsen",
+  "type": "webpage",
+  "URL": "https://ens.dk/analyser-og-statistik/teknologikatalog-individuelle-opvarmningsanlaeg"
+ },
+ {
+  "id": "TrackingCO2Storage",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "TrackingCO2Storage",
+  "container-title": "Clean Air Task Force",
+  "language": "en",
+  "title": "Tracking CO₂ Storage Project Capacity in Europe",
+  "type": "post-weblog",
+  "URL": "https://www.catf.us/carbon-capture/storage-project-capacity-europe/"
+ },
+ {
+  "id": "Trafikkdata",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "Trafikkdata",
+  "title": "Trafikkdata",
+  "type": "dataset",
+  "URL": "https://trafikkdata.atlas.vegvesen.no/kart?zoom=10.12&lat=60.6408&lon=9.0947&trpids=43804V181223"
+ },
+ {
+  "id": "UKNorwayLinkBags2017",
+  "accessed": {
+   "date-parts": [
+    [
+     "2020",
+     1,
+     1
+    ]
+   ]
+  },
+  "citation-key": "UKNorwayLinkBags2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "title": "UK-Norway link bags EU grant",
+  "type": "webpage",
+  "URL": "https://renews.biz/106040/northconnect-scores-eu-cash/"
+ },
+ {
+  "id": "WorldsLongestInterconnector2015",
+  "accessed": {
+   "date-parts": [
+    [
+     "2020",
+     1,
+     1
+    ]
+   ]
+  },
+  "citation-key": "WorldsLongestInterconnector2015",
+  "issued": {
+   "date-parts": [
+    [
+     "2015"
+    ]
+   ]
+  },
+  "title": "The world's longest interconnector gets underway",
+  "type": "webpage",
+  "URL": "https://web.archive.org/web/20150328234545/http://www2.nationalgrid.com/Mediacentral/UK-Press-releases/2015/The-world-s-longest-interconnector-gets-underway/"
+ },
+ {
+  "id": "YaraOpensRenewable2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "citation-key": "YaraOpensRenewable2025",
+  "container-title": "Yara None",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     5,
+     13
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Yara opens renewable hydrogen plant: “A major milestone” | Yara International",
+  "title-short": "Yara opens renewable hydrogen plant",
+  "type": "webpage",
+  "URL": "https://www.yara.com/corporate-releases/yara-opens-renewable-hydrogen-plant-a-major-milestone/"
+ },
+ {
+  "id": "airbusAirbusHydrogenPower2023",
+  "author": [
+   {
+    "literal": "Airbus"
+   }
+  ],
+  "citation-key": "airbusAirbusHydrogenPower2023",
+  "issue": "01/03/2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "At Airbus, hydrogen power gathers pace",
+  "type": "article-journal",
+  "URL": "https://www.airbus.com/en/newsroom/stories/2023-06-at-airbus-hydrogen-power-gathers-pace"
+ },
+ {
+  "id": "americanautomobileassociationaaaAAAElectricVehicle2019",
+  "author": [
+   {
+    "literal": "American Automobile Association (AAA)"
+   }
+  ],
+  "citation-key": "americanautomobileassociationaaaAAAElectricVehicle2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "publisher-place": "https://newsroom.aaa.com/wp-content/uploads/2019/06/AAA-Electric-Vehicle-Range-Testing-Report.pdf",
+  "title": "AAA Electric Vehicle Range Testing",
+  "type": "report"
+ },
+ {
+  "id": "andersenDetNyeVannkraftverket2018",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Andersen",
+    "given": "Ina"
+   }
+  ],
+  "citation-key": "andersenDetNyeVannkraftverket2018",
+  "container-title": "Tu.no",
+  "issued": {
+   "date-parts": [
+    [
+     "2018",
+     9,
+     17
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Det nye vannkraftverket skal få 15 prosent mer energi fra de samme vannmagasinene",
+  "type": "webpage",
+  "URL": "https://www.tu.no/artikler/det-nye-vannkraftverket-skal-fa-15-prosent-mer-energi-fra-de-samme-vannmagasinene/446258"
+ },
+ {
+  "id": "avinor2026",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     10,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Avinor",
+    "given": ""
+   }
+  ],
+  "citation-key": "avinor2026",
+  "issued": {
+   "date-parts": [
+    [
+     "2026"
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Emissions from air traffic and the value chain",
+  "type": "webpage",
+  "URL": "https://om.avinor.no/en/sustainability-at-avinor/climate-and-environmental-policy/emissions-from-air-traffic-and-the-value-chain/"
+ },
+ {
+  "id": "backeEMPIREOpensourceModel2022",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Backe",
+    "given": "Stian"
+   },
+   {
+    "family": "Skar",
+    "given": "Christian"
+   },
+   {
+    "family": "Granado",
+    "given": "Pedro Crespo",
+    "non-dropping-particle": "del"
+   },
+   {
+    "family": "Turgut",
+    "given": "Ozgu"
+   },
+   {
+    "family": "Tomasgard",
+    "given": "Asgeir"
+   }
+  ],
+  "citation-key": "backeEMPIREOpensourceModel2022",
+  "container-title": "SoftwareX",
+  "container-title-short": "SoftwareX",
+  "DOI": "10.1016/j.softx.2021.100877",
+  "ISSN": "2352-7110",
+  "issued": {
+   "date-parts": [
+    [
+     "2022",
+     1,
+     1
+    ]
+   ]
+  },
+  "page": "100877",
+  "source": "ScienceDirect",
+  "title": "EMPIRE: An open-source model based on multi-horizon programming for energy transition analyses",
+  "title-short": "EMPIRE",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S2352711021001424",
+  "volume": "17"
+ },
+ {
+  "id": "bisottiDirectAirCapture2022",
+  "author": [
+   {
+    "family": "Bisotti",
+    "given": "F."
+   },
+   {
+    "family": "Ringdal",
+    "given": "H."
+   },
+   {
+    "family": "Rosnes",
+    "given": "O."
+   },
+   {
+    "family": "Mathisen",
+    "given": "A."
+   },
+   {
+    "family": "Hoff",
+    "given": "K.A."
+   },
+   {
+    "family": "Hovland",
+    "given": "J."
+   }
+  ],
+  "citation-key": "bisottiDirectAirCapture2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "page": "109",
+  "publisher-place": "https://www.miljodirektoratet.no/publikasjoner/2023/mars-2023/direct-air-capture-of-co2/",
+  "title": "Direct air capture of CO2 – a review",
+  "type": "report"
+ },
+ {
+  "id": "bjerkanZeroemissionPassengerVessels2018",
+  "author": [
+   {
+    "family": "Bjerkan",
+    "given": "Kristin Ystmark"
+   },
+   {
+    "family": "Damman",
+    "given": "Sigrid"
+   },
+   {
+    "family": "Karlsson",
+    "given": "Hampus"
+   },
+   {
+    "family": "Meland",
+    "given": "Solveig"
+   },
+   {
+    "family": "Sondell",
+    "given": "Rebecka Snefuglli"
+   },
+   {
+    "family": "Sundseth",
+    "given": "Kyrre"
+   }
+  ],
+  "citation-key": "bjerkanZeroemissionPassengerVessels2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "number": "ISBN: 978-82-14-06778-1",
+  "title": "Zero-emission passenger vessels for public tendered services. State of the art of technology and current use",
+  "type": "report"
+ },
+ {
+  "id": "bjornstad2025",
+  "author": [
+   {
+    "family": "Bjørnstad",
+    "given": "Linnéa Filippa"
+   }
+  ],
+  "citation-key": "bjornstad2025",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     9,
+     22
+    ]
+   ]
+  },
+  "language": "en",
+  "publisher": "Thema Consulting Group",
+  "source": "Zotero",
+  "title": "Long-term power consumption development for data centers in Norway",
+  "type": "report",
+  "URL": "https://static1.squarespace.com/static/6129463e215bea534c574c7f/t/68d15c8fa322771d27a02abf/1758551183178/Power+consumption+development+for+data+centers+in+Norway+-+report_updated+22.09.pdf"
+ },
+ {
+  "id": "bouckaertNetZero20502021",
+  "author": [
+   {
+    "family": "Bouckaert",
+    "given": "Stéphanie"
+   },
+   {
+    "family": "Pales",
+    "given": "Araceli Fernandez"
+   },
+   {
+    "family": "McGlade",
+    "given": "Christophe"
+   },
+   {
+    "family": "Remme",
+    "given": "Uwe"
+   },
+   {
+    "family": "Wanner",
+    "given": "Brent"
+   },
+   {
+    "family": "Varro",
+    "given": "Laszlo"
+   },
+   {
+    "family": "D’Ambrosio",
+    "given": "Davide"
+   },
+   {
+    "family": "Spencer",
+    "given": "Thomas"
+   }
+  ],
+  "citation-key": "bouckaertNetZero20502021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "language": "en",
+  "publisher": "IEA",
+  "source": "Zotero",
+  "title": "Net Zero by 2050 - A Roadmap for the Global Energy Sector",
+  "type": "report"
+ },
+ {
+  "id": "changTransitionNorwegianMaritime2024",
+  "author": [
+   {
+    "family": "Chang",
+    "given": "Miguel"
+   },
+   {
+    "family": "Hjelkrem",
+    "given": "Odd André"
+   },
+   {
+    "family": "Bakker",
+    "given": "Steffen"
+   },
+   {
+    "family": "Espegren",
+    "given": "Kari Aamodt"
+   }
+  ],
+  "citation-key": "changTransitionNorwegianMaritime2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.ntnu.no/documents/1284688443/1285504199/NTRANS+Report+02-24.pdf/f2859687-6319-05e2-558b-6a1d0d464d85?t=1717671716248",
+  "title": "Transition of the Norwegian maritime sector",
+  "type": "report"
+ },
+ {
+  "id": "chardonnetEarlyBusinessCases2017",
+  "author": [
+   {
+    "family": "Chardonnet",
+    "given": "C."
+   },
+   {
+    "family": "Bart",
+    "given": "F."
+   },
+   {
+    "family": "Vos",
+    "given": "L. De"
+   },
+   {
+    "family": "Genoese",
+    "given": "F."
+   },
+   {
+    "family": "Roig",
+    "given": "G."
+   },
+   {
+    "family": "Lacroix",
+    "given": "T. De"
+   },
+   {
+    "family": "Ha",
+    "given": "T."
+   },
+   {
+    "family": "Genabet",
+    "given": "B. Van"
+   }
+  ],
+  "citation-key": "chardonnetEarlyBusinessCases2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "publisher": "Tractebel and Hinicio",
+  "publisher-place": "FCH-JU",
+  "title": "Early business cases for H2 in energy storage and more broadly power to H2 applications",
+  "type": "report",
+  "URL": "https://www.fch.europa.eu/publications/study-early-business-cases-h2-energy-storage-and-more-broadly-power-h2-applications"
+ },
+ {
+  "id": "coleCostProjectionsUtilityScale2021",
+  "author": [
+   {
+    "family": "Cole",
+    "given": "Wesley"
+   },
+   {
+    "family": "Frazier",
+    "given": "A. Will"
+   },
+   {
+    "family": "Augustine",
+    "given": "Chad"
+   }
+  ],
+  "citation-key": "coleCostProjectionsUtilityScale2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "number": "NREL/TP-6A20-79236",
+  "publisher": "National Renewable Energy Laboratory (NREL)",
+  "title": "Cost Projections for Utility-Scale Battery Storage: 2021 Update",
+  "type": "report"
+ },
+ {
+  "id": "coleCostProjectionsUtilityScale2025",
+  "author": [
+   {
+    "family": "Cole",
+    "given": "Wesley"
+   },
+   {
+    "family": "Ramasamy",
+    "given": "Vignesh"
+   },
+   {
+    "family": "Turan",
+    "given": "Merve"
+   }
+  ],
+  "citation-key": "coleCostProjectionsUtilityScale2025",
+  "container-title": "Renewable Energy",
+  "issued": {
+   "date-parts": [
+    [
+     "2025"
+    ]
+   ]
+  },
+  "language": "en",
+  "source": "Zotero",
+  "title": "Cost Projections for Utility-Scale Battery Storage: 2025 Update",
+  "type": "article-journal"
+ },
+ {
+  "id": "danebergsImpactZeroEmission2022",
+  "author": [
+   {
+    "family": "Danebergs",
+    "given": "Janis"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Espegren",
+    "given": "Kari Aamodt"
+   }
+  ],
+  "citation-key": "danebergsImpactZeroEmission2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "number": "IFE/E-2021/002",
+  "publisher": "Institute for Energy Technology",
+  "title": "Impact of zero emission heavy-duty transport on the energy system",
+  "type": "report"
+ },
+ {
+  "id": "danebergsTechnoeconomicStudyHydrogen2019",
+  "author": [
+   {
+    "family": "Danebergs",
+    "given": "Janis"
+   }
+  ],
+  "citation-key": "danebergsTechnoeconomicStudyHydrogen2019",
+  "contributor": [
+   {
+    "family": "Ulleberg",
+    "given": "Øystein"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "publisher": "KTH",
+  "publisher-place": "DiVA",
+  "title": "Techno-economic Study of Hydrogen as a Heavy-duty Truck Fuel: A Case Study on the Transport Corridor Oslo–Trondheim",
+  "type": "thesis",
+  "URL": "http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-264253",
+  "volume": "MSc thesis"
+ },
+ {
+  "id": "danebergsTechnoeconomicStudyHydrogen2020",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     25
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Danebergs",
+    "given": "Janis"
+   }
+  ],
+  "citation-key": "danebergsTechnoeconomicStudyHydrogen2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "publisher": "Universitat Politècnica de Catalunya",
+  "source": "Google Scholar",
+  "title": "Techno-economic study of hydrogen as a heavy-duty truck fuel. a case study on the transport corridor oslo–trondheim",
+  "type": "article-journal",
+  "URL": "https://upcommons.upc.edu/entities/publication/e45f64f0-dddc-4769-a0bf-a17affd44b0b"
+ },
+ {
+  "id": "danishenergyagencyTechnologyDataEnergy2018",
+  "author": [
+   {
+    "literal": "Danish Energy Agency"
+   },
+   {
+    "literal": "Energinet"
+   }
+  ],
+  "citation-key": "danishenergyagencyTechnologyDataEnergy2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "page": "53–59",
+  "title": "Technology Data - Energy storage: Large-scale hot water tanks",
+  "type": "article-journal"
+ },
+ {
+  "id": "dnv",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     30
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "DNV",
+    "given": ""
+   }
+  ],
+  "citation-key": "dnv",
+  "container-title": "DNV",
+  "language": "no",
+  "title": "Energy Transition Outlook Norway 2024",
+  "type": "webpage",
+  "URL": "https://www.dnv.no/publications/energy-transition-norway-2024/"
+ },
+ {
+  "id": "dnv-glAnalyseAvTiltak2018",
+  "author": [
+   {
+    "literal": "DNV-GL"
+   }
+  ],
+  "citation-key": "dnv-glAnalyseAvTiltak2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "title": "Analyse av tiltak for reduksjon av klimagassutslipp fra innenriks skipstrafikk. Report 2018-0181 (in Norwegian)",
+  "type": "report"
+ },
+ {
+  "id": "dnv-glBarometerGronnOmstilling2019",
+  "author": [
+   {
+    "literal": "DNV-GL"
+   }
+  ],
+  "citation-key": "dnv-glBarometerGronnOmstilling2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Barometer for grønn omstilling av skipsfarten. Report 2019-0080 (in Norwegian)",
+  "type": "report"
+ },
+ {
+  "id": "dnv-glReduksjonAvKlimagassutslipp2019",
+  "author": [
+   {
+    "literal": "DNV-GL"
+   }
+  ],
+  "citation-key": "dnv-glReduksjonAvKlimagassutslipp2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Reduksjon av klimagassutslipp fra innenriks skipstrafikk. Report 2019-0939 (in Norwegian)",
+  "type": "report"
+ },
+ {
+  "id": "elhub.no2026",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     30
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "elhub.no",
+    "given": ""
+   }
+  ],
+  "citation-key": "elhub.no2026",
+  "issued": {
+   "date-parts": [
+    [
+     "2026"
+    ]
+   ]
+  },
+  "language": "no",
+  "title": "Strømforbruk i datasentre",
+  "type": "webpage",
+  "URL": "https://elhub.no/data-og-innsikt/stromforbruk-i-datasentre"
+ },
+ {
+  "id": "elviaNettleieBedrifterOg2021",
+  "accessed": {
+   "date-parts": [
+    [
+     "2021",
+     1,
+     1
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "Elvia"
+   }
+  ],
+  "citation-key": "elviaNettleieBedrifterOg2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "publisher": "Elvia",
+  "title": "Nettleie bedrifter og næring",
+  "type": "webpage",
+  "URL": "https://www.elvia.no/nettleie/alt-om-nettleiepriser/nettleiepriser-for-bedrifter-og-naering/ 2021-data: https://assets.ctfassets.net/jbub5thfds15/1AF2ZIYzKLRfutJ4czd12V/c7495eb426579566a93236ea00704b7e/Nettleiepriser_og_effekttariff_bedrift_i_Oslo_og_Viken_Elvia_2021.pdf"
+ },
+ {
+  "id": "energidepartementetNOU202642026",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Energidepartementet",
+    "given": ""
+   }
+  ],
+  "citation-key": "energidepartementetNOU202642026",
+  "container-title": "Regjeringen.no",
+  "genre": "NOU",
+  "issued": {
+   "date-parts": [
+    [
+     "2026",
+     4,
+     8
+    ]
+   ]
+  },
+  "language": "nb-NO",
+  "publisher": "regjeringen.no",
+  "title": "NOU 2026: 4 - Kjernekraft i Norge?",
+  "title-short": "NOU 2026",
+  "type": "webpage",
+  "URL": "https://www.regjeringen.no/no/dokumenter/nou-2026-4/id3155361/"
+ },
+ {
+  "id": "energistyrelsendanishenergyagencyTechnologyDataCarbon2021",
+  "author": [
+   {
+    "literal": "Energistyrelsen (Danish Energy Agency)"
+   }
+  ],
+  "citation-key": "energistyrelsendanishenergyagencyTechnologyDataCarbon2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "title": "Technology Data Carbon capture, transport and storage",
+  "type": "report",
+  "URL": "https://ens.dk/sites/ens.dk/files/Analyser/technology_data_for_carbon_capture_transport_and_storage.pdf"
+ },
+ {
+  "id": "energistyrelsendanishenergyagencyTechnologyDataRenewable2017",
+  "author": [
+   {
+    "literal": "Energistyrelsen (Danish Energy Agency)"
+   }
+  ],
+  "citation-key": "energistyrelsendanishenergyagencyTechnologyDataRenewable2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "title": "Technology Data Renewable fuels",
+  "type": "report",
+  "URL": "https://ens.dk/sites/ens.dk/files/Analyser/version_10_-_technology_data_for_renewable_fuels.pdf"
+ },
+ {
+  "id": "enovaMulighetsstudieBioenergiIndustrien2012",
+  "author": [
+   {
+    "literal": "Enova"
+   }
+  ],
+  "citation-key": "enovaMulighetsstudieBioenergiIndustrien2012",
+  "issued": {
+   "date-parts": [
+    [
+     "2012",
+     9
+    ]
+   ]
+  },
+  "page": "127",
+  "title": "Mulighetsstudie - Bioenergi i Industrien",
+  "type": "report"
+ },
+ {
+  "id": "enovaSmartVarmtvannsbereder2022",
+  "author": [
+   {
+    "literal": "ENOVA"
+   }
+  ],
+  "citation-key": "enovaSmartVarmtvannsbereder2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.enova.no/privat/alle-energitiltak/smart-varmtvannsbereder/",
+  "title": "Smart varmtvannsbereder",
+  "type": "report"
+ },
+ {
+  "id": "enovaTuneNullutslippskjoretoy2024",
+  "author": [
+   {
+    "literal": "ENOVA"
+   }
+  ],
+  "citation-key": "enovaTuneNullutslippskjoretoy2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.enova.no/bedrift/landtransport/tunge-nullutslippskjoretoy/",
+  "title": "Tune nullutslippskjøretøy",
+  "type": "report"
+ },
+ {
+  "id": "entso-eCompletingMapPower2020",
+  "author": [
+   {
+    "literal": "ENTSO-E"
+   }
+  ],
+  "citation-key": "entso-eCompletingMapPower2020",
+  "container-title": "Ten-Year Network Development Plan 2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "page": "66–67",
+  "title": "Completing the map -Power system needs in 2030 and 2040",
+  "type": "article-journal"
+ },
+ {
+  "id": "ericsonDirectLoadControl2009",
+  "author": [
+   {
+    "family": "Ericson",
+    "given": "Torgeir"
+   }
+  ],
+  "citation-key": "ericsonDirectLoadControl2009",
+  "container-title": "Energy Policy",
+  "ISSN": "0301-4215",
+  "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     "2009"
+    ]
+   ]
+  },
+  "page": "3502–3512",
+  "title": "Direct load control of residential water heaters",
+  "type": "article-journal",
+  "volume": "37"
+ },
+ {
+  "id": "euRefuelEUAviationInitiative2023",
+  "author": [
+   {
+    "literal": "EU"
+   }
+  ],
+  "citation-key": "euRefuelEUAviationInitiative2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "RefuelEU aviation initiative: Council adopts new law to decarbonise the aviation sector",
+  "type": "article-journal",
+  "URL": "https://www.consilium.europa.eu/en/press/press-releases/2023/10/09/refueleu-aviation-initiative-council-adopts-new-law-to-decarbonise-the-aviation-sector/"
+ },
+ {
+  "id": "europeancommissionPVGISUserManual",
+  "accessed": {
+   "date-parts": [
+    [
+     "2024",
+     2,
+     28
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "European Commission"
+   }
+  ],
+  "citation-key": "europeancommissionPVGISUserManual",
+  "title": "PVGIS user manual",
+  "type": "webpage",
+  "URL": "https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/getting-started-pvgis/pvgis-user-manual_en"
+ },
+ {
+  "id": "europeancommissionPhotovoltaicGeographicalInformation2022",
+  "author": [
+   {
+    "literal": "European Commission"
+   }
+  ],
+  "citation-key": "europeancommissionPhotovoltaicGeographicalInformation2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "title": "Photovoltaic Geographical Information System",
+  "type": "webpage",
+  "URL": "https://re.jrc.ec.europa.eu/pvg_tools/en/"
+ },
+ {
+  "id": "europeancommissionWhatEUETS",
+  "author": [
+   {
+    "literal": "European Commission"
+   }
+  ],
+  "citation-key": "europeancommissionWhatEUETS",
+  "publisher-place": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/what-eu-ets_en",
+  "title": "What is the EU ETS?",
+  "type": "report",
+  "URL": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/what-eu-ets_en"
+ },
+ {
+  "id": "europeanparliamentRegulationEU20192019",
+  "author": [
+   {
+    "literal": "European Parliament"
+   },
+   {
+    "literal": "Council of the European Union"
+   }
+  ],
+  "citation-key": "europeanparliamentRegulationEU20192019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "publisher-place": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R1242-20190725",
+  "title": "Regulation (EU) 2019/1242 of the European Parliament and of the Council: setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC",
+  "type": "report"
+ },
+ {
+  "id": "figenbaum360GradersAnalyse2020",
+  "author": [
+   {
+    "family": "Figenbaum",
+    "given": "Erik"
+   },
+   {
+    "family": "Ydersbond",
+    "given": "Inga M"
+   },
+   {
+    "family": "Amundsen",
+    "given": "Astrid H"
+   },
+   {
+    "family": "Pinchasik",
+    "given": "Daniel Ruben"
+   },
+   {
+    "family": "Thorne",
+    "given": "Rebecca J"
+   },
+   {
+    "family": "Fridstrøm",
+    "given": "Lasse"
+   },
+   {
+    "family": "Kolbenstvedt",
+    "given": "Marika"
+   }
+  ],
+  "citation-key": "figenbaum360GradersAnalyse2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     2,
+     5
+    ]
+   ]
+  },
+  "number": "1744/2019",
+  "publisher": "TØI",
+  "title": "360 graders analyse av potensialet for nullutslippskjøretøy",
+  "type": "report",
+  "URL": "https://www.toi.no/publikasjoner/360-graders-analyse-av-potensialet-for-nullutslippskjoretoy-article35999-8.html"
+ },
+ {
+  "id": "finansdepartementetKarbonprisbanerBrukSamfunnsokonomiske2023",
+  "accessed": {
+   "date-parts": [
+    [
+     "2024",
+     6,
+     18
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Finansdepartementet",
+    "given": ""
+   }
+  ],
+  "citation-key": "finansdepartementetKarbonprisbanerBrukSamfunnsokonomiske2023",
+  "container-title": "Regjeringen.no",
+  "genre": "Innhold",
+  "issued": {
+   "date-parts": [
+    [
+     "2023",
+     12,
+     21
+    ]
+   ]
+  },
+  "language": "nb-NO",
+  "publisher": "regjeringen.no",
+  "title": "Karbonprisbaner for bruk i samfunnsøkonomiske analyser i 2024",
+  "type": "webpage",
+  "URL": "https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/karbonprisbaner-for-bruk-i-samfunnsokonomiske-analyser/karbonprisbaner-for-bruk-i-samfunnsokonomiske-analyser-i-2024/id3020031/"
+ },
+ {
+  "id": "finansdepartementetKarbonprisbanerBrukSamfunnsokonomiske2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Finansdepartementet",
+    "given": ""
+   }
+  ],
+  "citation-key": "finansdepartementetKarbonprisbanerBrukSamfunnsokonomiske2025",
+  "container-title": "Regjeringen.no",
+  "genre": "Redaksjonellartikkel",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     12,
+     18
+    ]
+   ]
+  },
+  "language": "nb-NO",
+  "publisher": "regjeringen.no",
+  "title": "Karbonprisbaner for bruk i samfunnsøkonomiske analyser i 2026",
+  "type": "webpage",
+  "URL": "https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/karbonprisbaner-for-bruk-i-samfunnsokonomiske-analyser/karbonprisbaner-for-bruk-i-samfunnsokonomiske-analyser-i-2026/id3143808/"
+ },
+ {
+  "id": "franzMarEFuelROADMAPSustainable2021",
+  "author": [
+   {
+    "family": "Franz",
+    "given": "Sebastian"
+   },
+   {
+    "family": "Shapiro-Bengtsen",
+    "given": "Sara"
+   },
+   {
+    "family": "Campion",
+    "given": "Nicolas"
+   },
+   {
+    "family": "Backer",
+    "given": "Martijn"
+   },
+   {
+    "family": "Münster",
+    "given": "Marie"
+   }
+  ],
+  "citation-key": "franzMarEFuelROADMAPSustainable2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "publisher": "Danmarks Tekniske Universitet (DTU)",
+  "title": "MarE-Fuel: ROADMAP for sustainable maritime fuels",
+  "type": "report"
+ },
+ {
+  "id": "fridstromForseringEllerHvileskjaer2021",
+  "author": [
+   {
+    "family": "Fridstrøm",
+    "given": "Lasse"
+   },
+   {
+    "family": "Østli",
+    "given": "Vegard"
+   }
+  ],
+  "citation-key": "fridstromForseringEllerHvileskjaer2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "number": "1846/2021",
+  "publisher": "Transportøkonomisk institutt (TØI)",
+  "title": "Forsering eller hvileskjær? Om utsiktene til klimagasskutt i veitransporten",
+  "type": "report",
+  "URL": "https://www.toi.no/publikasjoner/forsering-eller-hvileskjaer-om-utsiktene-til-klimagasskutt-i-veitransporten"
+ },
+ {
+  "id": "fultonTechnologyFuelTransition2019",
+  "author": [
+   {
+    "family": "Fulton",
+    "given": "Lewis"
+   },
+   {
+    "family": "Miller",
+    "given": "Marshall"
+   },
+   {
+    "family": "Burke",
+    "given": "Andrew"
+   },
+   {
+    "family": "Wang",
+    "given": "Qian"
+   },
+   {
+    "family": "Yang",
+    "given": "Chris"
+   }
+  ],
+  "citation-key": "fultonTechnologyFuelTransition2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Technology and Fuel Transition Scenarios to Low Greenhouse Gas Futures for Cars and Trucks in California",
+  "type": "report"
+ },
+ {
+  "id": "genciacontrolESLFuelsBiofuel2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "genciacontrol",
+    "given": ""
+   }
+  ],
+  "citation-key": "genciacontrolESLFuelsBiofuel2025",
+  "container-title": "ESL Fuels",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     7,
+     15
+    ]
+   ]
+  },
+  "language": "en-GB",
+  "title": "ESL Fuels Biofuel Market Update – Q2 2025",
+  "type": "post-weblog",
+  "URL": "https://www.eslfuels.com/esl-fuels-biofuel-market-update-q2-2025/"
+ },
+ {
+  "id": "genciacontrolESLFuelsBiofuel2025a",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     21
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "genciacontrol",
+    "given": ""
+   }
+  ],
+  "citation-key": "genciacontrolESLFuelsBiofuel2025a",
+  "container-title": "ESL Fuels",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     7,
+     15
+    ]
+   ]
+  },
+  "language": "en-GB",
+  "title": "ESL Fuels Biofuel Market Update – Q2 2025",
+  "type": "post-weblog",
+  "URL": "https://www.eslfuels.com/esl-fuels-biofuel-market-update-q2-2025/"
+ },
+ {
+  "id": "grootResearchProjectEconomic2020",
+  "author": [
+   {
+    "family": "Groot",
+    "given": "Stan De"
+   }
+  ],
+  "citation-key": "grootResearchProjectEconomic2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.ecovat.eu/wp-content/uploads/2020/06/20200609-Ecovat_comparison_Final_ENG-gecomprimeerd.pdf",
+  "title": "Research project: Economic and thermal performance of Ecovat and comparable thermal energy storage technologies",
+  "type": "report"
+ },
+ {
+  "id": "haaskjoldDocumentationIFETIMESNorwayV32023",
+  "author": [
+   {
+    "family": "Haaskjold",
+    "given": "Kristina"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   }
+  ],
+  "citation-key": "haaskjoldDocumentationIFETIMESNorwayV32023",
+  "collection-title": "IFE/E-2022/013",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "number": "IFE/E-2022/013, ISBN: 978-82-7017-943-5",
+  "title": "Documentation of IFE-TIMES-Norway v3",
+  "type": "report"
+ },
+ {
+  "id": "hagmanBusserEuroVI2016",
+  "author": [
+   {
+    "family": "Hagman",
+    "given": "R"
+   }
+  ],
+  "citation-key": "hagmanBusserEuroVI2016",
+  "genre": "Online report",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "publisher": "Transportøkonomisk institutt",
+  "publisher-place": "Oslo",
+  "title": "Busser, Euro VI og avgassutslipp-Status 2016/2017",
+  "type": "webpage",
+  "URL": "https://www.toi.no/publikasjoner/busser-euro-vi-og-avgassutslipp-status-2016-2017-article34177-8.html"
+ },
+ {
+  "id": "hagmanKlimaogMiljovennligTransport2017",
+  "author": [
+   {
+    "family": "Hagman",
+    "given": "Rolf"
+   },
+   {
+    "family": "Amundsen",
+    "given": "Astrid H"
+   },
+   {
+    "family": "Ranta",
+    "given": "Mikaela"
+   },
+   {
+    "family": "Nylund",
+    "given": "Nils-Olof"
+   }
+  ],
+  "citation-key": "hagmanKlimaogMiljovennligTransport2017",
+  "container-title": "Vurderinger av Mulige Teknologiske Løsninger for Buss",
+  "genre": "Online report",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "title": "Klima-og miljøvennlig transport frem mot 2025",
+  "type": "webpage",
+  "URL": "https://www.toi.no/publikasjoner/klima-og-miljovennlig-transport-frem-mot-2025-vurderinger-av-mulige-teknologiske-losninger-for-buss-article34407-8.html"
+ },
+ {
+  "id": "hjelkremEnergikartVerktoyBeregne2021",
+  "author": [
+   {
+    "family": "Hjelkrem",
+    "given": "Odd André"
+   },
+   {
+    "family": "Rennemo",
+    "given": "Ola Martin"
+   },
+   {
+    "family": "Dahl",
+    "given": "Erlend"
+   },
+   {
+    "family": "Malmin",
+    "given": "Olav Kåre"
+   },
+   {
+    "family": "Babri",
+    "given": "Sahar"
+   },
+   {
+    "family": "Karlsson",
+    "given": "Hampus"
+   }
+  ],
+  "citation-key": "hjelkremEnergikartVerktoyBeregne2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "title": "Energikart - Et verktøy for å beregne, visualisere og analysere energibruk i transportsektoren i Norge",
+  "type": "report"
+ },
+ {
+  "id": "hoviEmailITEMMetodikk2020",
+  "author": [
+   {
+    "family": "Hovi",
+    "given": "Inger Beate"
+   }
+  ],
+  "citation-key": "hoviEmailITEMMetodikk2020",
+  "genre": "E-mail",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     11,
+     3
+    ]
+   ]
+  },
+  "recipient": [
+   {
+    "literal": "Janis Danebergs"
+   },
+   {
+    "family": "Madslien",
+    "given": "Anne"
+   }
+  ],
+  "title": "E-mail:  ITEM - metodikk for å gjøre en korridoranalyse for tungtransport",
+  "type": "personal_communication"
+ },
+ {
+  "id": "hoviEmailKjorelengderOg2021",
+  "author": [
+   {
+    "family": "Hovi",
+    "given": "Inger Beate"
+   }
+  ],
+  "citation-key": "hoviEmailKjorelengderOg2021",
+  "genre": "E-mail",
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     2,
+     19
+    ]
+   ]
+  },
+  "recipient": [
+   {
+    "literal": "Janis Danebergs"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   }
+  ],
+  "title": "E-mail: Kjørelengder og -bestand lastebiler og trekkvogner fra BIG",
+  "type": "personal_communication"
+ },
+ {
+  "id": "hoviUserExperiencesEarly2019",
+  "author": [
+   {
+    "family": "Hovi",
+    "given": "Inger Beate"
+   },
+   {
+    "family": "Pinchasik",
+    "given": "Daniel Ruben"
+   },
+   {
+    "family": "Thorne",
+    "given": "Rebecca Jayne"
+   },
+   {
+    "family": "Figenbaum",
+    "given": "Erik"
+   }
+  ],
+  "citation-key": "hoviUserExperiencesEarly2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "number": "1734/2019",
+  "title": "User experiences from the early adopters of heavy-duty zero-emission vehicles in Norway: barriers and opportunities",
+  "type": "report"
+ },
+ {
+  "id": "iea-etsapEnergyTechnologySystems",
+  "author": [
+   {
+    "literal": "IEA-ETSAP"
+   }
+  ],
+  "citation-key": "iea-etsapEnergyTechnologySystems",
+  "publisher": "IEA-ETSAP",
+  "title": "Energy Technology Systems Analysis Program",
+  "type": "webpage",
+  "URL": "www.iea-etsap.org"
+ },
+ {
+  "id": "iea-etsapIEAETSAPEnergySystems2020",
+  "author": [
+   {
+    "literal": "IEA-ETSAP"
+   }
+  ],
+  "citation-key": "iea-etsapIEAETSAPEnergySystems2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "title": "IEA-ETSAP Energy Systems Analysis Tools",
+  "type": "webpage",
+  "URL": "https://iea-etsap.org/index.php/etsap-tools"
+ },
+ {
+  "id": "ieaFutureHydrogenSeizing2019",
+  "author": [
+   {
+    "literal": "IEA"
+   }
+  ],
+  "citation-key": "ieaFutureHydrogenSeizing2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "The future of hydrogen. Seizing today's opportunities.",
+  "type": "article-journal",
+  "URL": "https://www.iea.org/reports/the-future-of-hydrogen"
+ },
+ {
+  "id": "internationalenergyagencyieaDirectAirCapture2022",
+  "author": [
+   {
+    "literal": "International Energy Agency (IEA)"
+   }
+  ],
+  "citation-key": "internationalenergyagencyieaDirectAirCapture2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher-place": "https://iea.blob.core.windows.net/assets/78633715-15c0-44e1-81df-41123c556d57/DirectAirCapture_Akeytechnologyfornetzero.pdf",
+  "title": "Direct Air Capture: A key technology for net zero",
+  "type": "report"
+ },
+ {
+  "id": "islamExtensiveStudySizing2018",
+  "author": [
+   {
+    "family": "Islam",
+    "given": "Ehsan"
+   },
+   {
+    "family": "Moawad",
+    "given": "Ayman"
+   },
+   {
+    "family": "Kim",
+    "given": "Namdoo"
+   },
+   {
+    "family": "Rousseau",
+    "given": "Aymeric"
+   }
+  ],
+  "citation-key": "islamExtensiveStudySizing2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "publisher": "Argonne National Lab.(ANL), Argonne, IL (United States)",
+  "title": "An Extensive Study on Sizing, Energy Consumption, and Cost of Advanced Vehicle Technologies",
+  "type": "report"
+ },
+ {
+  "id": "johannestrubyetal.Hydrogen4EUChangingPathways2021",
+  "author": [
+   {
+    "literal": "Johannes Trüby et al."
+   }
+  ],
+  "citation-key": "johannestrubyetal.Hydrogen4EUChangingPathways2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "title": "Hydrogen4EU: Changing pathways to enable net zero",
+  "type": "report"
+ },
+ {
+  "id": "kanorsVEDASupport2020",
+  "author": [
+   {
+    "literal": "KanOrs"
+   }
+  ],
+  "citation-key": "kanorsVEDASupport2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "title": "VEDA Support",
+  "type": "webpage",
+  "URL": "https://support.kanors-emr.org/#VEDA-FE/Homepage.htm"
+ },
+ {
+  "id": "karenbyskovlindbergFlexbuildAnnualReport2020",
+  "author": [
+   {
+    "literal": "Karen Byskov Lindberg"
+   },
+   {
+    "literal": "Marius Bagle"
+   },
+   {
+    "literal": "Igor Sartori"
+   },
+   {
+    "literal": "Perni"
+   },
+   {
+    "literal": "Lisa Kvalbein"
+   },
+   {
+    "literal": "Eva Rosenberg"
+   },
+   {
+    "literal": "Mohammadreza Ahang"
+   },
+   {
+    "literal": "Asgeir Tomasgard"
+   },
+   {
+    "literal": "Stefan Jæhnert"
+   }
+  ],
+  "citation-key": "karenbyskovlindbergFlexbuildAnnualReport2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "publisher": "Sintef Community",
+  "title": "Flexbuild Annual Report 1 - Technical report with results analysis",
+  "type": "report"
+ },
+ {
+  "id": "karenbyskovlindbergImpactZeroEnergy2017",
+  "author": [
+   {
+    "family": "Lindberg",
+    "given": "Karen Byskov"
+   }
+  ],
+  "citation-key": "karenbyskovlindbergImpactZeroEnergy2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "publisher": "NTNU",
+  "title": "Impact of Zero Energy Buildings on the Power System. A study of load profiles, flexibility and system investments",
+  "type": "thesis"
+ },
+ {
+  "id": "kieldsenEfficiencyTestMethod2016",
+  "author": [
+   {
+    "family": "Kieldsen",
+    "given": "Andreas"
+   },
+   {
+    "family": "Thingvad",
+    "given": "Andreas"
+   },
+   {
+    "family": "Martinenas",
+    "given": "Sergejus"
+   },
+   {
+    "family": "Sørensen",
+    "given": "Thomas Meier"
+   }
+  ],
+  "citation-key": "kieldsenEfficiencyTestMethod2016",
+  "event-title": "International Battery, Hybrid and Fuel Cell Electric Vehicle Symposium",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "title": "Efficiency test method for electric vehicle chargers",
+  "type": "paper-conference"
+ },
+ {
+  "id": "killinglandPotentialReducedCosts2020",
+  "author": [
+   {
+    "family": "Killingland",
+    "given": "Magnus"
+   },
+   {
+    "family": "Boge",
+    "given": "Matias Krogh"
+   },
+   {
+    "family": "Magneschi",
+    "given": "Guido"
+   }
+  ],
+  "citation-key": "killinglandPotentialReducedCosts2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "publisher-place": "https://ccsnorway.com/app/uploads/sites/6/2020/10/Potential-for-reduced-cost-for-carbon-capture-2019.pdf",
+  "title": "Potential for reduced costs for carbon capture, transport and storage value chains (CCS)",
+  "type": "report"
+ },
+ {
+  "id": "kirkerudLangsiktigKraftmarkedsanalyse20232023",
+  "author": [
+   {
+    "family": "Kirkerud",
+    "given": "Jon Gustav"
+   },
+   {
+    "family": "Buvik",
+    "given": "Magnus"
+   },
+   {
+    "family": "Holm",
+    "given": "Ingrid"
+   },
+   {
+    "family": "Spilde",
+    "given": "Dag"
+   },
+   {
+    "family": "Sørbye",
+    "given": "Maria"
+   },
+   {
+    "family": "Skaansar",
+    "given": "Ellen"
+   },
+   {
+    "family": "Kvandal",
+    "given": "Hege"
+   },
+   {
+    "family": "Birkelund",
+    "given": "Henriette"
+   },
+   {
+    "family": "Skulstad",
+    "given": "Hanna"
+   },
+   {
+    "family": "Petrusson",
+    "given": "Lars"
+   },
+   {
+    "family": "Fjær",
+    "given": "Kyrre"
+   },
+   {
+    "family": "Darras",
+    "given": "Céline"
+   }
+  ],
+  "citation-key": "kirkerudLangsiktigKraftmarkedsanalyse20232023",
+  "collection-editor": [
+   {
+    "literal": "Norwegian water resources and Energy Directorate"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "publisher-place": "https://publikasjoner.nve.no/rapport/2023/rapport2023_25.pdf",
+  "title": "Langsiktig kraftmarkedsanalyse 2023",
+  "type": "report"
+ },
+ {
+  "id": "klima-ogmiljodepartementetForskriftOmBegrensning2004",
+  "author": [
+   {
+    "literal": "Klima- og Miljødepartementet"
+   }
+  ],
+  "citation-key": "klima-ogmiljodepartementetForskriftOmBegrensning2004",
+  "issued": {
+   "date-parts": [
+    [
+     "2004"
+    ]
+   ]
+  },
+  "publisher-place": "https://lovdata.no/dokument/SF/forskrift/2004-06-01-922",
+  "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
+  "type": "report"
+ },
+ {
+  "id": "klimautvalgetOmstillingTilLavutslipp2023",
+  "author": [
+   {
+    "literal": "Klimautvalget"
+   }
+  ],
+  "citation-key": "klimautvalgetOmstillingTilLavutslipp2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "Omstilling til lavutslipp: Veivalg for klimapolitikken mot 2050",
+  "type": "report",
+  "URL": "https://klimautvalget2050.no/2023/10/27/her-er-klimautvalget-2050-sin-utredning/"
+ },
+ {
+  "id": "kraftmarkedet4KRAFTMARKEDETEUROPA",
+  "author": [
+   {
+    "family": "Kraftmarkedet",
+    "given": "Virkninger På"
+   }
+  ],
+  "citation-key": "kraftmarkedet4KRAFTMARKEDETEUROPA",
+  "language": "no",
+  "source": "Zotero",
+  "title": "4 KRAFTMARKEDET I EUROPA 58",
+  "type": "article-journal"
+ },
+ {
+  "id": "kvingeKostnaderVedKarbonfangst2019",
+  "author": [
+   {
+    "family": "Kvinge",
+    "given": "Bjørnar Andreas"
+   },
+   {
+    "family": "Haavardsholm",
+    "given": "Oscar"
+   },
+   {
+    "family": "Vennemo",
+    "given": "Haakon"
+   },
+   {
+    "family": "Eldrup",
+    "given": "Nils Henrik"
+   },
+   {
+    "family": "Thomassen",
+    "given": "Tonje Warholm"
+   }
+  ],
+  "citation-key": "kvingeKostnaderVedKarbonfangst2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "publisher-place": "https://vista-analyse.no/no/publikasjoner/kostnader-ved-karbonfangst-og-lagring-i-norge/",
+  "title": "Kostnader ved karbonfangst og -lagring i Norge",
+  "type": "report"
+ },
+ {
+  "id": "lienLEAPNorge2016Modellering2018",
+  "author": [
+   {
+    "family": "Lien",
+    "given": "Synne Krekling"
+   },
+   {
+    "family": "Langseth",
+    "given": "Benedicte"
+   },
+   {
+    "family": "Spilde",
+    "given": "Dag"
+   },
+   {
+    "family": "Lindberg",
+    "given": "KAren Byskov"
+   }
+  ],
+  "citation-key": "lienLEAPNorge2016Modellering2018",
+  "collection-editor": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "publisher": "NVE",
+  "publisher-place": "Oslo",
+  "title": "LEAP-Norge 2016 Modellering av fremtidig energibehov i Norge i modellverktøyet LEAP",
+  "type": "report"
+ },
+ {
+  "id": "limitsRessursgrunnlagetProduksjonAv2019",
+  "author": [
+   {
+    "family": "Limits",
+    "given": "Carbon"
+   }
+  ],
+  "citation-key": "limitsRessursgrunnlagetProduksjonAv2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Ressursgrunnlaget for produksjon av biogass i Norge i 2030",
+  "type": "report"
+ },
+ {
+  "id": "lindbergModellingElectricHeat2019",
+  "author": [
+   {
+    "family": "Lindberg",
+    "given": "K. B."
+   },
+   {
+    "family": "Bakker",
+    "given": "S. J."
+   },
+   {
+    "family": "Sartori",
+    "given": "I."
+   }
+  ],
+  "citation-key": "lindbergModellingElectricHeat2019",
+  "container-title": "Utilities Policy",
+  "DOI": "10.1016/j.jup.2019.03.004",
+  "ISSN": "0957-1787",
+  "issued": {
+   "date-parts": [
+    [
+     "2019",
+     6,
+     1
+    ]
+   ]
+  },
+  "page": "63–88",
+  "title": "Modelling electric and heat load profiles of non-residential buildings for use in long-term aggregate load forecasts",
+  "type": "article-journal",
+  "URL": "http://www.sciencedirect.com/science/article/pii/S0957178719300128",
+  "volume": "58"
+ },
+ {
+  "id": "lmgmarinPotensialstudieEnergieffektivOg2015",
+  "author": [
+   {
+    "literal": "LMG MARIN"
+   },
+   {
+    "literal": "CMR PROTOTECH"
+   },
+   {
+    "literal": "NORSK ENERGI"
+   }
+  ],
+  "citation-key": "lmgmarinPotensialstudieEnergieffektivOg2015",
+  "issued": {
+   "date-parts": [
+    [
+     "2015"
+    ]
+   ]
+  },
+  "number": "349008‐R‐001",
+  "title": "Potensialstudie - Energieffektiv og klimavennlig fergedrift",
+  "type": "report"
+ },
+ {
+  "id": "loulouDocumentationTIMESModel2005",
+  "author": [
+   {
+    "family": "Loulou",
+    "given": "R."
+   },
+   {
+    "family": "Remme",
+    "given": "U."
+   },
+   {
+    "family": "Kanudia",
+    "given": "A."
+   },
+   {
+    "family": "Lehtila",
+    "given": "A."
+   },
+   {
+    "family": "Goldstein",
+    "given": "G."
+   }
+  ],
+  "citation-key": "loulouDocumentationTIMESModel2005",
+  "issued": {
+   "date-parts": [
+    [
+     "2005"
+    ]
+   ]
+  },
+  "publisher-place": "Energy Technology Systems Analysis Programme",
+  "title": "Documentation for the TIMES Model - Part II",
+  "type": "report",
+  "URL": "http://iea-etsap.org/docs/TIMESDoc-Details.pdf"
+ },
+ {
+  "id": "loulouDocumentationTIMESModel2005a",
+  "author": [
+   {
+    "family": "Loulou",
+    "given": "R."
+   },
+   {
+    "family": "Remme",
+    "given": "U."
+   },
+   {
+    "family": "Kanudia",
+    "given": "A."
+   },
+   {
+    "family": "Lehtila",
+    "given": "A."
+   },
+   {
+    "family": "Goldstein",
+    "given": "G."
+   }
+  ],
+  "citation-key": "loulouDocumentationTIMESModel2005a",
+  "issued": {
+   "date-parts": [
+    [
+     "2005"
+    ]
+   ]
+  },
+  "publisher-place": "Energy Technology Systems Analysis Programme",
+  "title": "Documentation for the TIMES Model - Part I",
+  "type": "report",
+  "URL": "http://iea-etsap.org/docs/TIMESDoc-Details.pdf"
+ },
+ {
+  "id": "loulouDocumentationTIMESModel2005b",
+  "author": [
+   {
+    "family": "Loulou",
+    "given": "Richard"
+   },
+   {
+    "family": "Lehtila",
+    "given": "A."
+   },
+   {
+    "family": "Kanudia",
+    "given": "A."
+   },
+   {
+    "family": "Remme",
+    "given": "U."
+   },
+   {
+    "family": "Goldstein",
+    "given": "G."
+   }
+  ],
+  "citation-key": "loulouDocumentationTIMESModel2005b",
+  "issued": {
+   "date-parts": [
+    [
+     "2005"
+    ]
+   ]
+  },
+  "publisher-place": "Energy Technology Systems Analysis Programme",
+  "title": "Documentation for the TIMES Model - Part III",
+  "type": "report",
+  "URL": "http://iea-etsap.org/docs/TIMESDoc-GAMS.pdf:"
+ },
+ {
+  "id": "loulouStochasticProgrammingTradeoff2019",
+  "author": [
+   {
+    "family": "Loulou",
+    "given": "Richard"
+   },
+   {
+    "family": "Lehtila",
+    "given": "Antti"
+   }
+  ],
+  "citation-key": "loulouStochasticProgrammingTradeoff2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019",
+     10,
+     22
+    ]
+   ]
+  },
+  "publisher": "Energy Technology Systems Analysis Programme",
+  "publisher-place": "https://iea-etsap.org/docs/TIMES-Stochastic-Final2016.pdf",
+  "title": "Stochastic Programming and Tradeoff Analysis in TIMES. TIMES Version 3.9 User Note",
+  "type": "article-journal",
+  "URL": "http://www.iea-etsap.org/web/Docs/TIMES-Stochastic.pdf"
+ },
+ {
+  "id": "lovdataForskriftOmBegrensning2018",
+  "author": [
+   {
+    "literal": "Lovdata"
+   }
+  ],
+  "citation-key": "lovdataForskriftOmBegrensning2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "publisher-place": "Lovdata",
+  "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
+  "type": "webpage",
+  "URL": "https://lovdata.no/dokument/SF/forskrift/2004-06-01-922/KAPITTEL_4#%C2%A73-3"
+ },
+ {
+  "id": "lovdataForskriftOmTekniske2017",
+  "author": [
+   {
+    "literal": "Lovdata"
+   }
+  ],
+  "citation-key": "lovdataForskriftOmTekniske2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "title": "Forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
+  "type": "legal_case",
+  "URL": "https://lovdata.no/dokument/SF/forskrift/2017-06-19-840/KAPITTEL_14#KAPITTEL_14"
+ },
+ {
+  "id": "madslienFramskrivingerGodstransportTil2022",
+  "author": [
+   {
+    "family": "Madslien",
+    "given": "Anne"
+   },
+   {
+    "family": "Hovi",
+    "given": "Inger Beate"
+   },
+   {
+    "family": "Hansen",
+    "given": "Wiljar"
+   }
+  ],
+  "citation-key": "madslienFramskrivingerGodstransportTil2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "number": "1918/2022",
+  "publisher": "Transportøkonomisk institutt (TØI)",
+  "title": "Framskrivinger for godstransport til NTP 2025-2036",
+  "type": "report"
+ },
+ {
+  "id": "madslienFramskrivingerPersontransportTil2022",
+  "author": [
+   {
+    "family": "Madslien",
+    "given": "Anne"
+   },
+   {
+    "family": "Steinsland",
+    "given": "Christian"
+   }
+  ],
+  "citation-key": "madslienFramskrivingerPersontransportTil2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "number": "1926/2022",
+  "publisher": "Transportøkonomisk institutt (TØI)",
+  "title": "Framskrivinger for persontransport til NTP 2025-2036",
+  "type": "report",
+  "URL": "https://www.toi.no/publikasjoner/framskrivinger-for-persontransport-til-ntp-2025-2036"
+ },
+ {
+  "id": "maltbyKartleggingAvMuligheter2021",
+  "author": [
+   {
+    "family": "Maltby",
+    "given": "Lars Petter"
+   },
+   {
+    "family": "Sæterstad",
+    "given": "Trond"
+   },
+   {
+    "family": "Bjelland",
+    "given": "Kåre Bjarte"
+   },
+   {
+    "family": "Landsgård",
+    "given": "Morten"
+   }
+  ],
+  "citation-key": "maltbyKartleggingAvMuligheter2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.prosess21.no/siteassets/ekspertgrupper/231103-prosess21ccs-notat-oppdatert.pdf",
+  "title": "En kartlegging av muligheter for karbonfangst og lagring ved verkene som produserer aluminium, silisium, ferrosilisium og manganlegeringer",
+  "type": "report"
+ },
+ {
+  "id": "menendezTechnicalStudyEffects2024",
+  "author": [
+   {
+    "family": "Menéndez",
+    "given": "Rafa"
+   }
+  ],
+  "citation-key": "menendezTechnicalStudyEffects2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "language": "en",
+  "source": "Zotero",
+  "title": "Technical study for effects of offshore wind for cost development and cost basis processes",
+  "type": "article-journal"
+ },
+ {
+  "id": "mikkelsen130MioEuro2011",
+  "accessed": {
+   "date-parts": [
+    [
+     "2020",
+     1,
+     1
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Mikkelsen",
+    "given": "Søren Damsgaard"
+   }
+  ],
+  "citation-key": "mikkelsen130MioEuro2011",
+  "issued": {
+   "date-parts": [
+    [
+     "2011"
+    ]
+   ]
+  },
+  "title": "130 mio. euro til ny teknologi på Skagerrak 4",
+  "type": "webpage",
+  "URL": "https://web.archive.org/web/20110216015807/http://www.energinet.dk/DA/ANLAEG-OG-PROJEKTER/Nyheder/Sider/130mioeurotilnyteknologipaaSkagerrak4kabel.aspx"
+ },
+ {
+  "id": "miljodirektoratetBiodrivstoffNorge2024",
+  "author": [
+   {
+    "literal": "Miljødirektoratet"
+   }
+  ],
+  "citation-key": "miljodirektoratetBiodrivstoffNorge2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.miljodirektoratet.no/ansvarsomrader/klima/transport/biodrivstoff/",
+  "title": "Biodrivstoff i Norge",
+  "type": "report"
+ },
+ {
+  "id": "miljodirektoratetGronnOmstillingKlimatiltaksanalyse2022",
+  "author": [
+   {
+    "literal": "Miljødirektoratet"
+   }
+  ],
+  "citation-key": "miljodirektoratetGronnOmstillingKlimatiltaksanalyse2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022",
+     9,
+     7
+    ]
+   ]
+  },
+  "number": "M-2346",
+  "page": "148",
+  "title": "Grønn omstilling: Klimatiltaksanalyse for petroleum, industri og energiforsyning",
+  "type": "report",
+  "URL": "https://www.miljodirektoratet.no/publikasjoner/2022/september/gronn-omstilling-klimatiltaksanalyse"
+ },
+ {
+  "id": "miljodirektoratetKlimakur2030Tiltak2019",
+  "author": [
+   {
+    "literal": "Miljødirektoratet"
+   }
+  ],
+  "citation-key": "miljodirektoratetKlimakur2030Tiltak2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "publisher-place": "Miljodirektoratet.no",
+  "title": "Klimakur 2030, tiltak og virkemidler mot 2030 - Teknisk notat",
+  "type": "report",
+  "URL": "https://www.miljodirektoratet.no/klimakur"
+ },
+ {
+  "id": "miljodirektoratetSalgetAvAvansert2020",
+  "author": [
+   {
+    "literal": "Miljødirektoratet"
+   }
+  ],
+  "citation-key": "miljodirektoratetSalgetAvAvansert2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     4,
+     9
+    ]
+   ]
+  },
+  "title": "Salget av avansert biodrivstoff økte i fjor",
+  "type": "webpage",
+  "URL": "https://www.miljodirektoratet.no/aktuelt/nyheter/2019/mai-2019/salget-av-avansert-biodrivstoff-okte-i-fjor"
+ },
+ {
+  "id": "miljodirektoratetUtslippsfaktorerKlimagassregnskapNorge2022",
+  "author": [
+   {
+    "literal": "Miljødirektoratet"
+   }
+  ],
+  "citation-key": "miljodirektoratetUtslippsfaktorerKlimagassregnskapNorge2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.miljodirektoratet.no/ansvarsomrader/klima/klimagasser-utslippstall-regnskap/utslippsfaktorer-klimagassregnskap/",
+  "title": "Utslippsfaktorer i klimagassregnskap for Norge",
+  "type": "report"
+ },
+ {
+  "id": "ministryoffinanceTaxesDuties20242023",
+  "author": [
+   {
+    "literal": "Ministry of Finance"
+   }
+  ],
+  "citation-key": "ministryoffinanceTaxesDuties20242023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "Taxes and duties 2024 (Skatter og avgifter 2024)",
+  "type": "report",
+  "URL": "Prop. 1 LS (2023–2024) - regjeringen.no"
+ },
+ {
+  "id": "multiconsultHvordanSerSolkraftverk2021",
+  "author": [
+   {
+    "literal": "Multiconsult"
+   }
+  ],
+  "citation-key": "multiconsultHvordanSerSolkraftverk2021",
+  "editor": [
+   {
+    "literal": "Bjørn Thorud"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     10,
+     22
+    ]
+   ]
+  },
+  "publisher": "NVE",
+  "title": "Hvordan ser et solkraftverk ut? Hva er mulighetene?",
+  "type": "report",
+  "URL": "PowerPoint-presentasjon (nve.no)"
+ },
+ {
+  "id": "myhrePotentialSolarPower2023",
+  "author": [
+   {
+    "family": "Myhre",
+    "given": "Stine Fleischer"
+   },
+   {
+    "family": "Kvalbein",
+    "given": "Lisa"
+   }
+  ],
+  "citation-key": "myhrePotentialSolarPower2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "number": "IFE/E-2023/006",
+  "publisher": "Institute for Energy Technology (IFE)",
+  "title": "The potential for solar power generation on existing Norwegian rooftops (in Norwegian: Potensialet for solkraftproduksjon på eksisterende norske tak)",
+  "type": "report",
+  "URL": "https://ife.brage.unit.no/ife-xmlui/handle/11250/3092709"
+ },
+ {
+  "id": "naeglerQuantificationEuropeanIndustrial2015",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Naegler",
+    "given": "Tobias"
+   },
+   {
+    "family": "Simon",
+    "given": "Sonja"
+   },
+   {
+    "family": "Klein",
+    "given": "Martin"
+   },
+   {
+    "family": "Gils",
+    "given": "Hans Christian"
+   }
+  ],
+  "citation-key": "naeglerQuantificationEuropeanIndustrial2015",
+  "container-title": "International Journal of Energy Research",
+  "DOI": "10.1002/er.3436",
+  "ISSN": "1099-114X",
+  "issue": "15",
+  "issued": {
+   "date-parts": [
+    [
+     "2015"
+    ]
+   ]
+  },
+  "language": "en",
+  "license": "Copyright © 2015 John Wiley & Sons, Ltd.",
+  "page": "2019–2030",
+  "source": "Wiley Online Library",
+  "title": "Quantification of the European industrial heat demand by branch and temperature level",
+  "type": "article-journal",
+  "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/er.3436",
+  "volume": "39"
+ },
+ {
+  "id": "nordpoolspotMaximumNTCAugust2020",
+  "author": [
+   {
+    "literal": "NordPoolSpot"
+   }
+  ],
+  "citation-key": "nordpoolspotMaximumNTCAugust2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "title": "Maximum NTC August 18, 2020",
+  "type": "webpage",
+  "URL": "https://www.nordpoolgroup.com/4a3b58/globalassets/download-center/tso/max-ntc.pdf"
+ },
+ {
+  "id": "norskfjernvarmeFjernkontrollen",
+  "author": [
+   {
+    "literal": "Norsk Fjernvarme"
+   }
+  ],
+  "citation-key": "norskfjernvarmeFjernkontrollen",
+  "title": "fjernkontrollen",
+  "type": "webpage",
+  "URL": "https://www.fjernkontrollen.no/"
+ },
+ {
+  "id": "norwegianwaterresourcesandenergydirectorateNyeOmraderHavvind2023",
+  "author": [
+   {
+    "literal": "Norwegian Water Resources and Energy Directorate"
+   }
+  ],
+  "citation-key": "norwegianwaterresourcesandenergydirectorateNyeOmraderHavvind2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "publisher-place": "https://veiledere.nve.no/havvind/identifisering-av-utredningsomrader-for-havvind/nye-omrader-for-havvind/",
+  "title": "Nye områder for havvind",
+  "type": "report",
+  "URL": "https://veiledere.nve.no/havvind/identifisering-av-utredningsomrader-for-havvind/nye-omrader-for-havvind/"
+ },
+ {
+  "id": "norwegianwaterresourcesandenergydirectorateRegnemodellHavvindProvided2021",
+  "author": [
+   {
+    "literal": "Norwegian Water Resources and Energy Directorate"
+   }
+  ],
+  "citation-key": "norwegianwaterresourcesandenergydirectorateRegnemodellHavvindProvided2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "title": "Regnemodell havvind. Provided by NVE on request",
+  "type": "dataset"
+ },
+ {
+  "id": "norwegianwaterresourcesandenergydirectorateVirkningerPaKraftsystemet2022",
+  "author": [
+   {
+    "literal": "Norwegian Water Resources and Energy Directorate"
+   }
+  ],
+  "citation-key": "norwegianwaterresourcesandenergydirectorateVirkningerPaKraftsystemet2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.nve.no/energi/energisystem/havvind/virkninger-paa-kraftsystemet-av-ulike-nettloesninger-for-vindkraft-til-havs/",
+  "title": "Virkninger på kraftsystemet av ulike nettløsninger for vindkraft til havs",
+  "type": "article-journal"
+ },
+ {
+  "id": "nveAnalyseOgFramskrivning2019",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveAnalyseOgFramskrivning2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Analyse og framskrivning av kraftproduksjon i Norden til 2040, NVE-rapport Nr 43/2019",
+  "type": "report"
+ },
+ {
+  "id": "nveBioenergiNorge2014",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveBioenergiNorge2014",
+  "issued": {
+   "date-parts": [
+    [
+     "2014"
+    ]
+   ]
+  },
+  "number": "NVE rapport nr 41/2014",
+  "title": "Bioenergi i Norge",
+  "type": "report"
+ },
+ {
+  "id": "nveKostnaderEnergisektoren2017",
+  "author": [
+   {
+    "family": "NVE",
+    "given": ""
+   }
+  ],
+  "citation-key": "nveKostnaderEnergisektoren2017",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "title": "Kostnader i energisektoren",
+  "type": "document"
+ },
+ {
+  "id": "nveKostnaderEnergisektoren2019",
+  "author": [
+   {
+    "family": "Sidelnikova",
+    "given": "Maria"
+   },
+   {
+    "family": "Weir",
+    "given": "David Edward"
+   },
+   {
+    "family": "Groth",
+    "given": "Lisa Henden"
+   },
+   {
+    "family": "Nybakke",
+    "given": "Karen"
+   },
+   {
+    "family": "Stensby",
+    "given": "Kjell Erik"
+   },
+   {
+    "family": "Langseth",
+    "given": "Benedicte"
+   },
+   {
+    "family": "Fonneløp",
+    "given": "Jon Erling"
+   },
+   {
+    "family": "Isachsen",
+    "given": "Olav"
+   },
+   {
+    "family": "Haukeli",
+    "given": "Ingrid"
+   },
+   {
+    "family": "Paulen",
+    "given": "Synnøve-Lill"
+   },
+   {
+    "family": "Magnussen",
+    "given": "Ingrid"
+   },
+   {
+    "family": "Husabø",
+    "given": "Leif Inge"
+   },
+   {
+    "family": "Ericson",
+    "given": "Torgeir"
+   },
+   {
+    "family": "Qureishy",
+    "given": "Thomas Håbu"
+   }
+  ],
+  "citation-key": "nveKostnaderEnergisektoren2019",
+  "ISBN": "978-82-410-1046-0",
+  "ISSN": "1501-2832",
+  "issued": {
+   "date-parts": [
+    [
+     "2015"
+    ]
+   ]
+  },
+  "number": "2/2015",
+  "publisher": "NVE",
+  "title": "Kostnader i energisektoren",
+  "type": "report",
+  "URL": "https://www.nve.no/energiforsyning-og-konsesjon/energiforsyningsdata/dokumentasjon-for-kostnadar-i-energisektoren/"
+ },
+ {
+  "id": "nveKostnaderKraftproduksjon2021",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveKostnaderKraftproduksjon2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "publisher-place": "Oslo",
+  "title": "Kostnader for kraftproduksjon",
+  "type": "webpage",
+  "URL": "https://www.nve.no/energi/analyser-og-statistikk/kostnader-for-kraftproduksjon/?ref=mainmenu"
+ },
+ {
+  "id": "nveLangsiktigKraftmarkedsanalyse201920402019",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveLangsiktigKraftmarkedsanalyse201920402019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Langsiktig kraftmarkedsanalyse 2019-2040, NVE-rapport Nr 41/2019",
+  "type": "report"
+ },
+ {
+  "id": "nveLangsiktigKraftmarkedsanalyse202020402020",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveLangsiktigKraftmarkedsanalyse202020402020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "page": "50",
+  "publisher-place": "Oslo",
+  "title": "Langsiktig kraftmarkedsanalyse 2020 - 2040",
+  "type": "report"
+ },
+ {
+  "id": "nveLangsiktigKraftmarkedsanalyse20232023",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveLangsiktigKraftmarkedsanalyse20232023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023",
+     10,
+     19
+    ]
+   ]
+  },
+  "number": "NVE report 25/2023",
+  "title": "Langsiktig kraftmarkedsanalyse 2023: Energiomstillingen - en balansegang",
+  "type": "report",
+  "URL": "https://www.nve.no/energi/analyser-og-statistikk/langsiktig-kraftmarkedsanalyse/langsiktig-kraftmarkedsanalyse-2023/"
+ },
+ {
+  "id": "nveNettleiestatistikk2022",
+  "accessed": {
+   "date-parts": [
+    [
+     "2022",
+     1,
+     1
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveNettleiestatistikk2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher": "NVE",
+  "title": "Nettleiestatistikk",
+  "type": "webpage",
+  "URL": "https://www.nve.no/reguleringsmyndigheten/publikasjoner-og-data/statistikk/nettleiestatistikk/"
+ },
+ {
+  "id": "nveVindkraftdata2020",
+  "author": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "citation-key": "nveVindkraftdata2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "title": "Vindkraftdata",
+  "type": "webpage",
+  "URL": "https://www.nve.no/energiforsyning/kraftproduksjon/vindkraft/vindkraftdata/"
+ },
+ {
+  "id": "oceanhywayclusterHydrogenInfrastructureMaritime2020",
+  "author": [
+   {
+    "literal": "Ocean Hyway Cluster"
+   }
+  ],
+  "citation-key": "oceanhywayclusterHydrogenInfrastructureMaritime2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     11,
+     29
+    ]
+   ]
+  },
+  "language": "en",
+  "publisher": "Arena Ocean Hyway Cluster",
+  "title": "Hydrogen infrastructure in the maritime industry",
+  "type": "webpage",
+  "URL": "https://www.oceanhywaycluster.no/projectlist/hyinfra"
+ },
+ {
+  "id": "process21Process21Hovedrapport2021",
+  "author": [
+   {
+    "literal": "Process21"
+   }
+  ],
+  "citation-key": "process21Process21Hovedrapport2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "title": "Process21 Hovedrapport",
+  "type": "report",
+  "URL": "https://www.prosess21.no/contentassets/795fa8a170b24cac98c82e075ba0b695/prosess21_rapport_hovedrapport_web_oppdatert_060821.pdf"
+ },
+ {
+  "id": "proostStateoftheArtCAPEX2019",
+  "author": [
+   {
+    "family": "Proost",
+    "given": "Joris"
+   }
+  ],
+  "citation-key": "proostStateoftheArtCAPEX2019",
+  "container-title": "International Journal of Hydrogen Energy",
+  "ISSN": "0360-3199",
+  "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "page": "4406–4413",
+  "title": "State-of-the art CAPEX data for water electrolysers, and their impact on renewable hydrogen price settings",
+  "type": "article-journal",
+  "volume": "44"
+ },
+ {
+  "id": "proostStateoftheArtCAPEX2019a",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     25
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Proost",
+    "given": "Joris"
+   }
+  ],
+  "citation-key": "proostStateoftheArtCAPEX2019a",
+  "collection-title": "European Fuel Cell Conference & Exhibition 2017",
+  "container-title": "International Journal of Hydrogen Energy",
+  "container-title-short": "International Journal of Hydrogen Energy",
+  "DOI": "10.1016/j.ijhydene.2018.07.164",
+  "ISSN": "0360-3199",
+  "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     "2019",
+     2,
+     15
+    ]
+   ]
+  },
+  "page": "4406–4413",
+  "source": "ScienceDirect",
+  "title": "State-of-the art CAPEX data for water electrolysers, and their impact on renewable hydrogen price settings",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360319918324157",
+  "volume": "44"
+ },
+ {
+  "id": "reddiImpactHydrogenRefueling2017",
+  "author": [
+   {
+    "family": "Reddi",
+    "given": "Krishna"
+   },
+   {
+    "family": "Elgowainy",
+    "given": "Amgad"
+   },
+   {
+    "family": "Rustagi",
+    "given": "Neha"
+   },
+   {
+    "family": "Gupta",
+    "given": "Erika"
+   }
+  ],
+  "citation-key": "reddiImpactHydrogenRefueling2017",
+  "container-title": "International Journal of Hydrogen Energy",
+  "DOI": "10.1016/j.ijhydene.2017.05.122",
+  "ISSN": "03603199",
+  "issue": "34",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "page": "21855–21865",
+  "section": "21855",
+  "title": "Impact of hydrogen refueling configurations and market parameters on the refueling cost of hydrogen",
+  "type": "article-journal",
+  "volume": "42"
+ },
+ {
+  "id": "regjeringen.noHavvind2022",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "regjeringen.no",
+    "given": ""
+   }
+  ],
+  "citation-key": "regjeringen.noHavvind2022",
+  "container-title": "Regjeringen.no",
+  "genre": "Innhold",
+  "issued": {
+   "date-parts": [
+    [
+     "2022",
+     6,
+     23
+    ]
+   ]
+  },
+  "language": "nb-NO",
+  "publisher": "regjeringen.no",
+  "title": "Havvind",
+  "type": "webpage",
+  "URL": "https://www.regjeringen.no/no/tema/naringsliv/gront-industriloft/havvind/id2920295/"
+ },
+ {
+  "id": "regjeringen.noStatsbudsjettet2024Skatter2023",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "regjeringen.no",
+    "given": ""
+   }
+  ],
+  "citation-key": "regjeringen.noStatsbudsjettet2024Skatter2023",
+  "container-title": "Regjeringen.no",
+  "genre": "Innhold",
+  "issued": {
+   "date-parts": [
+    [
+     "2023",
+     10,
+     6
+    ]
+   ]
+  },
+  "language": "nb-NO",
+  "publisher": "regjeringen.no",
+  "title": "Statsbudsjettet 2024: Skatter og avgifter",
+  "title-short": "Statsbudsjettet 2024",
+  "type": "webpage",
+  "URL": "https://www.regjeringen.no/no/statsbudsjett/2024/statsbudsjettet-2024-skatter-og-avgifter/id2997157/"
+ },
+ {
+  "id": "reyesWinterHappensEffect2016",
+  "author": [
+   {
+    "family": "Reyes",
+    "given": "Jose Delos"
+   },
+   {
+    "family": "Parsons",
+    "given": "Robert V"
+   },
+   {
+    "family": "Hoemsen",
+    "given": "Ray"
+   }
+  ],
+  "citation-key": "reyesWinterHappensEffect2016",
+  "container-title": "IEEE Transactions on Vehicular Technology",
+  "DOI": "10.1109/TVT.2016.2544178",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "title": "Winter Happens: The Effect of Ambient Temperature on the Travel Range of Electric Vehicles",
+  "type": "article-journal",
+  "volume": "65"
+ },
+ {
+  "id": "ringkjobShorttermSolarWind2020",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Ringkjøb",
+    "given": "Hans-Kristian"
+   },
+   {
+    "family": "Haugan",
+    "given": "Peter M."
+   },
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Lind",
+    "given": "Arne"
+   },
+   {
+    "family": "Wagner",
+    "given": "Fabian"
+   },
+   {
+    "family": "Mesfun",
+    "given": "Sennai"
+   }
+  ],
+  "citation-key": "ringkjobShorttermSolarWind2020",
+  "container-title": "Energy",
+  "container-title-short": "Energy",
+  "DOI": "10.1016/j.energy.2020.118377",
+  "ISSN": "0360-5442",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     10,
+     15
+    ]
+   ]
+  },
+  "page": "118377",
+  "source": "ScienceDirect",
+  "title": "Short-term solar and wind variability in long-term energy system models - A European case study",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360544220314845",
+  "volume": "209"
+ },
+ {
+  "id": "ringkjobTransitioningRemoteArctic2020",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Ringkjøb",
+    "given": "Hans-Kristian"
+   },
+   {
+    "family": "Haugan",
+    "given": "Peter M."
+   },
+   {
+    "family": "Nybø",
+    "given": "Astrid"
+   }
+  ],
+  "citation-key": "ringkjobTransitioningRemoteArctic2020",
+  "container-title": "Applied Energy",
+  "container-title-short": "Applied Energy",
+  "DOI": "10.1016/j.apenergy.2019.114079",
+  "ISSN": "0306-2619",
+  "issued": {
+   "date-parts": [
+    [
+     "2020",
+     1,
+     15
+    ]
+   ]
+  },
+  "page": "114079",
+  "source": "ScienceDirect",
+  "title": "Transitioning remote Arctic settlements to renewable energy systems – A modelling study of Longyearbyen, Svalbard",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0306261919317660",
+  "volume": "258"
+ },
+ {
+  "id": "rosenbergBuildingEnergyEfficiency2023",
+  "author": [
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   }
+  ],
+  "citation-key": "rosenbergBuildingEnergyEfficiency2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023",
+     9,
+     18
+    ]
+   ]
+  },
+  "number": "IFE/E-2023/007",
+  "title": "Building energy efficiency measures in Norwegian energy system analysis",
+  "type": "report"
+ },
+ {
+  "id": "rosenbergNTRANSEnergyDemand2024",
+  "author": [
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Espegren",
+    "given": "Kari Aamodt"
+   },
+   {
+    "family": "Authen",
+    "given": "Mari Lyseid"
+   },
+   {
+    "family": "Haaskjold",
+    "given": "Kristina"
+   },
+   {
+    "family": "Chang",
+    "given": "Miguel"
+   }
+  ],
+  "citation-key": "rosenbergNTRANSEnergyDemand2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "number": "IFE/E-2024/006",
+  "title": "NTRANS Energy demand projections",
+  "type": "report",
+  "URL": "https://ife.brage.unit.no/ife-xmlui/bitstream/handle/11250/3158687/IFE-E-2024-006.pdf?sequence=1"
+ },
+ {
+  "id": "samferdselsdepartementetNasjonalTransportplan202220332021",
+  "author": [
+   {
+    "literal": "Samferdselsdepartementet"
+   }
+  ],
+  "citation-key": "samferdselsdepartementetNasjonalTransportplan202220332021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021"
+    ]
+   ]
+  },
+  "number": "Meld.St. 20 (2020-2021)",
+  "title": "Nasjonal transportplan 2022-2033",
+  "type": "report",
+  "URL": "https://www.regjeringen.no/no/dokumenter/meld.-st.-20-20202021/id2839503/"
+ },
+ {
+  "id": "sartori2016",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     10,
+     28
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Sartori",
+    "given": "Igor"
+   },
+   {
+    "family": "Sandberg",
+    "given": "Nina Holck"
+   },
+   {
+    "family": "Brattebø",
+    "given": "Helge"
+   }
+  ],
+  "citation-key": "sartori2016",
+  "collection-title": "Towards an energy efficient European housing stock: monitoring, mapping and modelling retrofitting processes",
+  "container-title": "Energy and Buildings",
+  "container-title-short": "Energy and Buildings",
+  "DOI": "10.1016/j.enbuild.2016.05.098",
+  "ISSN": "0378-7788",
+  "issued": {
+   "date-parts": [
+    [
+     "2016",
+     11,
+     15
+    ]
+   ]
+  },
+  "page": "13–25",
+  "source": "ScienceDirect",
+  "title": "Dynamic building stock modelling: General algorithm and exemplification for Norway",
+  "title-short": "Dynamic building stock modelling",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S037877881630487X",
+  "volume": "132"
+ },
+ {
+  "id": "sartoriFlexbuildAnnualReport2022",
+  "author": [
+   {
+    "family": "Sartori",
+    "given": "Igor"
+   },
+   {
+    "family": "Lindberg",
+    "given": "Karen Byskov"
+   },
+   {
+    "family": "Bagle",
+    "given": "Marius"
+   },
+   {
+    "family": "Sandberg",
+    "given": "Nina Holck"
+   },
+   {
+    "family": "Lien",
+    "given": "Synne Krekling"
+   },
+   {
+    "family": "Haugen",
+    "given": "Mari"
+   },
+   {
+    "family": "Seljom",
+    "given": "Pernille Merethe Sire"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Kvalbein",
+    "given": "Lisa"
+   },
+   {
+    "family": "Pedrero Alonso",
+    "given": "Raquel"
+   },
+   {
+    "family": "Ahang",
+    "given": "Mohammadreza"
+   },
+   {
+    "family": "Del Granado",
+    "given": "Pedro Crespo"
+   },
+   {
+    "family": "Tomasgard",
+    "given": "Asgeir"
+   },
+   {
+    "family": "Palmer",
+    "given": "Jaume"
+   },
+   {
+    "family": "Kloppenborg",
+    "given": "Jan"
+   },
+   {
+    "family": "Madsen",
+    "given": "Henrik"
+   }
+  ],
+  "citation-key": "sartoriFlexbuildAnnualReport2022",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "publisher-place": "https://sintef.brage.unit.no/sintef-xmlui/handle/11250/2985359",
+  "title": "Flexbuild Annual Report 2. Technical report with results analysis",
+  "type": "report"
+ },
+ {
+  "id": "schmidtEMPOWERINGSUSTAINABLEMOBILITY",
+  "author": [
+   {
+    "family": "Schmidt",
+    "given": "Patrick R"
+   },
+   {
+    "family": "Zittel",
+    "given": "Werner"
+   },
+   {
+    "family": "Weindorf",
+    "given": "Werner"
+   },
+   {
+    "family": "Raksha",
+    "given": "Tetyana"
+   }
+  ],
+  "citation-key": "schmidtEMPOWERINGSUSTAINABLEMOBILITY",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "language": "en",
+  "source": "Zotero",
+  "title": "RENEWABLES IN TRANSPORT 2050 - EMPOWERING A SUSTAINABLE MOBILITY FUTURE WITH ZERO EMISSION FUELS FROM RENEWABLE ELECTRICITY – EUROPE AND GERMANY –",
+  "type": "report"
+ },
+ {
+  "id": "seljomEffectValueEnduse2024",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Haaskjold",
+    "given": "Kristina"
+   }
+  ],
+  "citation-key": "seljomEffectValueEnduse2024",
+  "container-title": "Energy",
+  "container-title-short": "Energy",
+  "DOI": "10.1016/j.energy.2024.130455",
+  "ISSN": "0360-5442",
+  "issued": {
+   "date-parts": [
+    [
+     "2024",
+     4,
+     1
+    ]
+   ]
+  },
+  "page": "130455",
+  "source": "ScienceDirect",
+  "title": "The effect and value of end-use flexibility in the low-carbon transition of the energy system",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360544224002263",
+  "volume": "292"
+ },
+ {
+  "id": "seljomImpactZeroEnergy2017",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Lindberg",
+    "given": "Karen Byskov"
+   },
+   {
+    "family": "Tomasgard",
+    "given": "Asgeir"
+   },
+   {
+    "family": "Doorman",
+    "given": "Gerard"
+   },
+   {
+    "family": "Sartori",
+    "given": "Igor"
+   }
+  ],
+  "citation-key": "seljomImpactZeroEnergy2017",
+  "container-title": "Energy",
+  "container-title-short": "Energy",
+  "DOI": "10.1016/j.energy.2016.12.008",
+  "ISSN": "0360-5442",
+  "issued": {
+   "date-parts": [
+    [
+     "2017",
+     1,
+     1
+    ]
+   ]
+  },
+  "page": "284–296",
+  "source": "ScienceDirect",
+  "title": "The impact of Zero Energy Buildings on the Scandinavian energy system",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360544216318138",
+  "volume": "118"
+ },
+ {
+  "id": "seljomShorttermUncertaintyLongterm2015",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Tomasgard",
+    "given": "Asgeir"
+   }
+  ],
+  "citation-key": "seljomShorttermUncertaintyLongterm2015",
+  "container-title": "Energy Economics",
+  "issue": "C",
+  "issued": {
+   "date-parts": [
+    [
+     "2015"
+    ]
+   ]
+  },
+  "language": "en",
+  "page": "157–167",
+  "publisher": "Elsevier",
+  "source": "ideas.repec.org",
+  "title": "Short-term uncertainty in long-term energy system models — A case study of wind power in Denmark",
+  "type": "article-journal",
+  "URL": "https://ideas.repec.org//a/eee/eneeco/v49y2015icp157-167.html",
+  "volume": "49"
+ },
+ {
+  "id": "seljomStochasticModellingVariable2021",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Seljom",
+    "given": "Pernille"
+   },
+   {
+    "family": "Kvalbein",
+    "given": "Lisa"
+   },
+   {
+    "family": "Hellemo",
+    "given": "Lars"
+   },
+   {
+    "family": "Kaut",
+    "given": "Michal"
+   },
+   {
+    "family": "Ortiz",
+    "given": "Miguel Muñoz"
+   }
+  ],
+  "citation-key": "seljomStochasticModellingVariable2021",
+  "container-title": "Energy",
+  "container-title-short": "Energy",
+  "DOI": "10.1016/j.energy.2021.121415",
+  "ISSN": "0360-5442",
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     12,
+     1
+    ]
+   ]
+  },
+  "page": "121415",
+  "source": "ScienceDirect",
+  "title": "Stochastic modelling of variable renewables in long-term energy models: Dataset, scenario generation & quality of results",
+  "title-short": "Stochastic modelling of variable renewables in long-term energy models",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360544221016637",
+  "volume": "236"
+ },
+ {
+  "id": "sheteligShipbuildingCostEstimation2013",
+  "author": [
+   {
+    "family": "Shetelig",
+    "given": "Haakon"
+   }
+  ],
+  "citation-key": "sheteligShipbuildingCostEstimation2013",
+  "issued": {
+   "date-parts": [
+    [
+     "2013"
+    ]
+   ]
+  },
+  "publisher": "Institutt for marin teknikk",
+  "title": "Shipbuilding cost estimation: parametric approach",
+  "type": "thesis"
+ },
+ {
+  "id": "skotlandHvaBetyrElbiler2016",
+  "author": [
+   {
+    "family": "Skotland",
+    "given": "Christer H"
+   },
+   {
+    "family": "Eggum",
+    "given": "Eirik"
+   },
+   {
+    "family": "Spilde",
+    "given": "Dag"
+   }
+  ],
+  "citation-key": "skotlandHvaBetyrElbiler2016",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "title": "Hva betyr elbiler for strømnettet",
+  "type": "report"
+ },
+ {
+  "id": "spildeEnergibruksrapporten20232023",
+  "author": [
+   {
+    "family": "Spilde",
+    "given": "Dag"
+   },
+   {
+    "family": "Sævold",
+    "given": "Maren Helene"
+   },
+   {
+    "family": "Tuset",
+    "given": "Jørgen Kristoffer"
+   },
+   {
+    "family": "Magnussen",
+    "given": "Ingrid Helene"
+   }
+  ],
+  "citation-key": "spildeEnergibruksrapporten20232023",
+  "collection-editor": [
+   {
+    "literal": "NVE"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "Energibruksrapporten 2023",
+  "type": "report",
+  "URL": "https://publikasjoner.nve.no/rapport/2023/rapport2023_35.pdf"
+ },
+ {
+  "id": "ssbNationalPopulationProjections2020",
+  "author": [
+   {
+    "literal": "SSB"
+   }
+  ],
+  "citation-key": "ssbNationalPopulationProjections2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "title": "National population projections",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/befolkning/befolkningsframskrivinger/statistikk/nasjonale-befolkningsframskrivinger"
+ },
+ {
+  "id": "standardnorgeEnergyPerformanceBuildings2020",
+  "author": [
+   {
+    "literal": "Standard Norge"
+   }
+  ],
+  "citation-key": "standardnorgeEnergyPerformanceBuildings2020",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "number": "SN-NSPEK 3031:2020",
+  "title": "Energy performance of buildings — Calculation of energy needs and energy supply",
+  "type": "report",
+  "URL": "https://www.standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=1124340"
+ },
+ {
+  "id": "statisticsnorway06830BoligerEtter2024",
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorway06830BoligerEtter2024",
+  "issued": {
+   "date-parts": [
+    [
+     "2024"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.ssb.no/statbank/table/06830",
+  "title": "06830: Boliger, etter bygningstype og tettbygd/spredtbygd strøk (K) 2006 - 2024",
+  "type": "dataset"
+ },
+ {
+  "id": "statisticsnorway12575KjorelengderEtter2019",
+  "accessed": {
+   "date-parts": [
+    [
+     "2019",
+     7,
+     28
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorway12575KjorelengderEtter2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019",
+     7,
+     28
+    ]
+   ]
+  },
+  "title": "12575: Kjørelengder, etter kjøretøytype, alder, statistikkvariabel og år. Statistikkbanken",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/statbank/table/12575/tableViewLayout1"
+ },
+ {
+  "id": "statisticsnorwayEmissionsAir2023",
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorwayEmissionsAir2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "Emissions to air",
+  "type": "dataset",
+  "URL": "https://www.ssb.no/statbank/table/13931/"
+ },
+ {
+  "id": "statisticsnorwayNorwegianEmissionsAir2019",
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorwayNorwegianEmissionsAir2019",
+  "genre": "Internet",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Norwegian emissions to air",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/en/natur-og-miljo/statistikker/klimagassn/"
+ },
+ {
+  "id": "statisticsnorwayProductionConsumptionEnergy2023",
+  "accessed": {
+   "date-parts": [
+    [
+     "2023",
+     12,
+     16
+    ]
+   ]
+  },
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorwayProductionConsumptionEnergy2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.ssb.no/en/energi-og-industri/energi/statistikk/produksjon-og-forbruk-av-energi-energibalanse-og-energiregnskap",
+  "title": "Production and consumption of energy, energy balance and energy account",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/statbank/table/11561/"
+ },
+ {
+  "id": "statisticsnorwayProductionConsumptionEnergy2023",
+  "author": [
+   {
+    "literal": "Statistics Norway"
+   }
+  ],
+  "citation-key": "statisticsnorwayProductionConsumptionEnergy2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2026",
+     6,
+     12
+    ]
+   ]
+  },
+  "publisher-place": "https://www.ssb.no/en/energi-og-industri/energi/statistikk/produksjon-og-forbruk-av-energi-energibalanse-og-energiregnskap",
+  "title": "Production and consumption of energy, energy balance and energy account",
+  "type": "webpage",
+  "URL": "https://www.ssb.no/statbank/table/11561/"
+ },
+ {
+  "id": "statnett2025",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     30
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Statnett",
+    "given": ""
+   }
+  ],
+  "citation-key": "statnett2025",
+  "issued": {
+   "date-parts": [
+    [
+     "2025",
+     2,
+     3
+    ]
+   ]
+  },
+  "language": "en",
+  "title": "Statnett Langsiktig Markedsanalyse Norge, Norden og Europa 2024 / 2050",
+  "type": "report",
+  "URL": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2025/store-endringer-i-kraftsystemet-gir-hoy-verdi-av-stromnettet--ny-langsiktig-markedsanalyse-mot-2050/"
+ },
+ {
+  "id": "stenstromMeasuringMonitoringOperational2016",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Stenström",
+    "given": "Christer"
+   },
+   {
+    "family": "Parida",
+    "given": "Aditya"
+   },
+   {
+    "family": "Kumar",
+    "given": "Uday"
+   }
+  ],
+  "citation-key": "stenstromMeasuringMonitoringOperational2016",
+  "container-title": "Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit",
+  "DOI": "10.1177/0954409715592189",
+  "ISSN": "0954-4097",
+  "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     "2016",
+     7,
+     1
+    ]
+   ]
+  },
+  "language": "EN",
+  "page": "1457–1468",
+  "publisher": "IMECHE",
+  "source": "SAGE Journals",
+  "title": "Measuring and monitoring operational availability of rail infrastructure",
+  "type": "article-journal",
+  "URL": "https://doi.org/10.1177/0954409715592189",
+  "volume": "230"
+ },
+ {
+  "id": "stoltenHydrogenFuelCells2010",
+  "author": [
+   {
+    "family": "Stolten",
+    "given": "Detlef"
+   }
+  ],
+  "citation-key": "stoltenHydrogenFuelCells2010",
+  "ISBN": "3-527-32711-8",
+  "issued": {
+   "date-parts": [
+    [
+     "2010"
+    ]
+   ]
+  },
+  "publisher": "John Wiley & Sons",
+  "title": "Hydrogen and fuel cells: fundamentals, technologies and applications",
+  "type": "book"
+ },
+ {
+  "id": "tekniskukebladDetNyeVannkraftverket2018",
+  "author": [
+   {
+    "literal": "Teknisk Ukeblad"
+   }
+  ],
+  "citation-key": "tekniskukebladDetNyeVannkraftverket2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "title": "Det nye vannkraftverket skal få 15 prosent mer energi fra de samme vannmagasinene - Nå åpner Lysebotn 2",
+  "type": "article-journal",
+  "URL": "https://www.tu.no/artikler/det-nye-vannkraftverket-skal-fa-15-prosent-mer-energi-fra-de-samme-vannmagasinene/446258"
+ },
+ {
+  "id": "thenorwegianwaterresourcesandenergydirectoratenveConcessionApplicationsNorwegian",
+  "author": [
+   {
+    "literal": "The Norwegian Water Resources and Energy Directorate (NVE)"
+   }
+  ],
+  "citation-key": "thenorwegianwaterresourcesandenergydirectoratenveConcessionApplicationsNorwegian",
+  "title": "Concession applications (in Norwegian: Konsesjonssaker)",
+  "type": "webpage",
+  "URL": "https://www.nve.no/konsesjon/konsesjonssaker/#"
+ },
+ {
+  "id": "thingvadAssessingEnergyContent2017",
+  "author": [
+   {
+    "family": "Thingvad",
+    "given": "Andreas"
+   },
+   {
+    "family": "Ziras",
+    "given": "Charalampos"
+   },
+   {
+    "family": "Hu",
+    "given": "Junjie"
+   },
+   {
+    "family": "Marinelli",
+    "given": "Mattia"
+   }
+  ],
+  "citation-key": "thingvadAssessingEnergyContent2017",
+  "event-title": "2017 52nd International Universities Power Engineering Conference (UPEC)",
+  "ISBN": "1-5386-2344-7",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "page": "1–6",
+  "publisher": "IEEE",
+  "title": "Assessing the energy content of system frequency and electric vehicle charging efficiency for ancillary service provision",
+  "type": "paper-conference"
+ },
+ {
+  "id": "toiProsjektLIMCO2021",
+  "author": [
+   {
+    "literal": "TØI"
+   }
+  ],
+  "citation-key": "toiProsjektLIMCO2021",
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     12,
+     13
+    ]
+   ]
+  },
+  "language": "norsk",
+  "title": "Prosjekt: LIMCO",
+  "type": "article-journal",
+  "URL": "https://www.toi.no/prosjekt-limco"
+ },
+ {
+  "id": "trentadueEvaluationFastCharging2018",
+  "author": [
+   {
+    "family": "Trentadue",
+    "given": "Germana"
+   },
+   {
+    "family": "Lucas",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Otura",
+    "given": "Marcos"
+   },
+   {
+    "family": "Pliakostathis",
+    "given": "Konstantinos"
+   },
+   {
+    "family": "Zanni",
+    "given": "Marco"
+   },
+   {
+    "family": "Scholz",
+    "given": "Harald"
+   }
+  ],
+  "citation-key": "trentadueEvaluationFastCharging2018",
+  "container-title": "Energies",
+  "issue": "8",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "page": "1937",
+  "title": "Evaluation of Fast Charging Efficiency under Extreme Temperatures",
+  "type": "article-journal",
+  "volume": "11"
+ },
+ {
+  "id": "ullebergHydrogenImplementingAgreement2019",
+  "author": [
+   {
+    "family": "Ulleberg",
+    "given": "Øystein"
+   }
+  ],
+  "citation-key": "ullebergHydrogenImplementingAgreement2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019",
+     4,
+     26
+    ]
+   ]
+  },
+  "publisher": "IEA Hydrogen",
+  "title": "Hydrogen Implementing Agreement - Task 33",
+  "type": "article-journal",
+  "URL": "http://ieahydrogen.org/Activities/Task-33.aspx"
+ },
+ {
+  "id": "ullebergTechnoeconomicCalculationsSmallscale2020",
+  "author": [
+   {
+    "family": "Ulleberg",
+    "given": "Øystein"
+   },
+   {
+    "family": "Hancke",
+    "given": "Ragnhild"
+   }
+  ],
+  "citation-key": "ullebergTechnoeconomicCalculationsSmallscale2020",
+  "container-title": "International Journal of Hydrogen Energy",
+  "ISSN": "0360-3199",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     "2020"
+    ]
+   ]
+  },
+  "page": "1201–1211",
+  "title": "Techno-economic calculations of small-scale hydrogen supply systems for zero emission transport in Norway",
+  "type": "article-journal",
+  "volume": "45"
+ },
+ {
+  "id": "vindparkStatkraftsLavutslippsscenario2023",
+  "citation-key": "vindparkStatkraftsLavutslippsscenario2023",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "language": "no",
+  "source": "Zotero",
+  "title": "Statkrafts Lavutslippsscenario",
+  "type": "article-journal"
+ },
+ {
+  "id": "wilhelmssonCemZeroFeasibilityStudy2018",
+  "author": [
+   {
+    "family": "Wilhelmsson",
+    "given": "B."
+   },
+   {
+    "family": "Kollberg",
+    "given": "C."
+   },
+   {
+    "family": "Larsson",
+    "given": "J."
+   },
+   {
+    "family": "Eriksson",
+    "given": "J."
+   },
+   {
+    "family": "Eriksson",
+    "given": "M."
+   }
+  ],
+  "citation-key": "wilhelmssonCemZeroFeasibilityStudy2018",
+  "issued": {
+   "date-parts": [
+    [
+     "2018"
+    ]
+   ]
+  },
+  "publisher-place": "https://www.cement.heidelbergmaterials.se/sites/default/files/assets/document/65/de/final_cemzero_2018_public_version_2.0.pdf.pdf",
+  "title": "CemZero–A feasibility study evaluating ways to reach sustainable cement production via the use of electricity",
+  "type": "report"
+ },
+ {
+  "id": "wintherValideringAfEnergiforbrugsdata2016",
+  "author": [
+   {
+    "family": "Winther",
+    "given": "Kim"
+   },
+   {
+    "family": "Jeppesen",
+    "given": "Jacob"
+   }
+  ],
+  "citation-key": "wintherValideringAfEnergiforbrugsdata2016",
+  "issued": {
+   "date-parts": [
+    [
+     "2016"
+    ]
+   ]
+  },
+  "publisher": "Teknologisk Institut",
+  "title": "Validering af energiforbrugsdata for køretøjer i AD modellen",
+  "type": "report",
+  "URL": "https://ens.dk/sites/ens.dk/files/Analyser/validering_af_energiforbrug_for_koeretoejer.pdf"
+ },
+ {
+  "id": "wolfgangHydroReservoirHandling2009",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     9,
+     2
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Wolfgang",
+    "given": "Ove"
+   },
+   {
+    "family": "Haugstad",
+    "given": "Arne"
+   },
+   {
+    "family": "Mo",
+    "given": "Birger"
+   },
+   {
+    "family": "Gjelsvik",
+    "given": "Anders"
+   },
+   {
+    "family": "Wangensteen",
+    "given": "Ivar"
+   },
+   {
+    "family": "Doorman",
+    "given": "Gerard"
+   }
+  ],
+  "citation-key": "wolfgangHydroReservoirHandling2009",
+  "collection-title": "11th Conference on Process Integration, Modelling and Optimisation for Energy Saving and Pollution Reduction",
+  "container-title": "Energy",
+  "container-title-short": "Energy",
+  "DOI": "10.1016/j.energy.2009.07.025",
+  "ISSN": "0360-5442",
+  "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     "2009",
+     10,
+     1
+    ]
+   ]
+  },
+  "page": "1642–1651",
+  "source": "ScienceDirect",
+  "title": "Hydro reservoir handling in Norway before and after deregulation",
+  "type": "article-journal",
+  "URL": "https://www.sciencedirect.com/science/article/pii/S0360544209003119",
+  "volume": "34"
+ },
+ {
+  "id": "wolfgangNordicEnergyOutlooks2023",
+  "author": [
+   {
+    "family": "Wolfgang",
+    "given": "Ove"
+   },
+   {
+    "family": "Mathisen",
+    "given": "Siri"
+   },
+   {
+    "family": "Hansson",
+    "given": "Julia"
+   },
+   {
+    "family": "Unluturk",
+    "given": "Burcu"
+   },
+   {
+    "family": "Wisell",
+    "given": "Tomas"
+   },
+   {
+    "family": "Chang",
+    "given": "Miguel"
+   },
+   {
+    "family": "Haaskjold",
+    "given": "Kristina"
+   },
+   {
+    "family": "Hvidsten",
+    "given": "Tobias Verheugen"
+   },
+   {
+    "family": "Zeyringer",
+    "given": "Marianne"
+   },
+   {
+    "family": "Hasager",
+    "given": "Mette"
+   },
+   {
+    "family": "Vested",
+    "given": "Malene Hovgaard"
+   },
+   {
+    "family": "Babri",
+    "given": "Sahar"
+   },
+   {
+    "family": "Pinel",
+    "given": "Dimitri"
+   },
+   {
+    "family": "Hjelkrem",
+    "given": "Odd André"
+   }
+  ],
+  "citation-key": "wolfgangNordicEnergyOutlooks2023",
+  "ISSN": "978‐82‐594‐3796‐9",
+  "issued": {
+   "date-parts": [
+    [
+     "2023"
+    ]
+   ]
+  },
+  "title": "Nordic Energy Outlooks ‐ Final report WP4: Fossil-free and resource efficient transport",
+  "type": "article-journal",
+  "URL": "https://www.nordicenergy.org/wordpress/wp-content/uploads/2023/08/WP4-report-Fossil-free-and-resource-efficient-transport.pdf"
+ },
+ {
+  "id": "zeroRockwoolFikkNaeringslivets2019",
+  "author": [
+   {
+    "literal": "Zero"
+   }
+  ],
+  "citation-key": "zeroRockwoolFikkNaeringslivets2019",
+  "issued": {
+   "date-parts": [
+    [
+     "2019"
+    ]
+   ]
+  },
+  "title": "Rockwool fikk Næringslivets klimapris 2019",
+  "type": "webpage",
+  "URL": "https://zero.no/pm-rockwool-fikk-naeringslivets-klimapris-2019/"
+ },
+ {
+  "id": "zotero-item-1264",
+  "author": [
+   {
+    "literal": "Energistyrelsen"
+   }
+  ],
+  "citation-key": "zotero-item-1264",
+  "ISBN": "978-87-94447-50-8",
+  "issued": {
+   "date-parts": [
+    [
+     "2026"
+    ]
+   ]
+  },
+  "publisher": "Danish Energy Agency",
+  "title": "Technology Data - Renewable fuels",
+  "type": "report",
+  "URL": "www.ens.dk/technologydata"
+ },
+ {
+  "id": "zotero-item-690",
+  "accessed": {
+   "date-parts": [
+    [
+     "2026",
+     10,
+     7
+    ]
+   ]
+  },
+  "citation-key": "zotero-item-690",
+  "title": "14288: Framskrevet folkemengde 1. januar, etter kjønn og alder, i 9 alternativer (K) (2024-framskrivingen) (avslutta serie) 2024-2050",
+  "type": "dataset",
+  "URL": "https://www.ssb.no/statbank/table/14288"
+ }
+]
