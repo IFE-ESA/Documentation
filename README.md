@@ -1,5 +1,51 @@
 # IFE-TIMES-Norway documentation: Read the Docs ⇄ Word
 
+## Preview the documentation on your computer
+
+You can view the documentation in your browser without publishing anything. You need
+access to the GitHub repository, [Git](https://git-scm.com/downloads), and
+[Python 3.9 or newer](https://www.python.org/downloads/). On Windows, select
+**Add Python to PATH** when installing Python.
+
+1. Open Terminal (macOS) or PowerShell (Windows). Copy and run these commands to
+   download the documentation and move into its folder:
+
+   ```sh
+   git clone --branch update-ife-times-documentation https://github.com/IFE-ESA/Documentation.git
+   cd Documentation
+   ```
+
+   Sign in to GitHub if prompted. The branch name above is where the updated
+   documentation currently lives. If you already have this branch on your computer,
+   open a terminal in its folder instead of cloning it again.
+
+2. Set up the preview and build the pages. Run the commands for your computer:
+
+   **macOS:**
+
+   ```sh
+   python3 -m venv .venv
+   .venv/bin/python -m pip install -r docs/requirements.txt
+   .venv/bin/python -m sphinx -W -b html docs/source docs/build/html
+   .venv/bin/python -m http.server 8000 --bind 127.0.0.1 --directory docs/build/html
+   ```
+
+   **Windows (PowerShell):**
+
+   ```powershell
+   py -3 -m venv .venv
+   .\.venv\Scripts\python.exe -m pip install -r docs/requirements.txt
+   .\.venv\Scripts\python.exe -m sphinx -W -b html docs/source docs/build/html
+   .\.venv\Scripts\python.exe -m http.server 8000 --bind 127.0.0.1 --directory docs/build/html
+   ```
+
+3. Leave the terminal open and visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+   in your browser. Press **Ctrl+C** in the terminal to stop the preview.
+
+After changing the documentation, stop the preview, run the last two commands again
+to rebuild and restart it, and refresh the browser. The setup and installation
+commands only need to be run once.
+
 The report *Documentation of IFE-TIMES-Norway* is kept as MyST Markdown in `docs/source/`
 and published with Sphinx and the Read the Docs theme. That Markdown is the master copy:
 edit it, review the change in git, and export the IFE-formatted Word report (and PDF) from
@@ -75,8 +121,8 @@ Schematic of the hydrogen system in IFE-TIMES-Norway.
 - Also: `*italic*`, `**bold**`, `{sub}`2``, `{sup}`3``, `{u}`underlined``, `$math$`,
   footnotes `[^1]` … `[^1]: text`.
 
-Preview: `.venv/bin/sphinx-build -W -b html docs/source docs/build/html` and open
-`docs/build/html/index.html`.
+See [Preview the documentation on your computer](#preview-the-documentation-on-your-computer)
+for local preview instructions.
 
 ## References (Zotero)
 
