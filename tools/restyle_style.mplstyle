@@ -1,0 +1,37 @@
+# Shared matplotlib style for the re-drawn report figures (tools/restyle_figures.py).
+# The script sets the same values in code (STYLE dict); this file lets other tools reuse them:
+#   plt.style.use("tools/restyle_style.mplstyle")
+font.family: DejaVu Sans
+font.size: 10
+axes.titlesize: 11
+axes.labelsize: 10
+axes.labelcolor: 191919
+axes.edgecolor: 9a9a9a
+axes.linewidth: 0.8
+axes.spines.top: False
+axes.spines.right: False
+axes.grid: True
+axes.grid.axis: y
+axes.axisbelow: True
+axes.prop_cycle: cycler('color', ['257de0', 'f47230', '00b894', 'f2a600', 'ee7fac', '008a17', '6a4ce2', 'ec4647', '7f7f7f', '8c564b', '17becf', 'bcbd22', '2f4b7c', 'a05195', 'd45087', '665191'])
+grid.color: e3e3e3
+grid.linewidth: 0.8
+xtick.color: 666666
+ytick.color: 666666
+xtick.labelcolor: 191919
+ytick.labelcolor: 191919
+xtick.labelsize: 9
+ytick.labelsize: 9
+xtick.major.size: 3
+ytick.major.size: 0
+legend.frameon: False
+legend.fontsize: 9
+lines.linewidth: 2.0
+lines.markersize: 5
+figure.figsize: 8, 4.5
+figure.dpi: 100
+savefig.dpi: 200
+figure.facecolor: white
+axes.facecolor: white
+savefig.facecolor: white
+svg.fonttype: none

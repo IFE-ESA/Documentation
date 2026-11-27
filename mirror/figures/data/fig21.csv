@@ -1,0 +1,17 @@
+panel,category,value,data_label
+All energy,ALUminium,23.0,"ALUminium, 23"
+All energy,METals,9.0,"METals, 9"
+All energy,CHEMicals,18.0,"CHEMicals, 18"
+All energy,WOOD,7.0,"WOOD, 7"
+All energy,MINerals,4.0,"MINerals, 4"
+All energy,CONstruction,4.0,"CONstruction, 4"
+All energy,AGRiculture,4.0,"AGRiculture, 4"
+All energy,OTHer manufacturing,8.0,"OTHer manufacturing, 8"
+Electricity,ALUminium,22.0,ALUminium; 22
+Electricity,METals,5.0,METals; 5
+Electricity,CHEMicals,8.0,CHEMicals; 8
+Electricity,WOOD,4.0,WOOD; 4
+Electricity,MINerals,1.0,MINerals; 1
+Electricity,CONstruction,1.0,CONstruction; 1
+Electricity,AGRiculture,2.0,AGRiculture; 2
+Electricity,OTHer manufacturing,6.0,OTHer manufacturing; 6

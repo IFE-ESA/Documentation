@@ -1,0 +1,792 @@
+{
+  "docx": "Documentation of IFE-TIMES-Norway v5.docx",
+  "pdf": "Documentation of IFE-TIMES-Norway v5.pdf",
+  "pages": [
+    "01-introduction",
+    "02-model-structure",
+    "03-energy-carriers-and-emissions",
+    "04-conversion-processes-and-transmission",
+    "04-01-electricity",
+    "04-02-district-heating",
+    "04-03-bioenergy",
+    "04-04-hydrogen",
+    "04-05-green-ammonia-and-e-fuels",
+    "04-06-ccs-and-daccs",
+    "05-end-use-demand",
+    "05-01-industry",
+    "05-02-buildings",
+    "05-03-transport",
+    "06-final-remarks",
+    "references",
+    "appendix-a"
+  ],
+  "site_pages": [
+    "index",
+    "summary",
+    "report-information",
+    "01-introduction",
+    "02-model-structure",
+    "03-energy-carriers-and-emissions",
+    "04-conversion-processes-and-transmission",
+    "04-01-electricity",
+    "04-02-district-heating",
+    "04-03-bioenergy",
+    "04-04-hydrogen",
+    "04-05-green-ammonia-and-e-fuels",
+    "04-06-ccs-and-daccs",
+    "05-end-use-demand",
+    "05-01-industry",
+    "05-02-buildings",
+    "05-03-transport",
+    "06-final-remarks",
+    "references",
+    "appendix-a"
+  ],
+  "references": 167,
+  "figures": {
+    "1": {
+      "caption": "Figure 1 Schematic of TIMES inputs and outputs.",
+      "file": "figure-01.png",
+      "method": "pdf-crop",
+      "reasons": [
+        "vml"
+      ],
+      "pdf_page_clip": {
+        "page": 6,
+        "clip": [
+          82.0,
+          233.0,
+          534.4,
+          447.7
+        ],
+        "extra": []
+      }
+    },
+    "2": {
+      "caption": "Figure 2 Schematic of IFE-TIMES-Norway.",
+      "file": "figure-02.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "3": {
+      "caption": "Figure 3: Regions included in IFE-TIMES-Norway, NO1 to NO5 and offshore regions.",
+      "file": "figure-03.png",
+      "method": "pdf-crop",
+      "reasons": [
+        "image7.emf"
+      ],
+      "pdf_page_clip": {
+        "page": 9,
+        "clip": [
+          145.8,
+          90.7,
+          494.2,
+          535.7
+        ],
+        "extra": []
+      }
+    },
+    "4": {
+      "caption": "Figure 4 Time slice tree of IFE-TIMES-Norway (base version)",
+      "file": "figure-04.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "5": {
+      "caption": "Figure 5 Illustration of unregulated hydro inflow in NO2 for weather years from 2000-2015, where the black line is the average, and the other line colours represent different weather years",
+      "file": "figure-05.png",
+      "method": "manifest",
+      "reasons": [
+        "image9.emf"
+      ],
+      "pdf_page_clip": null
+    },
+    "6": {
+      "caption": "Figure 6 Seasonal run-of-river generation for NO2 for weather years from 2000 to 2015.",
+      "file": "figure-06.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "7": {
+      "caption": "Figure 7 Illustration of regulated hydro power generation in NO2 for weather years from 2000 -2015, where the black line is the average and the other line colours represent different weather years.",
+      "file": "figure-07.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "8": {
+      "caption": "Figure 8  Weather-dependent operational hours of existing regulated hydropower plants for NO2 for weather years from 2000 to 2015.",
+      "file": "figure-08.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "9": {
+      "caption": "Figure 9: Offshore wind areas proposed by NVE [34] with the grouping into 5 regions.",
+      "file": "figure-09.png",
+      "method": "pdf-crop",
+      "reasons": [
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "wordprocessingShape",
+        "image10.png"
+      ],
+      "pdf_page_clip": {
+        "page": 25,
+        "clip": [
+          130.9,
+          95.2,
+          468.5,
+          519.7
+        ],
+        "extra": []
+      }
+    },
+    "10": {
+      "caption": "Figure 10 Net transmission capacities between regions in 2022, MW [59].",
+      "file": "figure-10.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "11": {
+      "caption": "Figure 11  Electricity prices for export to Germany across all seasons for 2030, 2040, and 2050.",
+      "file": "figure-11.png",
+      "method": "manifest",
+      "reasons": [
+        "chart",
+        "image12.png"
+      ],
+      "pdf_page_clip": null
+    },
+    "12": {
+      "caption": "Figure 12 Production of district heat by type of fuel used, TWh/year",
+      "file": "figure-12.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "13": {
+      "caption": "Figure 13 District heating production per market spot price area in 2023 [60], GWh/year",
+      "file": "figure-13.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "14": {
+      "caption": "Figure 14 Use of district heating per end-use sector in 2023, GWh",
+      "file": "figure-14.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "15": {
+      "caption": "Figure 15 Share of water-borne heating (WBH) and point source heating in buildings.",
+      "file": "figure-15.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "16": {
+      "caption": "Figure 16 Use of district heating in 2023 and calculated maximum potential in 2030 per end-use sector (GWh/year).",
+      "file": "figure-16.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "17": {
+      "caption": "Figure 17 Schematic overview of biomass resources, conversion processes and end-use.",
+      "file": "figure-17.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "18": {
+      "caption": "Figure 18: Schematic of the hydrogen system in IFE-TIMES-Norway.",
+      "file": "figure-18.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "19": {
+      "caption": "Figure 19 Illustration of how distances of distribution within regions are developed.",
+      "file": "figure-19.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "20": {
+      "caption": "Figure 20 Simplified RES diagram of the synthetic jet fuel production system in IFE-TIMES-Norway.",
+      "file": "figure-20.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "21": {
+      "caption": "Figure 21 Total energy and electricity by sub-sector of manufacturing industry in 2020, TWh/year [87].",
+      "file": "figure-21.png",
+      "method": "manifest",
+      "reasons": [
+        "image18.emf"
+      ],
+      "pdf_page_clip": null
+    },
+    "22": {
+      "caption": "Figure 22 Power demand projection from data centres, TWh/year [100], [101], [102].",
+      "file": "figure-22.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "23": {
+      "caption": "Figure 23  Power demand projection in the high, medium and low scenarios and in 2020 per industry subsector [73], TWh/year.",
+      "file": "figure-23.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "24": {
+      "caption": "Figure 24: Demand projections assumed in the base case for the five offshore regions from 2018 to 2050. Electrification from existing power from shore is marked by the black box. Remaining demand can be covered by gas or new electrification.",
+      "file": "figure-24.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "25": {
+      "caption": "Figure 25 Daily load profile in other industry.",
+      "file": "figure-25.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "26": {
+      "caption": "Figure 26 Schematic overview of the end-use sectors in residential sector (E=Electricity specific, H=point source heating, HC=Central heating, W=domestic hot water).",
+      "file": "figure-26.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "27": {
+      "caption": "Figure 27  End-use technologies in residential sector.",
+      "file": "figure-27.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "28": {
+      "caption": "Figure 28 Schematic overview of the energy system in commercial buildings.",
+      "file": "figure-28.png",
+      "method": "docx-media",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "29": {
+      "caption": "Figure 29 Energy service demand in dwellings in 2050 per region and end-use, TWh/year. DHW = Domestic Hot Water, PS = Point Source heating, C-H = Central Heating, ElSpec = Appliances, lighting, cooling, new = new buildings (after 2020), ex = existing buildings (built before 2020)",
+      "file": "figure-29.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "30": {
+      "caption": "Figure 30 Energy service demand by end-use and region of commercial buildings in 2050, TWh/year. DHW = Domestic Hot Water, PS = Point Source heating, C-H = Central Heating, ElSpec = Appliances, lighting, cooling, new = new buildings (after 2020), ex = existing buildings (built before 2020)",
+      "file": "figure-30.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "31": {
+      "caption": "Figure 31 Load profile for residential single-family house in model region NO1.",
+      "file": "figure-31.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "32": {
+      "caption": "Figure 32 Load profile for residential multifamily house in model region NO1.",
+      "file": "figure-32.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "33": {
+      "caption": "Figure 33 Load profile for commercial buildings in model region NO1.",
+      "file": "figure-33.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "34": {
+      "caption": "Figure 34 Temperature dependent COP and heat output of nominal capacity for air-water and air-air heat pumps.",
+      "file": "figure-34.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "35": {
+      "caption": "Figure 35 Illustration of available share of capacity for wood stoves per season and time of day (hour).",
+      "file": "figure-35.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "36": {
+      "caption": "Figure 36 Development in demand for three types of trucks, 2018, 2030, and 2050 (bill. vehicle-km / year).",
+      "file": "figure-36.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "37": {
+      "caption": "Figure 37 The relative change in demand for the default scenario (NTP) in 2020, 2030, and 2050.",
+      "file": "figure-37.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "38": {
+      "caption": "Figure 38 Energy demand of non-road transport in 2020, 2030, and 2050, TWh/year.",
+      "file": "figure-38.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "39": {
+      "caption": "Figure 39 Matrix of powertrains applied for the different road transport demand. (Green: included; Blank: not considered; Beige: optional)",
+      "file": "figure-39.png",
+      "method": "pdf-crop",
+      "reasons": [
+        "no drawing found in docx"
+      ],
+      "pdf_page_clip": {
+        "page": 90,
+        "clip": [
+          81.6,
+          325.9,
+          542.3,
+          472.9
+        ],
+        "extra": []
+      }
+    },
+    "40": {
+      "caption": "Figure 40 Investment cost development for TTRUCK-S.",
+      "file": "figure-40.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "41": {
+      "caption": "Figure 41 Investment cost development for TTRUCK-LS & LL.",
+      "file": "figure-41.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "42": {
+      "caption": "Figure 42 Accumulated traffic volume of each vehicle type depending on age, based on data from [139].",
+      "file": "figure-42.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "43": {
+      "caption": "Figure 43 The zero-emission vehicles share of new investment and fleet in the fast decarbonization scenario presented in [130].",
+      "file": "figure-43.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "44": {
+      "caption": "Figure 44 Daily usage pattern for EV charging, disaggregated for different charging locations. Derived from [143].",
+      "file": "figure-44.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "45": {
+      "caption": "Figure 45: Increase in energy demand as a function of outside temperature and estimated worst and best case based on [144], [145].",
+      "file": "figure-45.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "46": {
+      "caption": "Figure 46 Total EV charging demand by time slices",
+      "file": "figure-46.png",
+      "method": "manifest",
+      "reasons": [],
+      "pdf_page_clip": null
+    },
+    "47": {
+      "caption": "Figure 47 Slow and fast charging profiles based on data gathered within the Limco project [137].",
+      "file": "figure-47.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    },
+    "48": {
+      "caption": "Figure 48 Differences in investment costs by ship type and propulsion option compared to assumptions considering one reference ship type and fixed 20% higher cost scaling. Disaggregated cost estimates derived from [157].",
+      "file": "figure-48.png",
+      "method": "manifest",
+      "reasons": [
+        "chart"
+      ],
+      "pdf_page_clip": null
+    }
+  },
+  "warnings": [
+    "WARNING: broken cross-reference corrected from its context (please check): _Ref89622146: 'Table 28' -> 'Figure 11' (no table in the section matches; best-matching captioned item, word match 67% with 'Figure 11  Electricity prices for export to Germany across all seasons')",
+    "NOTE: dropped invisible paragraph (white or hidden text in Word): 'Appendix A start'",
+    "NOTE: updated 120 stale Word field results (SEQ numbers / REF texts) to match what Word shows after updating fields; see 'field_updates' in the report",
+    "NOTE: applied Word picture crop to figure-27.png: {'l': 0, 't': 0, 'r': 0, 'b': 15181}",
+    "NOTE: front page: PDF text used ('IFE/E-2026/0xx' -> 'IFE/E-2026/007')",
+    "NOTE: report information 'Report number': PDF value used (docx 'IFE/E-2024/004xx' -> PDF 'IFE/E-2026/007')",
+    "NOTE: report information 'ISSN': PDF value used (docx '' -> PDF '2535-6380')",
+    "NOTE: report information 'Publication date': PDF value used (docx '' -> PDF '11.05.2026')",
+    "NOTE: report information 'ISBN': PDF value used (docx '' -> PDF '978-82-7017-963-3')",
+    "NOTE: report information 'DOCUS-ID': PDF value used (docx '' -> PDF '59829')",
+    "NOTE: report information 'Number of pages': PDF value used (docx '126' -> PDF '133')",
+    "NOTE: report information 'Title': PDF value used (docx 'Documentation of IFE-TIMES-Norway v4' -> PDF 'Documentation of IFE-TIMES-Norway v5')",
+    "NOTE: report information 'Prepared by': PDF value used (docx 'Thor Alexis Sazon; Kristina Haaskjold; Miguel Chang; Lisa Kv' -> PDF 'Thor Alexis Sazon; Kristina Haaskjold; Miguel Chang; Lisa Kv')",
+    "WARNING: 1 paragraph(s) differ between the docx and the PDF; see 'pdf_text_differences' in conversion_report.json (the PDF is authoritative)",
+    "WARNING: the reference list repeats 79 numbers ([87]..[165]), a stale copy left in the Word bibliography; the first occurrence of each was used",
+    "NOTE: 02-model-structure: Figure 3 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+    "NOTE: 04-01-electricity: Table 24 caption separator '.' dropped (Sphinx writes 'Table N ' for every caption)",
+    "NOTE: 04-01-electricity: Figure 9 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+    "NOTE: 04-04-hydrogen: Figure 18 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+    "NOTE: 05-01-industry: Table 48 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)",
+    "NOTE: 05-01-industry: Figure 24 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+    "NOTE: 05-03-transport: Table 77 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)",
+    "NOTE: 05-03-transport: Figure 45 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+    "NOTE: 05-03-transport: link to missing bookmark #_Ref32315986 ('Table 57') pointed at the caption with that number (tab-description-transport-demand-types)",
+    "NOTE: 05-03-transport: link to missing bookmark #_Ref32315986 ('Table 57') pointed at the caption with that number (tab-description-transport-demand-types)",
+    "NOTE: appendix-a: Table A-3 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)"
+  ],
+  "field_updates": [
+    "field 'SEQ Table': '29' -> '28'",
+    "field 'SEQ Table': '30' -> '29'",
+    "field 'SEQ Table': '31' -> '30'",
+    "field 'SEQ Table': '32' -> '31'",
+    "field 'SEQ Table': '33' -> '32'",
+    "field 'SEQ Table': '34' -> '33'",
+    "field 'SEQ Table': '35' -> '34'",
+    "field 'SEQ Table': '36' -> '35'",
+    "field 'SEQ Table': '37' -> '36'",
+    "field 'SEQ Table': '38' -> '37'",
+    "field 'SEQ Table': '39' -> '38'",
+    "field 'SEQ Table': '40' -> '39'",
+    "field 'SEQ Table': '41' -> '40'",
+    "field 'SEQ Table': '42' -> '41'",
+    "field 'SEQ Table': '43' -> '42'",
+    "field 'SEQ Table': '44' -> '43'",
+    "field 'SEQ Table': '45' -> '44'",
+    "field 'SEQ Table': '46' -> '45'",
+    "field 'SEQ Table': '47' -> '46'",
+    "field 'SEQ Table': '48' -> '47'",
+    "field 'SEQ Table': '49' -> '48'",
+    "field 'SEQ Table': '50' -> '49'",
+    "field 'SEQ Table': '51' -> '50'",
+    "field 'SEQ Table': '52' -> '51'",
+    "field 'SEQ Table': '53' -> '52'",
+    "field 'SEQ Table': '54' -> '53'",
+    "field 'SEQ Table': '55' -> '54'",
+    "field 'SEQ Table': '56' -> '55'",
+    "field 'SEQ Table': '57' -> '56'",
+    "field 'SEQ Table': '58' -> '57'",
+    "field 'SEQ Table': '59' -> '58'",
+    "field 'SEQ Table': '60' -> '59'",
+    "field 'SEQ Table': '61' -> '60'",
+    "field 'SEQ Table': '62' -> '61'",
+    "field 'SEQ Table': '63' -> '62'",
+    "field 'SEQ Table': '64' -> '63'",
+    "field 'SEQ Table': '65' -> '64'",
+    "field 'SEQ Table': '66' -> '65'",
+    "field 'SEQ Table': '67' -> '66'",
+    "field 'SEQ Table': '68' -> '67'",
+    "field 'SEQ Table': '69' -> '68'",
+    "field 'SEQ Table': '70' -> '69'",
+    "field 'SEQ Table': '71' -> '70'",
+    "field 'SEQ Table': '72' -> '71'",
+    "field 'SEQ Table': '73' -> '72'",
+    "field 'SEQ Table': '74' -> '73'",
+    "field 'SEQ Table': '75' -> '74'",
+    "field 'SEQ Table': '76' -> '75'",
+    "field 'SEQ Table': '77' -> '76'",
+    "field 'SEQ Table': '78' -> '77'",
+    "field 'SEQ Table': '79' -> '78'",
+    "field 'SEQ Table': '80' -> '79'",
+    "field 'SEQ Table': '81' -> '80'",
+    "field 'SEQ Table': '82' -> '81'",
+    "field 'SEQ Table': '83' -> '82'",
+    "field 'SEQ Table': '84' -> '83'",
+    "xref-fixed _Ref89622146: 'Table 28' -> 'Figure 11' (no table in the section matches; best-matching captioned item, word match 67% with 'Figure 11  Electricity prices for export to Germany across all seasons')",
+    "field 'REF _Ref241743506': 'Table 28' -> 'Figure 11'",
+    "field 'REF _Ref236819665': 'Table 29' -> 'Table 28'",
+    "field 'REF _Ref236826331': 'Table 30' -> 'Table 29'",
+    "field 'REF _Ref58943683': 'Table 31' -> 'Table 30'",
+    "field 'REF _Ref58951702': 'Table 32' -> 'Table 31'",
+    "field 'REF _Ref58951786': 'Table 33' -> 'Table 32'",
+    "field 'REF _Ref97014530': 'Table 35' -> 'Table 34'",
+    "field 'REF _Ref49171949': 'Table 36' -> 'Table 35'",
+    "field 'REF _Ref236904461': 'Table 37' -> 'Table 36'",
+    "field 'REF _Ref48671830': 'Table 38' -> 'Table 37'",
+    "field 'REF _Ref236832766': 'Table 39' -> 'Table 38'",
+    "field 'REF _Ref48671830': 'Table 38' -> 'Table 37'",
+    "field 'REF _Ref94537608': 'Table 40' -> 'Table 39'",
+    "field 'REF _Ref160710887': 'Table 41' -> 'Table 40'",
+    "field 'REF _Ref160710887': 'Table 41' -> 'Table 40'",
+    "field 'REF _Ref50635203': 'Table 43' -> 'Table 42'",
+    "field 'REF _Ref50635203': 'Table 43' -> 'Table 42'",
+    "field 'REF _Ref50640421': 'Table 44' -> 'Table 43'",
+    "field 'REF _Ref160181235': 'Table 45' -> 'Table 44'",
+    "field 'REF _Ref160188081': 'Table 46' -> 'Table 45'",
+    "field 'REF _Ref160712352': 'Table 47' -> 'Table 46'",
+    "field 'REF _Ref171079139': 'Table 48' -> 'Table 47'",
+    "field 'REF _Ref161300662': 'Table 49' -> 'Table 48'",
+    "field 'REF _Ref161405313': 'Table 50' -> 'Table 49'",
+    "field 'REF _Ref68771770': 'Table 51' -> 'Table 50'",
+    "field 'REF _Ref160716343': 'Table 52' -> 'Table 51'",
+    "field 'REF _Ref160960372': 'Table 53' -> 'Table 52'",
+    "field 'REF _Ref50975230': 'Table 54' -> 'Table 53'",
+    "field 'REF _Ref29988173': 'Table 55' -> 'Table 54'",
+    "field 'REF _Ref29988173': 'Table 55' -> 'Table 54'",
+    "field 'REF _Ref97014498': 'Table 56' -> 'Table 55'",
+    "field 'REF _Ref185582933': 'Table 57' -> 'Table 56'",
+    "field 'REF _Ref32315986': 'Table 58' -> 'Table 57'",
+    "field 'REF _Ref32315986': 'Table 58' -> 'Table 57'",
+    "field 'REF _Ref66874856': 'Table 59' -> 'Table 58'",
+    "field 'REF _Ref66880191': 'Table 60' -> 'Table 59'",
+    "field 'REF _Ref161988356': 'Table 62' -> 'Table 61'",
+    "field 'REF _Ref36807480': 'Table 63' -> 'Table 62'",
+    "field 'REF _Ref36811192': 'Table 64' -> 'Table 63'",
+    "field 'REF _Ref68089147': 'Table 65' -> 'Table 64'",
+    "field 'REF _Ref68089147': 'Table 65' -> 'Table 64'",
+    "field 'REF _Ref42182111': 'Table 66' -> 'Table 65'",
+    "field 'REF _Ref38553068': 'Table 67' -> 'Table 66'",
+    "field 'REF _Ref38638424': 'Table 68' -> 'Table 67'",
+    "field 'REF _Ref66874856': 'Table 59' -> 'Table 58'",
+    "field 'REF _Ref38638369': 'Table 69' -> 'Table 68'",
+    "field 'REF _Ref38638283': 'Table 70' -> 'Table 69'",
+    "field 'REF _Ref39137141': 'Table 71' -> 'Table 70'",
+    "field 'REF _Ref52447908': 'Table 72' -> 'Table 71'",
+    "field 'REF _Ref48896939': 'Table 73' -> 'Table 72'",
+    "field 'REF _Ref38882309': 'Table 74' -> 'Table 73'",
+    "field 'REF _Ref50649537': 'Table 75' -> 'Table 74'",
+    "field 'REF _Ref38893036': 'Table 76' -> 'Table 75'",
+    "field 'REF _Ref38896575': 'Table 77' -> 'Table 76'",
+    "field 'REF _Ref38896575': 'Table 77' -> 'Table 76'",
+    "field 'REF _Ref176336334': 'Table 78' -> 'Table 77'",
+    "field 'REF _Ref176336334': 'Table 78' -> 'Table 77'",
+    "field 'REF _Ref82714256': 'Table 79' -> 'Table 78'",
+    "field 'REF _Ref37925310': 'Table 80' -> 'Table 79'",
+    "field 'REF _Ref238801677': 'Table 81' -> 'Table 80'",
+    "field 'REF _Ref66711342': 'Table 82' -> 'Table 81'",
+    "field 'REF _Ref66716597': 'Table 83' -> 'Table 82'",
+    "field 'REF _Ref66716597': 'Table 83' -> 'Table 82'"
+  ],
+  "front_matter": [
+    {
+      "label": "Report number",
+      "raw_label": "Report number:",
+      "text": "IFE/E-2026/007",
+      "source": "pdf",
+      "docx_text": "IFE/E-2024/004xx"
+    },
+    {
+      "label": "ISSN",
+      "raw_label": "ISSN:",
+      "text": "2535-6380",
+      "source": "pdf",
+      "docx_text": ""
+    },
+    {
+      "label": "Availability",
+      "raw_label": "Availability:",
+      "text": "Public",
+      "source": "docx",
+      "docx_text": "Public"
+    },
+    {
+      "label": "Publication date",
+      "raw_label": "Publication date:",
+      "text": "11.05.2026",
+      "source": "pdf",
+      "docx_text": ""
+    },
+    {
+      "label": "Revision",
+      "raw_label": "Revision:",
+      "text": "",
+      "source": "docx",
+      "docx_text": ""
+    },
+    {
+      "label": "ISBN",
+      "raw_label": "ISBN:",
+      "text": "978-82-7017-963-3",
+      "source": "pdf",
+      "docx_text": ""
+    },
+    {
+      "label": "DOCUS-ID",
+      "raw_label": "DOCUS-ID:",
+      "text": "59829",
+      "source": "pdf",
+      "docx_text": ""
+    },
+    {
+      "label": "Number of pages",
+      "raw_label": "Number of pages:",
+      "text": "133",
+      "source": "pdf",
+      "docx_text": "126"
+    },
+    {
+      "label": "Client",
+      "raw_label": "Client:",
+      "text": "",
+      "source": "docx",
+      "docx_text": ""
+    },
+    {
+      "label": "Title",
+      "raw_label": "Title:",
+      "text": "Documentation of IFE-TIMES-Norway v5",
+      "source": "pdf",
+      "docx_text": "Documentation of IFE-TIMES-Norway v4"
+    },
+    {
+      "label": "Summary",
+      "raw_label": "Summary:",
+      "text": "Development of the IFE-TIMES-Norway energy system model began in 2017 through a collaboration between the Institute for Energy Technology (IFE) and the Norwegian Water Resources and Energy Directorate (NVE). This report documents version 5 of the model, dated September 2026, and describes the updates implemented since the previous model documentation was published in 2024. IFE-TIMES-Norway builds on earlier generations of Norwegian energy system models, including TIMES-Norway, developed in 2009, and MARKAL-Norway, developed in 1992. The model is continuously updated to incorporate methodological advances, new data, and developments in the Norwegian energy system. IFE-TIMES-Norway is a long-term optimisation model of the Norwegian energy system developed using the TIMES modelling framework, short for The Integrated MARKAL-EFOM System. TIMES is a bottom-up modelling framework that provides a detailed techno-economic representation of energy resources, energy carriers, conversion technologies, infrastructure, and energy-service demands. The model determines the combination of investments and operational decisions that minimises the total discounted cost of the energy system while satisfying projected demands for energy services and other model constraints. The total system cost includes investments in energy-supply and end-use technologies, operation and maintenance costs, the cost of electricity imported from countries outside the model, and revenues from electricity exports. IFE-TIMES-Norway provides a technology-rich representation of the Norwegian energy system. Onshore Norway is divided into five regions corresponding to the current electricity bidding zones. The geographical representation also includes five offshore oil and gas regions and five offshore wind regions. The model determines operational and investment decisions from the base year of 2018 to 2050. Within this horizon, the model includes periods at five-year intervals from 2020 onwards. To represent variations in energy production and consumption within each year, every model period is divided into 96 sub-annual time slices. These comprise four representative seasons, each described by 24 hourly time slices. The model includes a detailed representation of energy end use, with energy-service demands divided into numerous categories across the industrial, building, and transport sectors.",
+      "source": "docx",
+      "docx_text": "Development of the IFE-TIMES-Norway energy system model began in 2017 through a collaboration between the Institute for Energy Technology (IFE) and the Norwegian Water Resources and Energy Directorate (NVE). This report documents version 5 of the model, dated September 2026, and describes the updates implemented since the previous model documentation was published in 2024. IFE-TIMES-Norway builds on earlier generations of Norwegian energy system models, including TIMES-Norway, developed in 2009, and MARKAL-Norway, developed in 1992. The model is continuously updated to incorporate methodological advances, new data, and developments in the Norwegian energy system. IFE-TIMES-Norway is a long-term optimisation model of the Norwegian energy system developed using the TIMES modelling framework, short for The Integrated MARKAL-EFOM System. TIMES is a bottom-up modelling framework that provides a detailed techno-economic representation of energy resources, energy carriers, conversion technologies, infrastructure, and energy-service demands. The model determines the combination of investments and operational decisions that minimises the total discounted cost of the energy system while satisfying projected demands for energy services and other model constraints. The total system cost includes investments in energy-supply and end-use technologies, operation and maintenance costs, the cost of electricity imported from countries outside the model, and revenues from electricity exports. IFE-TIMES-Norway provides a technology-rich representation of the Norwegian energy system. Onshore Norway is divided into five regions corresponding to the current electricity bidding zones. The geographical representation also includes five offshore oil and gas regions and five offshore wind regions. The model determines operational and investment decisions from the base year of 2018 to 2050. Within this horizon, the model includes periods at five-year intervals from 2020 onwards. To represent variations in energy production and consumption within each year, every model period is divided into 96 sub-annual time slices. These comprise four representative seasons, each described by 24 hourly time slices. The model includes a detailed representation of energy end use, with energy-service demands divided into numerous categories across the industrial, building, and transport sectors."
+    },
+    {
+      "label": "Prepared by",
+      "raw_label": "Prepared by:",
+      "text": "Thor Alexis Sazon; Kristina Haaskjold; Miguel Chang; Lisa Kvalbein; Stine Fleischer Myhre; Pernille Merethe Sire Seljom",
+      "source": "pdf",
+      "docx_text": "Thor Alexis Sazon; Kristina Haaskjold; Miguel Chang; Lisa Kvalbein; Stine Fleischer Myhre; Eva Rosenberg; Pernille Merethe Sire Seljom"
+    },
+    {
+      "label": "Reviewed by",
+      "raw_label": "Reviewed by:",
+      "text": "Niels Oliver Nagel",
+      "source": "docx",
+      "docx_text": "Niels Oliver Nagel"
+    },
+    {
+      "label": "Approved by",
+      "raw_label": "Approved by:",
+      "text": "Mari Lyseid Authen",
+      "source": "docx",
+      "docx_text": "Mari Lyseid Authen"
+    },
+    {
+      "label": "Report distribution",
+      "raw_label": "Report distribution:",
+      "text": "For external, open",
+      "source": "docx",
+      "docx_text": "For external, open"
+    }
+  ],
+  "pdf_text_differences": [
+    {
+      "docx_text": "IFE-TIMES-Norway needs exogenous input of electricity prices for countries with transmission capacity to Norway. Electricity trade prices can be adjusted based on the premise and assumptions of a research project. By default, the electricity trade prices applied in the model are based on the average",
+      "changes": [
+        {
+          "docx": "figure 11",
+          "pdf": "error reference source not found"
+        }
+      ]
+    }
+  ],
+  "tidy": {
+    "stats": {
+      "figures": 48,
+      "citations": 382,
+      "numref": 160,
+      "tables": 93,
+      "figure_caption_separator_normalised": 5,
+      "italic_xref_text_dropped": 9,
+      "cell_alignment_normalised": 44,
+      "tables_with_merged_cells": 42,
+      "table_caption_separator_normalised": 4,
+      "body_text_unboxed": 6,
+      "xref_fixed_by_number": 2,
+      "inline_bookmark_dropped": 1
+    },
+    "notes": [
+      "02-model-structure: Figure 3 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+      "04-01-electricity: Table 24 caption separator '.' dropped (Sphinx writes 'Table N ' for every caption)",
+      "04-01-electricity: Figure 9 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+      "04-04-hydrogen: Figure 18 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+      "05-01-industry: Table 48 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)",
+      "05-01-industry: Figure 24 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+      "05-03-transport: Table 77 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)",
+      "05-03-transport: Figure 45 caption separator ':' dropped (Sphinx writes 'Figure N ' for every caption)",
+      "05-03-transport: link to missing bookmark #_Ref32315986 ('Table 57') pointed at the caption with that number (tab-description-transport-demand-types)",
+      "05-03-transport: link to missing bookmark #_Ref32315986 ('Table 57') pointed at the caption with that number (tab-description-transport-demand-types)",
+      "appendix-a: Table A-3 caption separator ':' dropped (Sphinx writes 'Table N ' for every caption)"
+    ]
+  }
+}

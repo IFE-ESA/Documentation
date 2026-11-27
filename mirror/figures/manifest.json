@@ -1,0 +1,840 @@
+{
+  "1": {
+    "caption_start": "Figure 1 Schematic of TIMES inputs and outputs.",
+    "docx_parts": [
+      "word/media/image1.png",
+      "word/media/image2.png",
+      "word/media/image3.jpeg",
+      "word/media/image5.emf"
+    ],
+    "pdf_page": 6,
+    "pdf_bbox": [
+      86.0,
+      237.0,
+      530.4,
+      444.7
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic (EMF + images + text boxes); not a data plot, use original image/PDF crop"
+  },
+  "2": {
+    "caption_start": "Figure 2 Schematic of IFE-TIMES-Norway.",
+    "docx_parts": [
+      "word/media/image6.png"
+    ],
+    "pdf_page": 7,
+    "pdf_bbox": [
+      85.1,
+      99.2,
+      549.8,
+      341.6
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic; not a data plot, use original image/PDF crop"
+  },
+  "3": {
+    "caption_start": "Figure 3: Regions included in IFE-TIMES-Norway, NO1 to NO5 and offshore regions.",
+    "docx_parts": [
+      "word/media/image7.emf"
+    ],
+    "pdf_page": 9,
+    "pdf_bbox": [
+      85.1,
+      35.4,
+      490.2,
+      532.7
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "map of regions (EMF); not a data plot, use original image/PDF crop"
+  },
+  "4": {
+    "caption_start": "Figure 4 Time slice tree of IFE-TIMES-Norway (base version)",
+    "docx_parts": [
+      "word/media/image8.png"
+    ],
+    "pdf_page": 10,
+    "pdf_bbox": [
+      85.1,
+      215.2,
+      564.8,
+      391.1
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "time-slice tree diagram; not a data plot, use original image/PDF crop"
+  },
+  "5": {
+    "caption_start": "Figure 5 Illustration of unregulated hydro inflow in NO2 for weather years from ",
+    "docx_parts": [
+      "word/media/image9.emf"
+    ],
+    "pdf_page": 20,
+    "pdf_bbox": [
+      103.8,
+      186.1,
+      519.7,
+      400.7
+    ],
+    "file": "fig05.png",
+    "source": "digitized",
+    "chart_type": "line (weekly, 16 weather years + black line)",
+    "notes": "EMF vector chart: the polylines were read from the PDF vector paths and calibrated against the tick labels, so values are near-exact (<0.5 % of full scale). Series names are not shown in the original (no legend); the 16 coloured lines are presumably the weather years 2000-2015 in order and the black line the average. Drawn like Figure 7: thin lines on a blue ramp, black line emphasised. Extracted 17 vector polylines from PDF page 20; axis calibration from 7 y-tick and 27 x-tick labels (max residual 0.121 axis units)."
+  },
+  "6": {
+    "caption_start": "Figure 6 Seasonal run-of-river generation for NO2 for weather years from 2000 to",
+    "docx_parts": [
+      "word/charts/chart1.xml"
+    ],
+    "pdf_page": 21,
+    "pdf_bbox": [
+      131.8,
+      99.2,
+      491.8,
+      315.2
+    ],
+    "file": "fig06.png",
+    "source": "chart-cache",
+    "chart_type": "bar (stacked)",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "7": {
+    "caption_start": "Figure 7 Illustration of regulated hydro power generation in NO2 for weather yea",
+    "docx_parts": [
+      "word/charts/chart2.xml"
+    ],
+    "pdf_page": 21,
+    "pdf_bbox": [
+      85.1,
+      395.0,
+      543.0,
+      611.0
+    ],
+    "file": "fig07.png",
+    "source": "embedded-xlsx",
+    "chart_type": "scatter",
+    "notes": "data from word/embeddings/Microsoft_Excel_Worksheet.xlsx via chart series formulas Individual weather years drawn as thin lines on a light-to-dark blue ramp (2000 light -> 2015 dark) without markers; the original has no legend either. 'Average' is emphasised in black as in the original (the chart contains the Average series twice; drawn once)."
+  },
+  "8": {
+    "caption_start": "Figure 8 Weather-dependent operational hours of existing regulated hydropower pl",
+    "docx_parts": [
+      "word/charts/chart3.xml"
+    ],
+    "pdf_page": 22,
+    "pdf_bbox": [
+      131.8,
+      258.8,
+      491.8,
+      474.8
+    ],
+    "file": "fig08.png",
+    "source": "embedded-xlsx",
+    "chart_type": "bar (clustered)",
+    "notes": "data from word/embeddings/Microsoft_Excel_Worksheet1.xlsx via chart series formulas"
+  },
+  "9": {
+    "caption_start": "Figure 9: Offshore wind areas proposed by NVE [34] with the grouping into 5 regi",
+    "docx_parts": [
+      "word/media/image10.png"
+    ],
+    "pdf_page": 25,
+    "pdf_bbox": [
+      134.9,
+      99.2,
+      464.5,
+      516.7
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "map with text-box overlays; not a data plot, use original image/PDF crop"
+  },
+  "10": {
+    "caption_start": "Figure 10 Net transmission capacities between regions in 2022, MW [59].",
+    "docx_parts": [
+      "word/media/image11.png"
+    ],
+    "pdf_page": 36,
+    "pdf_bbox": [
+      169.2,
+      99.2,
+      454.5,
+      473.1
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "map of transmission capacities; not a data plot, use original image/PDF crop"
+  },
+  "11": {
+    "caption_start": "Figure 11 Electricity prices for export to Germany across all seasons for 2030, ",
+    "docx_parts": [
+      "word/charts/chart4.xml",
+      "word/media/image12.png"
+    ],
+    "pdf_page": 38,
+    "pdf_bbox": [
+      85.1,
+      112.7,
+      538.6,
+      521.2
+    ],
+    "pdf_extra_regions": [
+      {
+        "pdf_page": 37,
+        "pdf_bbox": [
+          85.1,
+          99.2,
+          538.6,
+          378.9
+        ],
+        "content": "native chart part"
+      }
+    ],
+    "file": "fig11.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: external link: file:///C:\\VEDA\\Veda\\Veda_models\\IFE-NO-2024.01.19_10Offshore\\SuppXLS\\Scen_prices_low_NVE.xlsx) Colour encodes year (2030 aqua, 2050 blue) and lightness encodes price level, as in the original (2030 greens, 2050 blues). This is the native chart part of Figure 11; the second part (image12.png, four seasonal panels for 2030/2040/2050) is re-drawn separately as fig11b (digitized).",
+    "extra_files": [
+      {
+        "file": "fig11b.png",
+        "source": "digitized",
+        "chart_type": "line (4 panels, digitized)",
+        "notes": "Second part of Figure 11 (raster image, four seasonal panels, prices 2030/2040/2050). Digitized hourly (0-23) by colour segmentation; estimated accuracy +/-10 NOK/MWh (about 1 % of full scale); overlapping lines interpolated. Source image word/media/image12.png; 4 hidden/overlapped points linearly interpolated."
+      }
+    ]
+  },
+  "12": {
+    "caption_start": "Figure 12 Production of district heat by type of fuel used, TWh/year",
+    "docx_parts": [
+      "word/charts/chart5.xml"
+    ],
+    "pdf_page": 39,
+    "pdf_bbox": [
+      96.6,
+      202.5,
+      526.9,
+      464.0
+    ],
+    "file": "fig12.png",
+    "source": "embedded-xlsx",
+    "chart_type": "area (stacked)",
+    "notes": "data from word/embeddings/Microsoft_Excel_Worksheet2.xlsx via chart series formulas"
+  },
+  "13": {
+    "caption_start": "Figure 13 District heating production per market spot price area in 2023 [60], G",
+    "docx_parts": [
+      "word/charts/chart6.xml"
+    ],
+    "pdf_page": 40,
+    "pdf_bbox": [
+      130.3,
+      99.2,
+      492.1,
+      322.3
+    ],
+    "file": "fig13.png",
+    "source": "chart-cache",
+    "chart_type": "pie",
+    "notes": "data from chart cache (workbook: external link: file:///C:\\Software\\Veda2.0_localhost_4.0.1.0\\Veda_models\\IFE-NO-2024.10.14_updatedDH_v9\\VT_Norway_DistHeating_2025-02-18.xlsx)"
+  },
+  "14": {
+    "caption_start": "Figure 14 Use of district heating per end-use sector in 2023, GWh",
+    "docx_parts": [
+      "word/charts/chart7.xml"
+    ],
+    "pdf_page": 42,
+    "pdf_bbox": [
+      131.8,
+      222.5,
+      491.8,
+      436.6
+    ],
+    "file": "fig14.png",
+    "source": "chart-cache",
+    "chart_type": "pie",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud-my.sharepoint.com/personal/thor_sazon_ife_no/Documents/Documents/Projects/DH%20mapping/Data/Norway/DHdata_Norway_2023_2024.12.06_editheatpumpwasteandheatpumpother.xlsb)"
+  },
+  "15": {
+    "caption_start": "Figure 15 Share of water-borne heating (WBH) and point source heating in buildin",
+    "docx_parts": [
+      "word/charts/chart8.xml"
+    ],
+    "pdf_page": 44,
+    "pdf_bbox": [
+      119.8,
+      189.8,
+      502.6,
+      403.5
+    ],
+    "file": "fig15.png",
+    "source": "embedded-xlsx",
+    "chart_type": "horizontal bar (stacked)",
+    "notes": "data from word/embeddings/Microsoft_Excel_Worksheet3.xlsx via chart series formulas"
+  },
+  "16": {
+    "caption_start": "Figure 16 Use of district heating in 2023 and calculated maximum potential in 20",
+    "docx_parts": [
+      "word/charts/chart9.xml"
+    ],
+    "pdf_page": 45,
+    "pdf_bbox": [
+      137.1,
+      99.2,
+      486.4,
+      271.2
+    ],
+    "file": "fig16.png",
+    "source": "chart-cache",
+    "chart_type": "bar (clustered)",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud-my.sharepoint.com/personal/lisa_kvalbein_ife_no/Documents/Documents/TIMES-modellering/Building/Fjernvarme_data_2026-09-03.xlsx)"
+  },
+  "17": {
+    "caption_start": "Figure 17 Schematic overview of biomass resources, conversion processes and end-",
+    "docx_parts": [
+      "word/media/image13.png"
+    ],
+    "pdf_page": 47,
+    "pdf_bbox": [
+      85.1,
+      99.2,
+      546.3,
+      306.6
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic; not a data plot, use original image/PDF crop"
+  },
+  "18": {
+    "caption_start": "Figure 18: Schematic of the hydrogen system in IFE-TIMES-Norway.",
+    "docx_parts": [
+      "word/media/image14.png"
+    ],
+    "pdf_page": 49,
+    "pdf_bbox": [
+      85.1,
+      99.2,
+      539.8,
+      318.1
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic; not a data plot, use original image/PDF crop"
+  },
+  "19": {
+    "caption_start": "Figure 19 Illustration of how distances of distribution within regions are devel",
+    "docx_parts": [
+      "word/media/image15.png"
+    ],
+    "pdf_page": 53,
+    "pdf_bbox": [
+      192.4,
+      99.2,
+      431.1,
+      226.1
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "illustration/diagram; not a data plot, use original image/PDF crop"
+  },
+  "20": {
+    "caption_start": "Figure 20 Simplified RES diagram of the synthetic jet fuel production system in ",
+    "docx_parts": [
+      "word/media/image16.png"
+    ],
+    "pdf_page": 54,
+    "pdf_bbox": [
+      85.1,
+      520.5,
+      525.2,
+      639.6
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "RES diagram; not a data plot, use original image/PDF crop"
+  },
+  "21": {
+    "caption_start": "Figure 21 Total energy and electricity by sub-sector of manufacturing industry i",
+    "docx_parts": [
+      "word/media/image18.emf"
+    ],
+    "pdf_page": 59,
+    "pdf_bbox": [
+      85.3,
+      357.1,
+      538.3,
+      489.9
+    ],
+    "file": "fig21.png",
+    "source": "digitized",
+    "chart_type": "pie (two pies)",
+    "notes": "EMF vector pies: category names and values are the data labels printed in the original (read from the PDF text layer; values are the rounded integers shown, TWh); pie titles 'All energy' and 'Electricity' as in the original. Shares therefore carry the rounding of the printed labels (+/-0.5 TWh)."
+  },
+  "22": {
+    "caption_start": "Figure 22 Power demand projection from data centres, TWh/year [100], [101], [102",
+    "docx_parts": [
+      "word/charts/chart10.xml"
+    ],
+    "pdf_page": 61,
+    "pdf_bbox": [
+      132.6,
+      99.2,
+      489.7,
+      307.1
+    ],
+    "file": "fig22.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud.sharepoint.com/sites/ESYS/Delte%20dokumenter/REGEL/data%20preprosessering/DataCenterPrognosis_2026.10.22.xlsx) Original x axis is a date axis: years are placed proportionally (2018, 2020, 2025...). Statnett Low/Mid/High share one colour and differ by dash style, as in the original."
+  },
+  "23": {
+    "caption_start": "Figure 23 Power demand projection in the high, medium and low scenarios and in 2",
+    "docx_parts": [
+      "word/charts/chart11.xml"
+    ],
+    "pdf_page": 62,
+    "pdf_bbox": [
+      97.3,
+      99.2,
+      526.0,
+      325.0
+    ],
+    "file": "fig23.png",
+    "source": "chart-cache",
+    "chart_type": "bar (stacked)",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud-my.sharepoint.com/personal/thor_sazon_ife_no/Documents/Documents/Projects/InsdustryNorway/Input%20Data/2025.05.13_Industry_Demand_Calculations%20-%20Copy.xlsx)"
+  },
+  "24": {
+    "caption_start": "Figure 24: Demand projections assumed in the base case for the five offshore reg",
+    "docx_parts": [
+      "word/charts/chart12.xml"
+    ],
+    "pdf_page": 63,
+    "pdf_bbox": [
+      85.1,
+      402.2,
+      536.3,
+      656.0
+    ],
+    "file": "fig24.png",
+    "source": "embedded-xlsx",
+    "chart_type": "bar (stacked)",
+    "notes": "data from word/embeddings/Microsoft_Excel_Worksheet4.xlsx via chart series formulas Stacked: existing demand P1-P5 (full colour, bottom) and new demand 'New P1'..'P5' (same hue, lighter, top). As in the original, the legend lists P1-P5 only (new-demand entries are deleted from the legend in the source chart; the original separates them by a black outline, kept here as a black box around the existing part of each bar, which the caption refers to). Chart axis uses display unit 'thousands' -> values divided by 1000."
+  },
+  "25": {
+    "caption_start": "Figure 25 Daily load profile in other industry.",
+    "docx_parts": [
+      "word/charts/chart13.xml"
+    ],
+    "pdf_page": 64,
+    "pdf_bbox": [
+      139.7,
+      185.6,
+      484.0,
+      347.0
+    ],
+    "file": "fig25.png",
+    "source": "chart-cache",
+    "chart_type": "line (stacked)",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "26": {
+    "caption_start": "Figure 26 Schematic overview of the end-use sectors in residential sector (E=Ele",
+    "docx_parts": [
+      "word/media/image19.png"
+    ],
+    "pdf_page": 69,
+    "pdf_bbox": [
+      141.0,
+      178.4,
+      485.4,
+      394.9
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic; not a data plot, use original image/PDF crop"
+  },
+  "27": {
+    "caption_start": "Figure 27 End-use technologies in residential sector.",
+    "docx_parts": [
+      "word/media/image20.png"
+    ],
+    "pdf_page": 70,
+    "pdf_bbox": [
+      123.6,
+      99.2,
+      500.0,
+      389.0
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "diagram of end-use technologies; not a data plot, use original image/PDF crop"
+  },
+  "28": {
+    "caption_start": "Figure 28 Schematic overview of the energy system in commercial buildings.",
+    "docx_parts": [
+      "word/media/image21.png"
+    ],
+    "pdf_page": 70,
+    "pdf_bbox": [
+      85.1,
+      441.9,
+      552.4,
+      673.7
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "schematic; not a data plot, use original image/PDF crop"
+  },
+  "29": {
+    "caption_start": "Figure 29 Energy service demand in dwellings in 2050 per region and end-use, TWh",
+    "docx_parts": [
+      "word/charts/chart14.xml"
+    ],
+    "pdf_page": 74,
+    "pdf_bbox": [
+      85.1,
+      122.7,
+      532.0,
+      347.7
+    ],
+    "file": "fig29.png",
+    "source": "chart-cache",
+    "chart_type": "horizontal bar (stacked)",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud-my.sharepoint.com/personal/eva_rosenberg_ife_no/Documents/C-7054/Prosjekt/NTRANS/UC8/Bygg/Demand_Buildings_2024-05-05.xlsx) Colour families as in the original: DHW oranges, heat (PS-H/C-H) blues, ElSpec greys; new = lighter, existing = darker."
+  },
+  "30": {
+    "caption_start": "Figure 30 Energy service demand by end-use and region of commercial buildings in",
+    "docx_parts": [
+      "word/charts/chart15.xml"
+    ],
+    "pdf_page": 75,
+    "pdf_bbox": [
+      85.1,
+      118.7,
+      538.6,
+      358.7
+    ],
+    "file": "fig30.png",
+    "source": "chart-cache",
+    "chart_type": "horizontal bar (stacked)",
+    "notes": "data from chart cache (workbook: external link: file:///C:\\Veda\\Veda_models\\IFE-NO-2025.07.09_TS_vo_industry_bio\\VT_Norway_Buildings_2025-09-07.xlsx)"
+  },
+  "31": {
+    "caption_start": "Figure 31 Load profile for residential single-family house in model region NO1.",
+    "docx_parts": [
+      "word/media/image22.png"
+    ],
+    "pdf_page": 76,
+    "pdf_bbox": [
+      140.5,
+      99.2,
+      483.1,
+      284.2
+    ],
+    "file": "fig31.png",
+    "source": "digitized",
+    "chart_type": "line (digitized, 4 seasons x 24 h)",
+    "notes": "Digitized from the raster image by colour segmentation and axis calibration (gridlines/ticks); estimated accuracy about +/-0.0003 (1-2 % of full scale) where lines are visible; where thick lines overlap (e.g. hot water vs. el-specific) the hidden series is interpolated and may deviate more. Seasons are drawn as separate 24-h segments as in the original. Source image word/media/image22.png; 4 hidden/overlapped points linearly interpolated; 0 season-edge spikes replaced by extrapolation."
+  },
+  "32": {
+    "caption_start": "Figure 32 Load profile for residential multifamily house in model region NO1.",
+    "docx_parts": [
+      "word/media/image23.png"
+    ],
+    "pdf_page": 76,
+    "pdf_bbox": [
+      140.5,
+      337.1,
+      483.1,
+      522.1
+    ],
+    "file": "fig32.png",
+    "source": "digitized",
+    "chart_type": "line (digitized, 4 seasons x 24 h)",
+    "notes": "Digitized from the raster image by colour segmentation and axis calibration (gridlines/ticks); estimated accuracy about +/-0.0003 (1-2 % of full scale) where lines are visible; where thick lines overlap (e.g. hot water vs. el-specific) the hidden series is interpolated and may deviate more. Seasons are drawn as separate 24-h segments as in the original. Source image word/media/image23.png; 5 hidden/overlapped points linearly interpolated; 0 season-edge spikes replaced by extrapolation."
+  },
+  "33": {
+    "caption_start": "Figure 33 Load profile for commercial buildings in model region NO1.",
+    "docx_parts": [
+      "word/media/image24.png"
+    ],
+    "pdf_page": 77,
+    "pdf_bbox": [
+      137.8,
+      99.2,
+      485.8,
+      287.1
+    ],
+    "file": "fig33.png",
+    "source": "digitized",
+    "chart_type": "line (digitized, 4 seasons x 24 h)",
+    "notes": "Digitized from the raster image by colour segmentation and axis calibration (gridlines/ticks); estimated accuracy about +/-0.0003 (1-2 % of full scale) where lines are visible; where thick lines overlap (e.g. hot water vs. el-specific) the hidden series is interpolated and may deviate more. Seasons are drawn as separate 24-h segments as in the original. Source image word/media/image24.png; 5 hidden/overlapped points linearly interpolated; 0 season-edge spikes replaced by extrapolation."
+  },
+  "34": {
+    "caption_start": "Figure 34 Temperature dependent COP and heat output of nominal capacity for air-",
+    "docx_parts": [
+      "word/media/image25.png"
+    ],
+    "pdf_page": 79,
+    "pdf_bbox": [
+      102.3,
+      99.2,
+      521.3,
+      402.3
+    ],
+    "file": "fig34.png",
+    "source": "digitized",
+    "chart_type": "scatter (2 panels, digitized)",
+    "notes": "Digitized from the raster image: marker positions sampled every 0.25 °C where markers are present (the original has one marker per temperature observation; here one marker per 0.25 °C bin). Estimated accuracy +/-0.02 COP and +/-0.01 heat output. Source image word/media/image25.png; 0 hidden/overlapped points linearly interpolated."
+  },
+  "35": {
+    "caption_start": "Figure 35 Illustration of available share of capacity for wood stoves per season",
+    "docx_parts": [
+      "word/charts/chart16.xml"
+    ],
+    "pdf_page": 80,
+    "pdf_bbox": [
+      85.1,
+      163.0,
+      463.7,
+      347.2
+    ],
+    "file": "fig35.png",
+    "source": "chart-cache",
+    "chart_type": "bar (clustered)",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "36": {
+    "caption_start": "Figure 36 Development in demand for three types of trucks, 2018, 2030, and 2050 ",
+    "docx_parts": [
+      "word/charts/chart17.xml"
+    ],
+    "pdf_page": 85,
+    "pdf_bbox": [
+      131.4,
+      284.2,
+      495.0,
+      515.1
+    ],
+    "file": "fig36.png",
+    "source": "chart-cache",
+    "chart_type": "bar (clustered)",
+    "notes": "data from chart cache (workbook: no workbook) The two '>50 ton' series share one hue (long = lighter) as in the original, where they differ only by outline style; their values are identical."
+  },
+  "37": {
+    "caption_start": "Figure 37 The relative change in demand for the default scenario (NTP) in 2020, ",
+    "docx_parts": [
+      "word/charts/chart18.xml"
+    ],
+    "pdf_page": 87,
+    "pdf_bbox": [
+      85.1,
+      173.0,
+      538.6,
+      458.7
+    ],
+    "file": "fig37.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud.sharepoint.com/sites/NTRANS/Delte%20dokumenter/General/RA5%20User%20Cases/UC8%20Energy%20demand/Report%20and%20models/Transport/NTRANS_Transport_demand_NTP-2025-2036_20240220.xlsx) Series colours repeat in the original (e.g. car/air); here every series has its own colour."
+  },
+  "38": {
+    "caption_start": "Figure 38 Energy demand of non-road transport in 2020, 2030, and 2050, TWh/year.",
+    "docx_parts": [
+      "word/charts/chart19.xml"
+    ],
+    "pdf_page": 88,
+    "pdf_bbox": [
+      92.8,
+      99.2,
+      530.3,
+      346.2
+    ],
+    "file": "fig38.png",
+    "source": "chart-cache",
+    "chart_type": "bar (clustered) + line",
+    "notes": "data from chart cache (workbook: external link: https://ifecloud.sharepoint.com/sites/NTRANS/Delte%20dokumenter/General/RA5%20User%20Cases/UC8%20Energy%20demand/Report%20and%20models/Transport/NTRANS_Transport_demand_NTP-2025-2036_20240220.xlsx) Original is a combo chart with a secondary y-axis (bars in GWh/year, triangle markers for 'Relative change - 2020-2050' on a right-hand axis 0-1.6). Re-drawn as two aligned panels sharing the category axis (relative change on top) to avoid a dual-axis chart; values identical."
+  },
+  "39": {
+    "caption_start": "Figure 39 Matrix of powertrains applied for the different road transport demand.",
+    "docx_parts": [],
+    "pdf_page": 90,
+    "pdf_bbox": [
+      85.6,
+      329.9,
+      538.3,
+      469.9
+    ],
+    "file": null,
+    "source": "original",
+    "chart_type": "diagram",
+    "notes": "matrix/table drawing; not a data plot, use original image/PDF crop"
+  },
+  "40": {
+    "caption_start": "Figure 40 Investment cost development for TTRUCK-S.",
+    "docx_parts": [
+      "word/charts/chart20.xml"
+    ],
+    "pdf_page": 100,
+    "pdf_bbox": [
+      134.1,
+      99.2,
+      488.4,
+      311.8
+    ],
+    "file": "fig40.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "41": {
+    "caption_start": "Figure 41 Investment cost development for TTRUCK-LS & LL.",
+    "docx_parts": [
+      "word/charts/chart21.xml"
+    ],
+    "pdf_page": 100,
+    "pdf_bbox": [
+      134.1,
+      365.1,
+      488.4,
+      577.7
+    ],
+    "file": "fig41.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "42": {
+    "caption_start": "Figure 42 Accumulated traffic volume of each vehicle type depending on age, base",
+    "docx_parts": [
+      "word/charts/chart22.xml"
+    ],
+    "pdf_page": 102,
+    "pdf_bbox": [
+      85.1,
+      213.2,
+      538.6,
+      408.8
+    ],
+    "file": "fig42.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "43": {
+    "caption_start": "Figure 43 The zero-emission vehicles share of new investment and fleet in the fa",
+    "docx_parts": [
+      "word/media/image26.png"
+    ],
+    "pdf_page": 104,
+    "pdf_bbox": [
+      116.5,
+      99.2,
+      507.1,
+      359.1
+    ],
+    "file": "fig43.png",
+    "source": "digitized",
+    "chart_type": "line (digitized)",
+    "notes": "Digitized from a screenshot of an external report. The embedded image also contains a title and an external caption ('Figur 3.21 ...'), but both are cropped away in the report (Word picture crop), so they are not shown here either; legend and axis labels verbatim. Points hidden by the x-axis line (about 0 %) are set to 0, and the 2050 end points are extrapolated by one year where the line ends just before the plot edge. Sampled yearly 2010-2050; dashed (new vehicles) and solid (fleet) curves of the same colour are separated by position (new >= fleet) and continuity. Estimated accuracy +/-1.5 percentage points; around crossings and dash gaps values are interpolated. Source image word/media/image26.png; 11 hidden/overlapped points linearly interpolated."
+  },
+  "44": {
+    "caption_start": "Figure 44 Daily usage pattern for EV charging, disaggregated for different charg",
+    "docx_parts": [
+      "word/charts/chart23.xml"
+    ],
+    "pdf_page": 105,
+    "pdf_bbox": [
+      91.3,
+      99.2,
+      531.1,
+      315.5
+    ],
+    "file": "fig44.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: external link: file:///C:\\Veda2.0_localhost_2.6.1.1\\Veda\\Veda_models\\IFE-NO-2023.01.19-Flexbuild\\SuppXLS\\Scen_Base_Profiles.xlsx)"
+  },
+  "45": {
+    "caption_start": "Figure 45: Increase in energy demand as a function of outside temperature and es",
+    "docx_parts": [
+      "word/charts/chart24.xml"
+    ],
+    "pdf_page": 106,
+    "pdf_bbox": [
+      85.1,
+      311.7,
+      524.4,
+      595.1
+    ],
+    "file": "fig45.png",
+    "source": "chart-cache",
+    "chart_type": "scatter",
+    "notes": "data from chart cache (workbook: external link: file:///\\\\ad.ife.no\\dfs\\Org\\systemanalyse\\TIMES\\VEDA-IFE\\Documentation\\Transport\\TCAR-ELC%20efficiency%20-%20background%20data.xlsx) Axes padded by 0.5 °C / 4 % so points on the axis limits (e.g. Borbas at 20 °C, 0 %) are fully visible; points outside the original axis range stay hidden as in the original. Scatter: best/worst-case lines plus literature points with marker shapes as in the original."
+  },
+  "46": {
+    "caption_start": "Figure 46 Total EV charging demand by time slices",
+    "docx_parts": [
+      "word/media/image27.png"
+    ],
+    "pdf_page": 107,
+    "pdf_bbox": [
+      85.1,
+      99.2,
+      528.6,
+      333.5
+    ],
+    "file": "fig46.png",
+    "source": "digitized",
+    "chart_type": "bar (digitized, 96 time slices)",
+    "notes": "Digitized from the raster image: bar tops detected per bar (96 = 4 seasons x 24 h); estimated accuracy +/-0.0001 (about 1 px). Source image word/media/image27.png; 96 bars detected (expected 96)."
+  },
+  "47": {
+    "caption_start": "Figure 47 Slow and fast charging profiles based on data gathered within the Limc",
+    "docx_parts": [
+      "word/charts/chart25.xml"
+    ],
+    "pdf_page": 107,
+    "pdf_bbox": [
+      131.8,
+      453.5,
+      491.8,
+      670.4
+    ],
+    "file": "fig47.png",
+    "source": "chart-cache",
+    "chart_type": "line",
+    "notes": "data from chart cache (workbook: no workbook)"
+  },
+  "48": {
+    "caption_start": "Figure 48 Differences in investment costs by ship type and propulsion option com",
+    "docx_parts": [
+      "word/charts/chart26.xml"
+    ],
+    "pdf_page": 113,
+    "pdf_bbox": [
+      85.1,
+      99.2,
+      542.5,
+      402.2
+    ],
+    "file": "fig48.png",
+    "source": "chart-cache",
+    "chart_type": "bar (clustered)",
+    "notes": "data from chart cache (workbook: word/embeddings/oleObject1.bin (OLE, no xlsx package inside))"
+  }
+}

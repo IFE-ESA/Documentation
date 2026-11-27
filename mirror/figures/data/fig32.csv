@@ -1,0 +1,401 @@
+series,x,y
+"Space heat, point source",0.0,0.019426048565121413
+"Space heat, point source",1.0,0.019508830022075055
+"Space heat, point source",2.0,0.019812362030905077
+"Space heat, point source",3.0,0.020143487858719646
+"Space heat, point source",4.0,0.020474613686534218
+"Space heat, point source",5.0,0.021385209713024284
+"Space heat, point source",6.0,0.022737306843267108
+"Space heat, point source",7.0,0.023151214128035322
+"Space heat, point source",8.0,0.02155077262693157
+"Space heat, point source",9.0,0.020281456953642384
+"Space heat, point source",10.0,0.01970198675496689
+"Space heat, point source",11.0,0.018956953642384106
+"Space heat, point source",12.0,0.018405077262693158
+"Space heat, point source",13.0,0.01812913907284768
+"Space heat, point source",14.0,0.017963576158940397
+"Space heat, point source",15.0,0.01771523178807947
+"Space heat, point source",16.0,0.018377483443708608
+"Space heat, point source",17.0,0.01912251655629139
+"Space heat, point source",18.0,0.019619205298013247
+"Space heat, point source",19.0,0.019839955849889623
+"Space heat, point source",20.0,0.019950331125827815
+"Space heat, point source",21.0,0.01975717439293598
+"Space heat, point source",22.0,0.01926048565121413
+"Space heat, point source",23.0,0.019315673289183224
+"Space heat, point source",,
+"Space heat, point source",24.0,0.009161147902869758
+"Space heat, point source",25.0,0.009326710816777042
+"Space heat, point source",26.0,0.009519867549668874
+"Space heat, point source",27.0,0.009685430463576158
+"Space heat, point source",28.0,0.010016556291390729
+"Space heat, point source",29.0,0.010733995584988963
+"Space heat, point source",30.0,0.011589403973509934
+"Space heat, point source",31.0,0.011865342163355408
+"Space heat, point source",32.0,0.010899558498896247
+"Space heat, point source",33.0,0.0092439293598234
+"Space heat, point source",34.0,0.008747240618101546
+"Space heat, point source",35.0,0.008140176600441501
+"Space heat, point source",36.0,0.007477924944812362
+"Space heat, point source",37.0,0.006870860927152318
+"Space heat, point source",38.0,0.006567328918322296
+"Space heat, point source",39.0,0.006898454746136865
+"Space heat, point source",40.0,0.007146799116997792
+"Space heat, point source",41.0,0.0074503311258278145
+"Space heat, point source",42.0,0.007671081677704195
+"Space heat, point source",43.0,0.008029801324503311
+"Space heat, point source",44.0,0.008471302428256071
+"Space heat, point source",45.0,0.00880242825607064
+"Space heat, point source",46.0,0.008747240618101546
+"Space heat, point source",47.0,0.008967991169977926
+"Space heat, point source",,
+"Space heat, point source",48.0,0.0035044150110375275
+"Space heat, point source",49.0,0.003669977924944812
+"Space heat, point source",50.0,0.0038079470198675498
+"Space heat, point source",51.0,0.004442604856512141
+"Space heat, point source",52.0,0.004552980132450331
+"Space heat, point source",53.0,0.00510485651214128
+"Space heat, point source",54.0,0.00565673289183223
+"Space heat, point source",55.0,0.00554635761589404
+"Space heat, point source",56.0,0.004580573951434879
+"Space heat, point source",57.0,0.0037251655629139072
+"Space heat, point source",58.0,0.003062913907284768
+"Space heat, point source",59.0,0.002511037527593819
+"Space heat, point source",60.0,0.002262693156732892
+"Space heat, point source",61.0,0.0020419426048565122
+"Space heat, point source",62.0,0.0020695364238410598
+"Space heat, point source",63.0,0.002207505518763797
+"Space heat, point source",64.0,0.002262693156732892
+"Space heat, point source",65.0,0.0024282560706401766
+"Space heat, point source",66.0,0.002676600441501104
+"Space heat, point source",67.0,0.0029801324503311256
+"Space heat, point source",68.0,0.0033112582781456954
+"Space heat, point source",69.0,0.0036975717439293597
+"Space heat, point source",70.0,0.0038631346578366444
+"Space heat, point source",71.0,0.00358719646799117
+"Space heat, point source",,
+"Space heat, point source",72.0,0.009161147902869758
+"Space heat, point source",73.0,0.009437086092715232
+"Space heat, point source",74.0,0.009795805739514349
+"Space heat, point source",75.0,0.01020971302428256
+"Space heat, point source",76.0,0.010540838852097131
+"Space heat, point source",77.0,0.01131346578366446
+"Space heat, point source",78.0,0.01227924944812362
+"Space heat, point source",79.0,0.011892935982339956
+"Space heat, point source",80.0,0.010623620309050773
+"Space heat, point source",81.0,0.009713024282560706
+"Space heat, point source",82.0,0.009078366445916114
+"Space heat, point source",83.0,0.008305739514348785
+"Space heat, point source",84.0,0.007726269315673289
+"Space heat, point source",85.0,0.007422737306843267
+"Space heat, point source",86.0,0.007339955849889624
+"Space heat, point source",87.0,0.007753863134657837
+"Space heat, point source",88.0,0.008581677704194261
+"Space heat, point source",89.0,0.00935430463576159
+"Space heat, point source",90.0,0.009795805739514349
+"Space heat, point source",91.0,0.010044150110375277
+"Space heat, point source",92.0,0.010126931567328919
+"Space heat, point source",93.0,0.009795805739514349
+"Space heat, point source",94.0,0.00946467991169978
+"Space heat, point source",95.0,
+"Space heat, point source",,
+"Hot water, point source",0.0,0.006484547461368654
+"Hot water, point source",1.0,0.005408388520971303
+"Hot water, point source",2.0,0.004277041942604857
+"Hot water, point source",3.0,0.0037527593818984547
+"Hot water, point source",4.0,0.003890728476821192
+"Hot water, point source",5.0,0.004856512141280353
+"Hot water, point source",6.0,0.006125827814569536
+"Hot water, point source",7.0,0.010568432671081677
+"Hot water, point source",8.0,0.011892935982339956
+"Hot water, point source",9.0,0.012693156732891833
+"Hot water, point source",10.0,0.012969094922737307
+"Hot water, point source",11.0,0.012913907284768211
+"Hot water, point source",12.0,0.012555187637969095
+"Hot water, point source",13.0,0.01238962472406181
+"Hot water, point source",14.0,0.01238962472406181
+"Hot water, point source",15.0,0.012858719646799117
+"Hot water, point source",16.0,0.013548565121412804
+"Hot water, point source",17.0,0.014100441501103752
+"Hot water, point source",18.0,0.013990066225165562
+"Hot water, point source",19.0,0.013824503311258278
+"Hot water, point source",20.0,0.013300220750551876
+"Hot water, point source",21.0,0.012086092715231788
+"Hot water, point source",22.0,0.010678807947019867
+"Hot water, point source",23.0,0.009740618101545254
+"Hot water, point source",,
+"Hot water, point source",24.0,0.006926048565121413
+"Hot water, point source",25.0,0.0051876379690949225
+"Hot water, point source",26.0,0.004249448123620309
+"Hot water, point source",27.0,0.0037527593818984547
+"Hot water, point source",28.0,0.003890728476821192
+"Hot water, point source",29.0,0.005049668874172185
+"Hot water, point source",30.0,0.006732891832229581
+"Hot water, point source",31.0,0.010375275938189845
+"Hot water, point source",32.0,0.011920529801324502
+"Hot water, point source",33.0,0.012720750551876379
+"Hot water, point source",34.0,0.012969094922737307
+"Hot water, point source",35.0,0.012858719646799117
+"Hot water, point source",36.0,0.012610375275938189
+"Hot water, point source",37.0,0.012362030905077263
+"Hot water, point source",38.0,0.012417218543046357
+"Hot water, point source",39.0,0.01298289183222958
+"Hot water, point source",40.0,0.013548565121412804
+"Hot water, point source",41.0,0.014072847682119206
+"Hot water, point source",42.0,0.013990066225165562
+"Hot water, point source",43.0,0.013824503311258278
+"Hot water, point source",44.0,0.013245033112582781
+"Hot water, point source",45.0,0.012030905077262692
+"Hot water, point source",46.0,0.010596026490066225
+"Hot water, point source",47.0,0.009547461368653422
+"Hot water, point source",,
+"Hot water, point source",48.0,0.006512141280353201
+"Hot water, point source",49.0,0.005794701986754967
+"Hot water, point source",50.0,0.004497792494481236
+"Hot water, point source",51.0,0.0037251655629139072
+"Hot water, point source",52.0,0.0038355408388520973
+"Hot water, point source",53.0,0.004249448123620309
+"Hot water, point source",54.0,0.008443708609271523
+"Hot water, point source",55.0,0.010540838852097131
+"Hot water, point source",56.0,0.011975717439293598
+"Hot water, point source",57.0,0.012748344370860927
+"Hot water, point source",58.0,0.012969094922737307
+"Hot water, point source",59.0,0.012858719646799117
+"Hot water, point source",60.0,0.012555187637969095
+"Hot water, point source",61.0,0.012362030905077263
+"Hot water, point source",62.0,0.012417218543046357
+"Hot water, point source",63.0,0.01294150110375276
+"Hot water, point source",64.0,0.013631346578366446
+"Hot water, point source",65.0,0.0141280353200883
+"Hot water, point source",66.0,0.013990066225165562
+"Hot water, point source",67.0,0.01379690949227373
+"Hot water, point source",68.0,0.013631346578366446
+"Hot water, point source",69.0,0.011506622516556292
+"Hot water, point source",70.0,0.010609823399558498
+"Hot water, point source",71.0,0.009713024282560706
+"Hot water, point source",,
+"Hot water, point source",72.0,0.006926048565121413
+"Hot water, point source",73.0,0.00510485651214128
+"Hot water, point source",74.0,0.004194260485651214
+"Hot water, point source",75.0,0.0037251655629139072
+"Hot water, point source",76.0,0.003945916114790287
+"Hot water, point source",77.0,0.00510485651214128
+"Hot water, point source",78.0,0.006870860927152318
+"Hot water, point source",79.0,0.010513245033112583
+"Hot water, point source",80.0,0.012030905077262692
+"Hot water, point source",81.0,0.012775938189845475
+"Hot water, point source",82.0,0.012969094922737307
+"Hot water, point source",83.0,0.012858719646799117
+"Hot water, point source",84.0,0.012555187637969095
+"Hot water, point source",85.0,0.012362030905077263
+"Hot water, point source",86.0,0.012444812362030905
+"Hot water, point source",87.0,0.013038079470198676
+"Hot water, point source",88.0,0.013631346578366446
+"Hot water, point source",89.0,0.014100441501103752
+"Hot water, point source",90.0,0.013990066225165562
+"Hot water, point source",91.0,0.01379690949227373
+"Hot water, point source",92.0,0.01316225165562914
+"Hot water, point source",93.0,0.011865342163355408
+"Hot water, point source",94.0,0.010540838852097131
+"Hot water, point source",95.0,0.009602649006622516
+"Hot water, point source",,
+"Space heat and hot water, central heat",0.0,0.01586644591611479
+"Space heat and hot water, central heat",1.0,0.015728476821192054
+"Space heat and hot water, central heat",2.0,0.015562913907284768
+"Space heat and hot water, central heat",3.0,0.015562913907284768
+"Space heat and hot water, central heat",4.0,0.015838852097130242
+"Space heat and hot water, central heat",5.0,0.016721854304635762
+"Space heat and hot water, central heat",6.0,0.018184326710816778
+"Space heat and hot water, central heat",7.0,0.019398454746136867
+"Space heat and hot water, central heat",8.0,0.0184878587196468
+"Space heat and hot water, central heat",9.0,0.018184326710816778
+"Space heat and hot water, central heat",10.0,0.017963576158940397
+"Space heat and hot water, central heat",11.0,0.01741169977924945
+"Space heat and hot water, central heat",12.0,0.016777041942604855
+"Space heat and hot water, central heat",13.0,0.016473509933774836
+"Space heat and hot water, central heat",14.0,0.016363134657836644
+"Space heat and hot water, central heat",15.0,0.016363134657836644
+"Space heat and hot water, central heat",16.0,0.01719094922737307
+"Space heat and hot water, central heat",17.0,0.01756346578366446
+"Space heat and hot water, central heat",18.0,0.01793598233995585
+"Space heat and hot water, central heat",19.0,0.018073951434878586
+"Space heat and hot water, central heat",20.0,0.01804635761589404
+"Space heat and hot water, central heat",21.0,0.017577262693156733
+"Space heat and hot water, central heat",22.0,0.016777041942604855
+"Space heat and hot water, central heat",23.0,0.016473509933774836
+"Space heat and hot water, central heat",,
+"Space heat and hot water, central heat",24.0,0.008609271523178808
+"Space heat and hot water, central heat",25.0,0.008388520971302427
+"Space heat and hot water, central heat",26.0,0.008278145695364239
+"Space heat and hot water, central heat",27.0,0.008222958057395143
+"Space heat and hot water, central heat",28.0,0.008443708609271523
+"Space heat and hot water, central heat",29.0,0.009216335540838852
+"Space heat and hot water, central heat",30.0,0.010347682119205299
+"Space heat and hot water, central heat",31.0,0.010954746136865342
+"Space heat and hot water, central heat",32.0,0.01065121412803532
+"Space heat and hot water, central heat",33.0,0.010485651214128035
+"Space heat and hot water, central heat",34.0,0.010292494481236203
+"Space heat and hot water, central heat",35.0,0.010044150110375277
+"Space heat and hot water, central heat",36.0,0.008995584988962472
+"Space heat and hot water, central heat",37.0,0.008443708609271523
+"Space heat and hot water, central heat",38.0,0.008195364238410595
+"Space heat and hot water, central heat",39.0,0.008581677704194261
+"Space heat and hot water, central heat",40.0,0.008967991169977926
+"Space heat and hot water, central heat",41.0,0.009326710816777042
+"Space heat and hot water, central heat",42.0,0.00946467991169978
+"Space heat and hot water, central heat",43.0,0.009657836644591612
+"Space heat and hot water, central heat",44.0,0.009850993377483444
+"Space heat and hot water, central heat",45.0,0.009685430463576158
+"Space heat and hot water, central heat",46.0,0.009271523178807948
+"Space heat and hot water, central heat",47.0,0.0092439293598234
+"Space heat and hot water, central heat",,
+"Space heat and hot water, central heat",48.0,0.004332229580573952
+"Space heat and hot water, central heat",49.0,0.0041390728476821195
+"Space heat and hot water, central heat",50.0,0.0040838852097130245
+"Space heat and hot water, central heat",51.0,0.004166666666666667
+"Space heat and hot water, central heat",52.0,0.004304635761589404
+"Space heat and hot water, central heat",53.0,0.004773730684326711
+"Space heat and hot water, central heat",54.0,0.005877483443708609
+"Space heat and hot water, central heat",55.0,0.007146799116997792
+"Space heat and hot water, central heat",56.0,0.006622516556291391
+"Space heat and hot water, central heat",57.0,0.0062637969094922735
+"Space heat and hot water, central heat",58.0,0.005849889624724062
+"Space heat and hot water, central heat",59.0,0.00543598233995585
+"Space heat and hot water, central heat",60.0,0.0051324503311258275
+"Space heat and hot water, central heat",61.0,0.004939293598233995
+"Space heat and hot water, central heat",62.0,0.004966887417218543
+"Space heat and hot water, central heat",63.0,0.0052152317880794705
+"Space heat and hot water, central heat",64.0,0.005491169977924945
+"Space heat and hot water, central heat",65.0,0.005711920529801325
+"Space heat and hot water, central heat",66.0,0.005849889624724062
+"Space heat and hot water, central heat",67.0,0.006043046357615894
+"Space heat and hot water, central heat",68.0,0.006125827814569536
+"Space heat and hot water, central heat",69.0,0.006015452538631346
+"Space heat and hot water, central heat",70.0,0.00565673289183223
+"Space heat and hot water, central heat",71.0,0.005298013245033113
+"Space heat and hot water, central heat",,
+"Space heat and hot water, central heat",72.0,0.008719646799116998
+"Space heat and hot water, central heat",73.0,0.008581677704194261
+"Space heat and hot water, central heat",74.0,0.008443708609271523
+"Space heat and hot water, central heat",75.0,0.008471302428256071
+"Space heat and hot water, central heat",76.0,0.008747240618101546
+"Space heat and hot water, central heat",77.0,0.009575055187637968
+"Space heat and hot water, central heat",78.0,0.010623620309050773
+"Space heat and hot water, central heat",79.0,0.011230684326710818
+"Space heat and hot water, central heat",80.0,0.010954746136865342
+"Space heat and hot water, central heat",81.0,0.01076158940397351
+"Space heat and hot water, central heat",82.0,0.010402869757174393
+"Space heat and hot water, central heat",83.0,0.010071743929359823
+"Space heat and hot water, central heat",84.0,0.009105960264900662
+"Space heat and hot water, central heat",85.0,0.008830022075055188
+"Space heat and hot water, central heat",86.0,0.008885209713024282
+"Space heat and hot water, central heat",87.0,0.009271523178807948
+"Space heat and hot water, central heat",88.0,0.009961368653421633
+"Space heat and hot water, central heat",89.0,0.010596026490066225
+"Space heat and hot water, central heat",90.0,0.010899558498896247
+"Space heat and hot water, central heat",91.0,0.010954746136865342
+"Space heat and hot water, central heat",92.0,0.010733995584988963
+"Space heat and hot water, central heat",93.0,0.010292494481236203
+"Space heat and hot water, central heat",94.0,0.009795805739514349
+"Space heat and hot water, central heat",95.0,0.009575055187637968
+"Space heat and hot water, central heat",,
+El-specific,0.0,0.0075055187637969095
+El-specific,1.0,0.006732891832229581
+El-specific,2.0,0.006098233995584989
+El-specific,3.0,0.005960264900662251
+El-specific,4.0,0.005905077262693157
+El-specific,5.0,0.006181015452538631
+El-specific,6.0,0.007339955849889624
+El-specific,7.0,0.009078366445916114
+El-specific,8.0,0.010596026490066225
+El-specific,9.0,0.011396247240618102
+El-specific,10.0,0.01120309050772627
+El-specific,11.0,0.010899558498896247
+El-specific,12.0,0.010678807947019867
+El-specific,13.0,0.010706401766004415
+El-specific,14.0,0.011699779249448124
+El-specific,15.0,0.013852097130242826
+El-specific,16.0,0.016169977924944814
+El-specific,17.0,0.017660044150110375
+El-specific,18.0,0.018211920529801324
+El-specific,19.0,0.018570640176600442
+El-specific,20.0,0.018653421633554084
+El-specific,21.0,0.017577262693156733
+El-specific,22.0,0.015286975717439293
+El-specific,23.0,0.013079470198675497
+El-specific,,
+El-specific,24.0,0.006622516556291391
+El-specific,25.0,0.006153421633554084
+El-specific,26.0,0.005905077262693157
+El-specific,27.0,0.005905077262693157
+El-specific,28.0,0.005960264900662251
+El-specific,29.0,0.006622516556291391
+El-specific,30.0,0.007947019867549669
+El-specific,31.0,0.009381898454746136
+El-specific,32.0,0.010237306843267109
+El-specific,33.0,0.010182119205298013
+El-specific,34.0,0.009850993377483444
+El-specific,35.0,0.009740618101545254
+El-specific,36.0,0.009630242825607064
+El-specific,37.0,0.00987858719646799
+El-specific,38.0,0.011065121412803532
+El-specific,39.0,0.012610375275938189
+El-specific,40.0,0.013879690949227374
+El-specific,41.0,0.014624724061810155
+El-specific,42.0,0.015424944812362031
+El-specific,43.0,0.01619757174392936
+El-specific,44.0,0.016335540838852098
+El-specific,45.0,0.015011037527593819
+El-specific,46.0,0.012637969094922737
+El-specific,47.0,0.010540838852097131
+El-specific,,
+El-specific,48.0,0.005711920529801325
+El-specific,49.0,0.00532560706401766
+El-specific,50.0,0.0051324503311258275
+El-specific,51.0,0.0050772626931567325
+El-specific,52.0,0.00510485651214128
+El-specific,53.0,0.00565673289183223
+El-specific,54.0,0.006705298013245033
+El-specific,55.0,0.007836644591611479
+El-specific,56.0,0.008581677704194261
+El-specific,57.0,0.008719646799116998
+El-specific,58.0,0.008609271523178808
+El-specific,59.0,0.008333333333333333
+El-specific,60.0,0.008222958057395143
+El-specific,61.0,0.008664459161147903
+El-specific,62.0,0.009740618101545254
+El-specific,63.0,0.010927152317880795
+El-specific,64.0,0.011810154525386314
+El-specific,65.0,0.012362030905077263
+El-specific,66.0,0.012748344370860927
+El-specific,67.0,0.013189845474613687
+El-specific,68.0,0.013134657836644591
+El-specific,69.0,0.012113686534216336
+El-specific,70.0,0.010292494481236203
+El-specific,71.0,0.00880242825607064
+El-specific,,
+El-specific,72.0,0.006567328918322296
+El-specific,73.0,0.006125827814569536
+El-specific,74.0,0.005905077262693157
+El-specific,75.0,0.005905077262693157
+El-specific,76.0,0.005987858719646799
+El-specific,77.0,0.006705298013245033
+El-specific,78.0,0.008112582781456953
+El-specific,79.0,0.009519867549668874
+El-specific,80.0,0.010264900662251655
+El-specific,81.0,0.010126931567328919
+El-specific,82.0,0.009823399558498896
+El-specific,83.0,0.009713024282560706
+El-specific,84.0,0.009602649006622516
+El-specific,85.0,0.009933774834437087
+El-specific,86.0,0.01120309050772627
+El-specific,87.0,0.012803532008830023
+El-specific,88.0,0.013962472406181016
+El-specific,89.0,0.014679911699779249
+El-specific,90.0,0.015535320088300221
+El-specific,91.0,0.016252759381898456
+El-specific,92.0,0.016280353200883002
+El-specific,93.0,0.014845474613686535
+El-specific,94.0,0.012306843267108169
+El-specific,95.0,0.010375275938189845
+El-specific,,

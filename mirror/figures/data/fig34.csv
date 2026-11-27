@@ -1,0 +1,497 @@
+panel,series,x,y
+COP,Air-water,-8.75,1.9158415841584158
+COP,Air-water,-8.5,1.9306930693069306
+COP,Air-water,-8.25,
+COP,Air-water,-8.0,
+COP,Air-water,-7.75,1.9455445544554455
+COP,Air-water,-7.5,1.9455445544554455
+COP,Air-water,-7.25,1.9628712871287128
+COP,Air-water,-7.0,1.9727722772277227
+COP,Air-water,-6.75,1.9801980198019802
+COP,Air-water,-6.5,1.9876237623762376
+COP,Air-water,-6.25,1.995049504950495
+COP,Air-water,-6.0,2.0074257425742577
+COP,Air-water,-5.75,2.014851485148515
+COP,Air-water,-5.5,2.0247524752475248
+COP,Air-water,-5.25,2.0346534653465347
+COP,Air-water,-5.0,2.042079207920792
+COP,Air-water,-4.75,2.0544554455445545
+COP,Air-water,-4.5,2.0643564356435644
+COP,Air-water,-4.25,2.0767326732673266
+COP,Air-water,-4.0,
+COP,Air-water,-3.75,2.0841584158415842
+COP,Air-water,-3.5,2.099009900990099
+COP,Air-water,-3.25,2.103960396039604
+COP,Air-water,-3.0,2.1113861386138613
+COP,Air-water,-2.75,2.123762376237624
+COP,Air-water,-2.5,2.131188118811881
+COP,Air-water,-2.25,2.1386138613861387
+COP,Air-water,-2.0,2.1485148514851486
+COP,Air-water,-1.75,2.1534653465346536
+COP,Air-water,-1.5,2.1658415841584158
+COP,Air-water,-1.25,2.1757425742574257
+COP,Air-water,-1.0,2.1782178217821784
+COP,Air-water,-0.75,2.1930693069306932
+COP,Air-water,-0.5,2.2004950495049505
+COP,Air-water,-0.25,2.2103960396039604
+COP,Air-water,0.0,2.2153465346534653
+COP,Air-water,0.25,2.2252475247524752
+COP,Air-water,0.5,2.2326732673267324
+COP,Air-water,0.75,2.2425742574257423
+COP,Air-water,1.0,2.25
+COP,Air-water,1.25,2.25990099009901
+COP,Air-water,1.5,2.272277227722772
+COP,Air-water,1.75,2.2772277227722775
+COP,Air-water,2.0,2.292079207920792
+COP,Air-water,2.25,2.3217821782178216
+COP,Air-water,2.5,2.3613861386138613
+COP,Air-water,2.75,2.3935643564356437
+COP,Air-water,3.0,2.4207920792079207
+COP,Air-water,3.25,2.4702970297029703
+COP,Air-water,3.5,2.495049504950495
+COP,Air-water,3.75,2.5272277227722775
+COP,Air-water,4.0,2.5594059405940595
+COP,Air-water,4.25,2.5866336633663365
+COP,Air-water,4.5,2.616336633663366
+COP,Air-water,4.75,2.650990099009901
+COP,Air-water,5.0,2.7574257425742577
+COP,Air-water,5.25,2.7871287128712874
+COP,Air-water,5.5,2.8193069306930694
+COP,Air-water,5.75,2.8316831683168315
+COP,Air-water,6.0,2.881188118811881
+COP,Air-water,6.25,2.910891089108911
+COP,Air-water,6.5,2.943069306930693
+COP,Air-water,6.75,2.943069306930693
+COP,Air-water,7.0,3.012376237623762
+COP,Air-water,7.25,3.032178217821782
+COP,Air-water,7.5,3.0544554455445545
+COP,Air-water,7.75,3.0618811881188117
+COP,Air-water,8.0,3.0742574257425743
+COP,Air-water,8.25,3.094059405940594
+COP,Air-water,8.5,3.1113861386138613
+COP,Air-water,8.75,3.1262376237623766
+COP,Air-water,9.0,3.141089108910891
+COP,Air-water,9.25,3.155940594059406
+COP,Air-water,9.5,3.1658415841584158
+COP,Air-water,9.75,3.1905940594059405
+COP,Air-water,10.0,3.2029702970297027
+COP,Air-water,10.25,3.2202970297029703
+COP,Air-water,10.5,3.23019801980198
+COP,Air-water,10.75,3.2524752475247523
+COP,Air-water,11.0,3.2673267326732676
+COP,Air-water,11.25,3.2846534653465347
+COP,Air-water,11.5,3.2970297029702973
+COP,Air-water,11.75,3.3143564356435644
+COP,Air-water,12.0,3.3292079207920793
+COP,Air-water,12.25,3.344059405940594
+COP,Air-water,12.5,3.3613861386138613
+COP,Air-water,12.75,3.3762376237623766
+COP,Air-water,13.0,3.391089108910891
+COP,Air-water,13.25,3.4084158415841586
+COP,Air-water,13.5,3.423267326732673
+COP,Air-water,13.75,3.4381188118811883
+COP,Air-water,14.0,3.4554455445544554
+COP,Air-water,14.25,3.467821782178218
+COP,Air-water,14.5,3.485148514851485
+COP,Air-water,14.75,3.5024752475247523
+COP,Air-water,15.0,3.514851485148515
+COP,Air-water,15.25,3.5173267326732676
+COP,Air-water,15.5,3.5173267326732676
+COP,Air-water,15.75,3.5173267326732676
+COP,Air-water,16.0,3.5173267326732676
+COP,Air-water,16.25,3.5173267326732676
+COP,Air-water,16.5,3.5173267326732676
+COP,Air-water,16.75,3.5173267326732676
+COP,Air-water,17.0,3.5173267326732676
+COP,Air-water,17.25,3.5173267326732676
+COP,Air-water,17.5,
+COP,Air-water,17.75,3.5173267326732676
+COP,Air-water,18.0,3.51980198019802
+COP,Air-water,18.25,3.51980198019802
+COP,Air-water,18.5,
+COP,Air-water,18.75,3.5173267326732676
+COP,Air-water,19.0,3.5173267326732676
+COP,Air-water,19.25,3.5173267326732676
+COP,Air-water,19.5,3.5173267326732676
+COP,Air-water,19.75,3.5173267326732676
+COP,Air-water,20.0,3.5173267326732676
+COP,Air-water,20.25,3.532178217821782
+COP,Air-water,20.5,3.5173267326732676
+COP,Air-water,20.75,3.5173267326732676
+COP,Air-water,21.0,3.5173267326732676
+COP,Air-water,21.25,3.532178217821782
+COP,Air-water,21.5,
+COP,Air-water,21.75,
+COP,Air-water,22.0,3.5173267326732676
+COP,Air-air,-8.75,2.1584158415841586
+COP,Air-air,-8.5,2.146039603960396
+COP,Air-air,-8.25,
+COP,Air-air,-8.0,
+COP,Air-air,-7.75,2.1782178217821784
+COP,Air-air,-7.5,2.1757425742574257
+COP,Air-air,-7.25,2.1905940594059405
+COP,Air-air,-7.0,2.198019801980198
+COP,Air-air,-6.75,2.202970297029703
+COP,Air-air,-6.5,2.207920792079208
+COP,Air-air,-6.25,2.212871287128713
+COP,Air-air,-6.0,2.2202970297029703
+COP,Air-air,-5.75,2.2103960396039604
+COP,Air-air,-5.5,2.2326732673267324
+COP,Air-air,-5.25,2.24009900990099
+COP,Air-air,-5.0,2.245049504950495
+COP,Air-air,-4.75,2.2524752475247523
+COP,Air-air,-4.5,2.262376237623762
+COP,Air-air,-4.25,2.2747524752475248
+COP,Air-air,-4.0,
+COP,Air-air,-3.75,2.2747524752475248
+COP,Air-air,-3.5,2.2846534653465347
+COP,Air-air,-3.25,2.2871287128712874
+COP,Air-air,-3.0,2.2945544554455446
+COP,Air-air,-2.75,2.301980198019802
+COP,Air-air,-2.5,2.3044554455445545
+COP,Air-air,-2.25,2.3118811881188117
+COP,Air-air,-2.0,2.3193069306930694
+COP,Air-air,-1.75,2.3242574257425743
+COP,Air-air,-1.5,2.3292079207920793
+COP,Air-air,-1.25,2.3366336633663365
+COP,Air-air,-1.0,2.3415841584158414
+COP,Air-air,-0.75,2.349009900990099
+COP,Air-air,-0.5,2.353960396039604
+COP,Air-air,-0.25,2.3613861386138613
+COP,Air-air,0.0,2.368811881188119
+COP,Air-air,0.25,2.371287128712871
+COP,Air-air,0.5,2.376237623762376
+COP,Air-air,0.75,2.386138613861386
+COP,Air-air,1.0,2.3886138613861387
+COP,Air-air,1.25,2.396039603960396
+COP,Air-air,1.5,2.405940594059406
+COP,Air-air,1.75,2.4084158415841586
+COP,Air-air,2.0,2.4158415841584158
+COP,Air-air,2.25,2.4381188118811883
+COP,Air-air,2.5,2.4653465346534653
+COP,Air-air,2.75,2.487623762376238
+COP,Air-air,3.0,2.504950495049505
+COP,Air-air,3.25,2.5396039603960396
+COP,Air-air,3.5,2.5643564356435644
+COP,Air-air,3.75,2.5915841584158414
+COP,Air-air,4.0,2.613861386138614
+COP,Air-air,4.25,2.636138613861386
+COP,Air-air,4.5,2.6633663366336635
+COP,Air-air,4.75,2.6905940594059405
+COP,Air-air,5.0,2.7128712871287126
+COP,Air-air,5.25,2.735148514851485
+COP,Air-air,5.5,2.762376237623762
+COP,Air-air,5.75,2.7896039603960396
+COP,Air-air,6.0,2.8143564356435644
+COP,Air-air,6.25,2.836633663366337
+COP,Air-air,6.5,2.8613861386138613
+COP,Air-air,6.75,2.8886138613861387
+COP,Air-air,7.0,2.910891089108911
+COP,Air-air,7.25,2.913366336633663
+COP,Air-air,7.5,2.9158415841584158
+COP,Air-air,7.75,2.9158415841584158
+COP,Air-air,8.0,2.9158415841584158
+COP,Air-air,8.25,2.9158415841584158
+COP,Air-air,8.5,2.9158415841584158
+COP,Air-air,8.75,2.9158415841584158
+COP,Air-air,9.0,2.9158415841584158
+COP,Air-air,9.25,2.9158415841584158
+COP,Air-air,9.5,2.913366336633663
+COP,Air-air,9.75,2.9158415841584158
+COP,Air-air,10.0,2.9158415841584158
+COP,Air-air,10.25,2.9158415841584158
+COP,Air-air,10.5,2.913366336633663
+COP,Air-air,10.75,2.913366336633663
+COP,Air-air,11.0,2.9158415841584158
+COP,Air-air,11.25,2.9158415841584158
+COP,Air-air,11.5,2.9158415841584158
+COP,Air-air,11.75,2.913366336633663
+COP,Air-air,12.0,2.9158415841584158
+COP,Air-air,12.25,2.9158415841584158
+COP,Air-air,12.5,2.9158415841584158
+COP,Air-air,12.75,2.9158415841584158
+COP,Air-air,13.0,2.9158415841584158
+COP,Air-air,13.25,2.9158415841584158
+COP,Air-air,13.5,2.9158415841584158
+COP,Air-air,13.75,2.9158415841584158
+COP,Air-air,14.0,2.9158415841584158
+COP,Air-air,14.25,2.913366336633663
+COP,Air-air,14.5,2.9158415841584158
+COP,Air-air,14.75,2.9158415841584158
+COP,Air-air,15.0,2.9158415841584158
+COP,Air-air,15.25,2.913366336633663
+COP,Air-air,15.5,2.9158415841584158
+COP,Air-air,15.75,2.913366336633663
+COP,Air-air,16.0,2.9158415841584158
+COP,Air-air,16.25,2.9158415841584158
+COP,Air-air,16.5,2.913366336633663
+COP,Air-air,16.75,2.913366336633663
+COP,Air-air,17.0,2.9158415841584158
+COP,Air-air,17.25,2.9158415841584158
+COP,Air-air,17.5,
+COP,Air-air,17.75,2.913366336633663
+COP,Air-air,18.0,2.9158415841584158
+COP,Air-air,18.25,2.9158415841584158
+COP,Air-air,18.5,
+COP,Air-air,18.75,2.913366336633663
+COP,Air-air,19.0,2.9158415841584158
+COP,Air-air,19.25,2.9158415841584158
+COP,Air-air,19.5,2.913366336633663
+COP,Air-air,19.75,2.913366336633663
+COP,Air-air,20.0,2.9158415841584158
+COP,Air-air,20.25,2.9282178217821784
+COP,Air-air,20.5,2.9158415841584158
+COP,Air-air,20.75,2.9158415841584158
+COP,Air-air,21.0,2.9158415841584158
+COP,Air-air,21.25,2.9306930693069306
+COP,Air-air,21.5,
+COP,Air-air,21.75,
+COP,Air-air,22.0,2.913366336633663
+Available heat output,Air-water,-8.75,0.5014925373134329
+Available heat output,Air-water,-8.5,0.5014925373134329
+Available heat output,Air-water,-8.25,
+Available heat output,Air-water,-8.0,
+Available heat output,Air-water,-7.75,0.5044776119402985
+Available heat output,Air-water,-7.5,0.5024875621890548
+Available heat output,Air-water,-7.25,0.5094527363184079
+Available heat output,Air-water,-7.0,0.5124378109452736
+Available heat output,Air-water,-6.75,0.5144278606965175
+Available heat output,Air-water,-6.5,0.5174129353233831
+Available heat output,Air-water,-6.25,0.5194029850746269
+Available heat output,Air-water,-6.0,0.5233830845771145
+Available heat output,Air-water,-5.75,0.5243781094527363
+Available heat output,Air-water,-5.5,0.5283582089552239
+Available heat output,Air-water,-5.25,0.5313432835820896
+Available heat output,Air-water,-5.0,0.5333333333333333
+Available heat output,Air-water,-4.75,0.5373134328358209
+Available heat output,Air-water,-4.5,0.5402985074626866
+Available heat output,Air-water,-4.25,0.5462686567164179
+Available heat output,Air-water,-4.0,
+Available heat output,Air-water,-3.75,0.5472636815920398
+Available heat output,Air-water,-3.5,0.5512437810945274
+Available heat output,Air-water,-3.25,0.5522388059701493
+Available heat output,Air-water,-3.0,0.5552238805970149
+Available heat output,Air-water,-2.75,0.5582089552238806
+Available heat output,Air-water,-2.5,0.5601990049751244
+Available heat output,Air-water,-2.25,0.56318407960199
+Available heat output,Air-water,-2.0,0.5661691542288557
+Available heat output,Air-water,-1.75,0.5671641791044776
+Available heat output,Air-water,-1.5,0.5711442786069652
+Available heat output,Air-water,-1.25,0.5741293532338309
+Available heat output,Air-water,-1.0,0.5761194029850747
+Available heat output,Air-water,-0.75,0.5791044776119403
+Available heat output,Air-water,-0.5,0.5810945273631841
+Available heat output,Air-water,-0.25,0.5850746268656717
+Available heat output,Air-water,0.0,0.5870646766169154
+Available heat output,Air-water,0.25,0.5900497512437811
+Available heat output,Air-water,0.5,0.5920398009950248
+Available heat output,Air-water,0.75,0.5960199004975124
+Available heat output,Air-water,1.0,0.5970149253731343
+Available heat output,Air-water,1.25,0.6
+Available heat output,Air-water,1.5,0.6039800995024875
+Available heat output,Air-water,1.75,0.6059701492537314
+Available heat output,Air-water,2.0,0.6109452736318408
+Available heat output,Air-water,2.25,0.6238805970149254
+Available heat output,Air-water,2.5,0.6398009950248756
+Available heat output,Air-water,2.75,0.6537313432835821
+Available heat output,Air-water,3.0,0.6656716417910448
+Available heat output,Air-water,3.25,0.6885572139303482
+Available heat output,Air-water,3.5,0.7014925373134329
+Available heat output,Air-water,3.75,0.718407960199005
+Available heat output,Air-water,4.0,0.7333333333333334
+Available heat output,Air-water,4.25,0.7482587064676617
+Available heat output,Air-water,4.5,0.76318407960199
+Available heat output,Air-water,4.75,0.7751243781094528
+Available heat output,Air-water,5.0,0.7950248756218905
+Available heat output,Air-water,5.25,0.8099502487562189
+Available heat output,Air-water,5.5,0.826865671641791
+Available heat output,Air-water,5.75,0.8378109452736318
+Available heat output,Air-water,6.0,0.8587064676616916
+Available heat output,Air-water,6.25,0.872636815920398
+Available heat output,Air-water,6.5,0.8885572139303483
+Available heat output,Air-water,6.75,0.8895522388059701
+Available heat output,Air-water,7.0,0.918407960199005
+Available heat output,Air-water,7.25,0.9273631840796019
+Available heat output,Air-water,7.5,0.9383084577114428
+Available heat output,Air-water,7.75,0.9422885572139303
+Available heat output,Air-water,8.0,0.9482587064676616
+Available heat output,Air-water,8.25,0.9582089552238806
+Available heat output,Air-water,8.5,0.9651741293532338
+Available heat output,Air-water,8.75,0.972139303482587
+Available heat output,Air-water,9.0,0.9781094527363184
+Available heat output,Air-water,9.25,0.982089552238806
+Available heat output,Air-water,9.5,0.9850746268656716
+Available heat output,Air-water,9.75,1.0139303482587065
+Available heat output,Air-water,10.0,1.0189054726368159
+Available heat output,Air-water,10.25,1.0208955223880598
+Available heat output,Air-water,10.5,1.0228855721393035
+Available heat output,Air-water,10.75,1.0338308457711443
+Available heat output,Air-water,11.0,1.0407960199004975
+Available heat output,Air-water,11.25,1.0477611940298508
+Available heat output,Air-water,11.5,1.0557213930348257
+Available heat output,Air-water,11.75,1.063681592039801
+Available heat output,Air-water,12.0,1.0706467661691543
+Available heat output,Air-water,12.25,1.0776119402985076
+Available heat output,Air-water,12.5,1.0865671641791046
+Available heat output,Air-water,12.75,1.0935323383084576
+Available heat output,Air-water,13.0,1.100497512437811
+Available heat output,Air-water,13.25,1.1074626865671642
+Available heat output,Air-water,13.5,1.1164179104477612
+Available heat output,Air-water,13.75,1.1233830845771144
+Available heat output,Air-water,14.0,1.1313432835820896
+Available heat output,Air-water,14.25,1.1373134328358208
+Available heat output,Air-water,14.5,1.1462686567164178
+Available heat output,Air-water,14.75,1.153233830845771
+Available heat output,Air-water,15.0,1.1601990049751243
+Available heat output,Air-water,15.25,1.1611940298507464
+Available heat output,Air-water,15.5,1.1611940298507464
+Available heat output,Air-water,15.75,1.1611940298507464
+Available heat output,Air-water,16.0,1.1611940298507464
+Available heat output,Air-water,16.25,1.1611940298507464
+Available heat output,Air-water,16.5,1.1611940298507464
+Available heat output,Air-water,16.75,1.1611940298507464
+Available heat output,Air-water,17.0,1.1611940298507464
+Available heat output,Air-water,17.25,1.1611940298507464
+Available heat output,Air-water,17.5,
+Available heat output,Air-water,17.75,1.1611940298507464
+Available heat output,Air-water,18.0,1.1611940298507464
+Available heat output,Air-water,18.25,1.1611940298507464
+Available heat output,Air-water,18.5,
+Available heat output,Air-water,18.75,1.1611940298507464
+Available heat output,Air-water,19.0,1.1611940298507464
+Available heat output,Air-water,19.25,1.1611940298507464
+Available heat output,Air-water,19.5,1.1611940298507464
+Available heat output,Air-water,19.75,1.1611940298507464
+Available heat output,Air-water,20.0,1.1611940298507464
+Available heat output,Air-water,20.25,1.1671641791044776
+Available heat output,Air-water,20.5,1.1611940298507464
+Available heat output,Air-water,20.75,1.1611940298507464
+Available heat output,Air-water,21.0,1.1611940298507464
+Available heat output,Air-water,21.25,1.1671641791044776
+Available heat output,Air-water,21.5,
+Available heat output,Air-water,21.75,
+Available heat output,Air-water,22.0,1.1611940298507464
+Available heat output,Air-air,-8.75,0.5611940298507463
+Available heat output,Air-air,-8.5,0.5611940298507463
+Available heat output,Air-air,-8.25,
+Available heat output,Air-air,-8.0,
+Available heat output,Air-air,-7.75,0.5691542288557214
+Available heat output,Air-air,-7.5,0.5701492537313433
+Available heat output,Air-air,-7.25,0.5771144278606966
+Available heat output,Air-air,-7.0,0.5791044776119403
+Available heat output,Air-air,-6.75,0.5840796019900498
+Available heat output,Air-air,-6.5,0.5880597014925373
+Available heat output,Air-air,-6.25,0.5900497512437811
+Available heat output,Air-air,-6.0,0.5950248756218905
+Available heat output,Air-air,-5.75,0.5990049751243781
+Available heat output,Air-air,-5.5,0.6039800995024875
+Available heat output,Air-air,-5.25,0.6079601990049751
+Available heat output,Air-air,-5.0,0.6109452736318408
+Available heat output,Air-air,-4.75,0.6159203980099502
+Available heat output,Air-air,-4.5,0.6199004975124378
+Available heat output,Air-air,-4.25,0.6149253731343284
+Available heat output,Air-air,-4.0,
+Available heat output,Air-air,-3.75,0.6298507462686567
+Available heat output,Air-air,-3.5,0.6358208955223881
+Available heat output,Air-air,-3.25,0.6378109452736318
+Available heat output,Air-air,-3.0,0.6427860696517413
+Available heat output,Air-air,-2.75,0.6457711442786069
+Available heat output,Air-air,-2.5,0.6497512437810945
+Available heat output,Air-air,-2.25,0.6547263681592039
+Available heat output,Air-air,-2.0,0.6577114427860696
+Available heat output,Air-air,-1.75,0.6606965174129353
+Available heat output,Air-air,-1.5,0.6646766169154229
+Available heat output,Air-air,-1.25,0.6696517412935323
+Available heat output,Air-air,-1.0,0.6716417910447761
+Available heat output,Air-air,-0.75,0.6766169154228856
+Available heat output,Air-air,-0.5,0.6805970149253731
+Available heat output,Air-air,-0.25,0.6845771144278607
+Available heat output,Air-air,0.0,0.6885572139303482
+Available heat output,Air-air,0.25,0.691542288557214
+Available heat output,Air-air,0.5,0.6945273631840796
+Available heat output,Air-air,0.75,0.6995024875621891
+Available heat output,Air-air,1.0,0.7034825870646766
+Available heat output,Air-air,1.25,0.7064676616915423
+Available heat output,Air-air,1.5,0.7134328358208955
+Available heat output,Air-air,1.75,0.7154228855721393
+Available heat output,Air-air,2.0,0.7213930348258706
+Available heat output,Air-air,2.25,0.7333333333333334
+Available heat output,Air-air,2.5,0.7472636815920398
+Available heat output,Air-air,2.75,0.7601990049751244
+Available heat output,Air-air,3.0,0.7701492537313432
+Available heat output,Air-air,3.25,0.791044776119403
+Available heat output,Air-air,3.5,0.8029850746268656
+Available heat output,Air-air,3.75,0.817910447761194
+Available heat output,Air-air,4.0,0.8318407960199006
+Available heat output,Air-air,4.25,0.844776119402985
+Available heat output,Air-air,4.5,0.8587064676616916
+Available heat output,Air-air,4.75,0.8696517412935323
+Available heat output,Air-air,5.0,0.8875621890547263
+Available heat output,Air-air,5.25,0.900497512437811
+Available heat output,Air-air,5.5,0.9164179104477612
+Available heat output,Air-air,5.75,0.9253731343283582
+Available heat output,Air-air,6.0,0.945273631840796
+Available heat output,Air-air,6.25,0.9572139303482587
+Available heat output,Air-air,6.5,0.972139303482587
+Available heat output,Air-air,6.75,0.9711442786069652
+Available heat output,Air-air,7.0,0.9970149253731343
+Available heat output,Air-air,7.25,1.0009950248756219
+Available heat output,Air-air,7.5,1.0
+Available heat output,Air-air,7.75,1.0
+Available heat output,Air-air,8.0,1.0
+Available heat output,Air-air,8.25,1.0
+Available heat output,Air-air,8.5,1.0
+Available heat output,Air-air,8.75,1.0
+Available heat output,Air-air,9.0,1.0
+Available heat output,Air-air,9.25,1.0
+Available heat output,Air-air,9.5,1.0
+Available heat output,Air-air,9.75,1.0
+Available heat output,Air-air,10.0,1.0
+Available heat output,Air-air,10.25,1.0
+Available heat output,Air-air,10.5,1.0
+Available heat output,Air-air,10.75,1.0
+Available heat output,Air-air,11.0,1.0
+Available heat output,Air-air,11.25,1.0
+Available heat output,Air-air,11.5,1.0
+Available heat output,Air-air,11.75,1.0
+Available heat output,Air-air,12.0,1.0
+Available heat output,Air-air,12.25,1.0
+Available heat output,Air-air,12.5,1.0
+Available heat output,Air-air,12.75,1.0
+Available heat output,Air-air,13.0,1.0
+Available heat output,Air-air,13.25,1.0
+Available heat output,Air-air,13.5,1.0
+Available heat output,Air-air,13.75,1.0
+Available heat output,Air-air,14.0,1.0
+Available heat output,Air-air,14.25,1.0
+Available heat output,Air-air,14.5,1.0
+Available heat output,Air-air,14.75,1.0
+Available heat output,Air-air,15.0,1.0
+Available heat output,Air-air,15.25,1.0
+Available heat output,Air-air,15.5,1.0
+Available heat output,Air-air,15.75,1.0
+Available heat output,Air-air,16.0,1.0
+Available heat output,Air-air,16.25,1.0
+Available heat output,Air-air,16.5,1.0
+Available heat output,Air-air,16.75,1.0
+Available heat output,Air-air,17.0,1.0
+Available heat output,Air-air,17.25,1.0
+Available heat output,Air-air,17.5,
+Available heat output,Air-air,17.75,1.0009950248756219
+Available heat output,Air-air,18.0,1.0
+Available heat output,Air-air,18.25,1.0
+Available heat output,Air-air,18.5,
+Available heat output,Air-air,18.75,1.0
+Available heat output,Air-air,19.0,1.0
+Available heat output,Air-air,19.25,1.0
+Available heat output,Air-air,19.5,1.0
+Available heat output,Air-air,19.75,1.0
+Available heat output,Air-air,20.0,1.0
+Available heat output,Air-air,20.25,1.0059701492537312
+Available heat output,Air-air,20.5,1.0
+Available heat output,Air-air,20.75,1.0
+Available heat output,Air-air,21.0,1.0
+Available heat output,Air-air,21.25,1.0059701492537312
+Available heat output,Air-air,21.5,
+Available heat output,Air-air,21.75,
+Available heat output,Air-air,22.0,1.0

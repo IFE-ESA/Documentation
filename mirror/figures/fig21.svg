@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="324pt" viewBox="0 0 576 324" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-26T15:13:03.817757</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324 
+L 576 324 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_2">
+    <path d="M 206.534797 181.756106 
+C 209.638745 171.931053 210.383979 161.511388 208.70987 151.344601 
+C 207.035764 141.177814 202.988978 131.547222 196.898655 123.236136 
+C 190.808333 114.92505 182.844201 108.165073 173.654015 103.506032 
+C 164.463829 98.846991 154.303695 96.418716 143.999997 96.418716 
+L 144 162 
+z
+" style="fill: #257de0; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 177.176088 218.570769 
+C 184.119726 214.498653 190.254661 209.182697 195.273514 202.889257 
+C 200.292366 196.595818 204.109881 189.431785 206.534797 181.756106 
+L 144 162 
+z
+" style="fill: #f47230; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 91.101345 200.76386 
+C 100.695997 213.857088 114.81827 222.93293 130.714055 226.221403 
+C 146.609839 229.509881 163.173954 226.782361 177.176088 218.570769 
+L 144 162 
+z
+" style="fill: #00b894; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 78.541492 166.011073 
+C 78.923995 172.253277 80.197433 178.408793 82.323072 184.290382 
+C 84.448712 190.17197 87.404777 195.719381 91.101345 200.76386 
+L 144 162 
+z
+" style="fill: #f2a600; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 80.71142 144.811041 
+C 79.775825 148.255842 79.123039 151.771288 78.759573 155.322328 
+C 78.396107 158.873368 78.323166 162.448163 78.541492 166.011073 
+L 144 162 
+z
+" style="fill: #ee7fac; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 89.56424 125.426062 
+C 87.573518 128.389003 85.828028 131.509538 84.345164 134.756554 
+C 82.8623 138.003569 81.647016 141.366241 80.71142 144.811041 
+L 144 162 
+z
+" style="fill: #008a17; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 104.165166 109.903062 
+C 101.329524 112.071274 98.675633 114.467398 96.229952 117.067525 
+C 93.784271 119.667652 91.554963 122.463118 89.56424 125.426062 
+L 144 162 
+z
+" style="fill: #6a4ce2; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 144.000001 96.418716 
+C 136.848978 96.418716 129.745876 97.58834 122.972404 99.881201 
+C 116.198932 102.174061 109.845846 105.55945 104.165166 109.903062 
+L 144 162 
+z
+" style="fill: #ec4647; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 203.614164 122.2368 
+Q 200.25641 122.73647 196.898655 123.23614 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: start" x="205.616355" y="119.331291" transform="rotate(-0 205.616355 119.331291)">ALUminium, 23</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 201.72001 204.374013 
+Q 198.496762 203.631637 195.273514 202.889261 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: start" x="203.723387" y="212.11125" transform="rotate(-0 203.723387 212.11125)">METals, 9</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 117.087847 230.449969 
+Q 123.900951 228.335686 130.714055 226.221403 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="128.524531" y="239.288528" transform="rotate(-0 128.524531 239.288528)">CHEMicals, 18</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 74.160225 185.26121 
+Q 78.241649 184.775796 82.323072 184.290382 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="72.158714" y="190.447272" transform="rotate(-0 72.158714 190.447272)">WOOD, 7</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 70.004559 155.054865 
+Q 74.382066 155.188596 78.759573 155.322328 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="68.00795" y="156.705285" transform="rotate(-0 68.00795 156.705285)">MINerals, 4</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 76.514829 133.984075 
+Q 80.429992 134.370321 84.345156 134.756567 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="74.514044" y="132.750288" transform="rotate(-0 74.514044 132.750288)">CONstruction, 4</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 90.360519 115.985531 
+Q 93.29524 116.526524 96.22996 117.067517 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="88.357462" y="112.146084" transform="rotate(-0 88.357462 112.146084)">AGRiculture, 4</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 100.978749 95.999159 
+Q 111.975562 97.940186 122.972375 99.881213 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="119.507023" y="92.127476" transform="rotate(-0 119.507023 92.127476)">OTHer manufacturing, 8</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #191919; font: 10px 'DejaVu Sans'; text-anchor: middle" x="144" y="70.744331" transform="rotate(-0 144 70.744331)">All energy</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_18">
+    <path d="M 452.665201 224.240293 
+C 467.446831 219.332455 480.007348 209.315777 488.081361 195.99685 
+C 496.155373 182.677923 499.226435 166.908681 496.740649 151.533233 
+C 494.254866 136.157785 486.371239 122.159611 474.511647 112.063394 
+C 462.652056 101.967176 447.575091 96.418716 431.999997 96.418716 
+L 432 162 
+z
+" style="fill: #257de0; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 411.334803 224.240297 
+C 417.999813 226.453231 424.977224 227.581284 432.000005 227.581284 
+C 439.022786 227.581284 446.000191 226.453227 452.665201 224.240293 
+L 432 162 
+z
+" style="fill: #f47230; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 368.062973 176.593194 
+C 370.57158 187.584135 375.872369 197.74476 383.451614 206.090354 
+C 391.030859 214.435949 400.635534 220.687895 411.334803 224.240297 
+L 432 162 
+z
+" style="fill: #00b894; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 369.129334 143.340307 
+C 367.53202 148.722191 366.632348 154.286977 366.452411 159.898012 
+C 366.272475 165.509047 366.813759 171.120027 368.062973 176.593194 
+L 432 162 
+z
+" style="fill: #f2a600; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 372.031654 135.453771 
+C 371.464274 136.735489 370.938138 138.03506 370.454046 139.350495 
+C 369.969954 140.665931 369.528152 141.996557 369.129334 143.340307 
+L 432 162 
+z
+" style="fill: #ee7fac; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 375.918647 128.003139 
+C 375.192024 129.201775 374.504018 130.423402 373.855687 131.666131 
+C 373.207357 132.90886 372.599031 134.172056 372.031654 135.453771 
+L 432 162 
+z
+" style="fill: #008a17; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 386.376247 114.889728 
+C 384.361934 116.840478 382.474807 118.918416 380.72649 121.110735 
+C 378.978174 123.303053 377.372264 125.605248 375.918647 128.003139 
+L 432 162 
+z
+" style="fill: #6a4ce2; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 432.000001 96.418716 
+C 423.564787 96.418716 415.208267 98.046149 407.389524 101.211604 
+C 399.570782 104.377059 392.435677 109.021497 386.376247 114.889728 
+L 432 162 
+z
+" style="fill: #ec4647; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 505.410601 151.200651 
+Q 501.075625 151.366942 496.740649 151.533234 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: start" x="507.409906" y="152.291749" transform="rotate(-0 507.409906 152.291749)">ALUminium; 22</text>
+   </g>
+   <g id="patch_27">
+    <path d="M 423.392198 232.033956 
+Q 427.696098 229.80762 431.999997 227.581284 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="431.999997" y="240.872512" transform="rotate(-0 431.999997 240.872512)">METals; 5</text>
+   </g>
+   <g id="patch_28">
+    <path d="M 377.453706 207.26382 
+Q 380.45266 206.677087 383.451614 206.090354 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="375.45084" y="215.839879" transform="rotate(-0 375.45084 215.839879)">CHEMicals; 8</text>
+   </g>
+   <g id="patch_29">
+    <path d="M 357.650703 159.801558 
+Q 362.051557 159.849785 366.452411 159.898012 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="355.650171" y="162.035042" transform="rotate(-0 355.650171 162.035042)">WOOD; 4</text>
+   </g>
+   <g id="patch_30">
+    <path d="M 362.311505 138.49434 
+Q 366.382775 138.922418 370.454046 139.350495 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="360.311273" y="138.101295" transform="rotate(-0 360.311273 138.101295)">MINerals; 1</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 366.274843 130.830432 
+Q 370.065261 131.248288 373.85568 131.666144 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="364.273501" y="129.150564" transform="rotate(-0 364.273501 129.150564)">CONstruction; 1</text>
+   </g>
+   <g id="patch_32">
+    <path d="M 374.27417 120.045909 
+Q 377.50033 120.578322 380.72649 121.110735 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_16">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="372.276617" y="116.855621" transform="rotate(-0 372.276617 116.855621)">AGRiculture; 2</text>
+   </g>
+   <g id="patch_33">
+    <path d="M 385.93446 97.548446 
+Q 396.661977 99.380031 407.389495 101.211616 
+" style="fill: none; stroke: #9a9a9a; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="fill: #191919; font: 9px 'DejaVu Sans'; text-anchor: end" x="403.333684" y="93.677132" transform="rotate(-0 403.333684 93.677132)">OTHer manufacturing; 6</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #191919; font: 10px 'DejaVu Sans'; text-anchor: middle" x="432" y="70.744331" transform="rotate(-0 432 70.744331)">Electricity</text>
+   </g>
+  </g>
+ </g>
+</svg>
